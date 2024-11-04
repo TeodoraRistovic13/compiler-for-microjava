@@ -1,0 +1,313 @@
+INFO  21:09:35,381 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:09:35,460 - #2 program
+INFO  21:09:35,460 - #47 MJProgram
+INFO  21:09:35,461 - #17 namespace
+INFO  21:09:35,463 - #47 Podaci
+INFO  21:09:35,463 - #42 {
+INFO  21:09:35,465 - #6 const
+INFO  21:09:35,466 - #47 int
+INFO  21:09:35,466 - #47 a
+INFO  21:09:35,467 - #31 =
+INFO  21:09:35,468 - #46 3
+INFO  21:09:35,468 - #34 ;
+INFO  21:09:35,469 - #47 int
+INFO  21:09:35,470 - #47 b
+INFO  21:09:35,470 - #34 ;
+INFO  21:09:35,470 - #47 int
+INFO  21:09:35,471 - #47 niz
+INFO  21:09:35,471 - #40 [
+INFO  21:09:35,471 - #41 ]
+INFO  21:09:35,471 - #34 ;
+INFO  21:09:35,472 - #42 {
+INFO  21:09:35,472 - #47 int
+INFO  21:09:35,473 - #47 m1
+INFO  21:09:35,474 - #38 (
+INFO  21:09:35,475 - #39 )
+INFO  21:09:35,476 - #47 int
+INFO  21:09:35,478 - #47 a1
+INFO  21:09:35,478 - #36 ,
+INFO  21:09:35,478 - #47 b1
+INFO  21:09:35,479 - #34 ;
+INFO  21:09:35,479 - #42 {
+INFO  21:09:35,480 - #11 return
+INFO  21:09:35,482 - #46 2
+INFO  21:09:35,482 - #34 ;
+INFO  21:09:35,485 - #43 }
+INFO  21:09:35,485 - #43 }
+INFO  21:09:35,487 - #43 }
+INFO  21:09:35,487 - #47 int
+INFO  21:09:35,489 - #47 x
+INFO  21:09:35,489 - #34 ;
+INFO  21:09:35,490 - #47 int
+INFO  21:09:35,490 - #47 y
+INFO  21:09:35,490 - #34 ;
+INFO  21:09:35,491 - #47 char
+INFO  21:09:35,491 - #47 slovo
+INFO  21:09:35,491 - #34 ;
+INFO  21:09:35,491 - #47 bool
+INFO  21:09:35,491 - #47 uslov
+INFO  21:09:35,491 - #34 ;
+INFO  21:09:35,491 - #47 int
+INFO  21:09:35,491 - #47 brojevi
+INFO  21:09:35,492 - #40 [
+INFO  21:09:35,492 - #41 ]
+INFO  21:09:35,492 - #34 ;
+INFO  21:09:35,492 - #47 char
+INFO  21:09:35,493 - #47 slova
+INFO  21:09:35,493 - #40 [
+INFO  21:09:35,493 - #41 ]
+INFO  21:09:35,493 - #34 ;
+INFO  21:09:35,493 - #42 {
+INFO  21:09:35,493 - #12 void
+INFO  21:09:35,494 - #47 main
+INFO  21:09:35,495 - #38 (
+INFO  21:09:35,496 - #39 )
+INFO  21:09:35,496 - #42 {
+INFO  21:09:35,496 - #10 read
+INFO  21:09:35,496 - #38 (
+INFO  21:09:35,497 - #47 x
+INFO  21:09:35,497 - #39 )
+INFO  21:09:35,497 - #34 ;
+INFO  21:09:35,497 - #9 print
+INFO  21:09:35,497 - #38 (
+INFO  21:09:35,497 - #47 x
+INFO  21:09:35,498 - #39 )
+INFO  21:09:35,500 - #34 ;
+INFO  21:09:35,500 - #11 return
+INFO  21:09:35,500 - #34 ;
+INFO  21:09:35,500 - #43 }
+INFO  21:09:35,502 - #43 }
+INFO  21:09:35,510 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NamespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Podaci
+      ) [NamespaceName]
+      NamespaceDecls(
+        NamespaceDecls(
+          NamespaceDecls(
+            NoNamespaceDecls(
+            ) [NoNamespaceDecls]
+            NamespaceConstDecl(
+              Type(
+               int
+              ) [Type]
+              SingleConstDecl(
+                ConstDecl(
+                 a
+                  NumConst(
+                   3
+                  ) [NumConst]
+                ) [ConstDecl]
+              ) [SingleConstDecl]
+            ) [NamespaceConstDecl]
+          ) [NamespaceDecls]
+          NamespaceVarDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDecl(
+              VarNameDecl(
+               b
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+          ) [NamespaceVarDecl]
+        ) [NamespaceDecls]
+        NamespaceVarDecl(
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarArrayNameDecl(
+             niz
+            ) [VarArrayNameDecl]
+          ) [SingleVarDecl]
+        ) [NamespaceVarDecl]
+      ) [NamespaceDecls]
+      MethodDeclarations(
+        NoMethodDecl(
+        ) [NoMethodDecl]
+        MethodDecl(
+          MethodTypeName(
+            MethRetType(
+              Type(
+               int
+              ) [Type]
+            ) [MethRetType]
+           m1
+          ) [MethodTypeName]
+          NoFormParam(
+          ) [NoFormParam]
+          MethodVars(
+            NoMethVar(
+            ) [NoMethVar]
+            Type(
+             int
+            ) [Type]
+            MultipleVarDecls(
+              SingleVarDecl(
+                VarNameDecl(
+                 a1
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+              VarNameDecl(
+               b1
+              ) [VarNameDecl]
+            ) [MultipleVarDecls]
+          ) [MethodVars]
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            ReturnExpr(
+              PosTermExpr(
+                FactorTerm(
+                  NumFactor(
+                   2
+                  ) [NumFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+            ) [ReturnExpr]
+          ) [Statements]
+        ) [MethodDecl]
+      ) [MethodDeclarations]
+    ) [Namespace]
+  ) [NamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          ProgramDecls(
+            ProgramDecls(
+              NoProgramDecls(
+              ) [NoProgramDecls]
+              ProgramVarDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleVarDecl(
+                  VarNameDecl(
+                   x
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+              ) [ProgramVarDecl]
+            ) [ProgramDecls]
+            ProgramVarDecl(
+              Type(
+               int
+              ) [Type]
+              SingleVarDecl(
+                VarNameDecl(
+                 y
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+            ) [ProgramVarDecl]
+          ) [ProgramDecls]
+          ProgramVarDecl(
+            Type(
+             char
+            ) [Type]
+            SingleVarDecl(
+              VarNameDecl(
+               slovo
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+          ) [ProgramVarDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          Type(
+           bool
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             uslov
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarArrayNameDecl(
+           brojevi
+          ) [VarArrayNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       char
+      ) [Type]
+      SingleVarDecl(
+        VarArrayNameDecl(
+         slova
+        ) [VarArrayNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            ReadExpr(
+              DesigVar(
+               x
+              ) [DesigVar]
+            ) [ReadExpr]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                VarFactor(
+                  DesigVar(
+                   x
+                  ) [DesigVar]
+                ) [VarFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  21:09:35,516 - Deklarisana konstanta a na liniji 4
+INFO  21:09:35,516 - Deklarisana promenljiva Podaci::b na liniji 5
+INFO  21:09:35,517 - Deklarisana promenljiva Podaci::niz na liniji 6
+INFO  21:09:35,517 - Obradjuje se funkcija m1 na liniji 8
+INFO  21:09:35,517 - Deklarisana promenljiva Podaci::a1 na liniji 8
+INFO  21:09:35,517 - Deklarisana promenljiva Podaci::b1 na liniji 8
+INFO  21:09:35,517 - Deklarisana promenljiva x na liniji 13
+INFO  21:09:35,517 - Deklarisana promenljiva y na liniji 14
+INFO  21:09:35,517 - Deklarisana promenljiva slovo na liniji 15
+INFO  21:09:35,518 - Deklarisana promenljiva uslov na liniji 16
+INFO  21:09:35,518 - Deklarisana promenljiva brojevi na liniji 17
+INFO  21:09:35,520 - Deklarisana promenljiva slova na liniji 18
+INFO  21:09:35,520 - Obradjuje se funkcija main na liniji 21
+INFO  21:09:35,520 -  Print count calls = 0
+INFO  21:09:35,520 -  Deklarisanih promenljivih ima = 0
+INFO  21:09:35,525 - Uspesna semanticka analiza!!

@@ -1,0 +1,155 @@
+INFO  12:22:11,923 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\test3.mj
+INFO  12:22:11,992 - #2 program
+INFO  12:22:11,992 - #47 test3
+INFO  12:22:11,992 - #47 int
+INFO  12:22:11,996 - #47 a
+INFO  12:22:11,997 - #36 ,
+INFO  12:22:11,998 - #47 b
+INFO  12:22:11,999 - #34 ;
+INFO  12:22:12,000 - #47 int
+INFO  12:22:12,001 - #47 niz
+INFO  12:22:12,003 - #40 [
+INFO  12:22:12,003 - #41 ]
+INFO  12:22:12,004 - #34 ;
+INFO  12:22:12,004 - #47 char
+INFO  12:22:12,004 - #47 slovo
+INFO  12:22:12,005 - #34 ;
+INFO  12:22:12,005 - #47 bool
+INFO  12:22:12,005 - #47 boolOk
+INFO  12:22:12,005 - #34 ;
+INFO  12:22:12,006 - #6 const
+INFO  12:22:12,006 - #47 int
+INFO  12:22:12,007 - #47 N
+INFO  12:22:12,007 - #31 =
+INFO  12:22:12,007 - #46 10
+INFO  12:22:12,007 - #34 ;
+INFO  12:22:12,009 - #42 {
+INFO  12:22:12,009 - #47 int
+INFO  12:22:12,010 - #47 test
+INFO  12:22:12,010 - #38 (
+INFO  12:22:12,011 - #39 )
+INFO  12:22:12,012 - #42 {
+INFO  12:22:12,013 - #11 return
+INFO  12:22:12,014 - #46 5
+INFO  12:22:12,014 - #34 ;
+INFO  12:22:12,015 - #43 }
+INFO  12:22:12,015 - #43 }
+INFO  12:22:12,025 - Program(
+  ProgName(
+   test3
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          ProgramDecls(
+            NoProgramDecls(
+            ) [NoProgramDecls]
+            ProgramVarDecl(
+              Type(
+               int
+              ) [Type]
+              MultipleVarDecls(
+                SingleVarDecl(
+                  VarNameDecl(
+                   a
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+                VarNameDecl(
+                 b
+                ) [VarNameDecl]
+              ) [MultipleVarDecls]
+            ) [ProgramVarDecl]
+          ) [ProgramDecls]
+          ProgramVarDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDecl(
+              VarArrayNameDecl(
+               niz
+              ) [VarArrayNameDecl]
+            ) [SingleVarDecl]
+          ) [ProgramVarDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          Type(
+           char
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             slovo
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        Type(
+         bool
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           boolOk
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramConstDecl(
+      Type(
+       int
+      ) [Type]
+      SingleConstDecl(
+        ConstDecl(
+         N
+          NumConst(
+           10
+          ) [NumConst]
+        ) [ConstDecl]
+      ) [SingleConstDecl]
+    ) [ProgramConstDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetType(
+          Type(
+           int
+          ) [Type]
+        ) [MethRetType]
+       test
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        ReturnExpr(
+          PosTermExpr(
+            FactorTerm(
+              NumFactor(
+               5
+              ) [NumFactor]
+            ) [FactorTerm]
+          ) [PosTermExpr]
+        ) [ReturnExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  12:22:12,029 - Deklarisana promenljiva a na liniji 5
+INFO  12:22:12,029 - Deklarisana promenljiva b na liniji 5
+INFO  12:22:12,030 - Deklarisana promenljiva niz na liniji 6
+INFO  12:22:12,030 - Deklarisana promenljiva slovo na liniji 7
+INFO  12:22:12,030 - Deklarisana promenljiva boolOk na liniji 8
+INFO  12:22:12,030 - Deklarisana konstanta N na liniji 9
+INFO  12:22:12,030 - Obradjuje se funkcija test na liniji 11
+ERROR 12:22:12,031 - Greska : U programu ne postoji metoda main void tipa bez argumenata!
+INFO  12:22:12,031 -  Print count calls = 0
+INFO  12:22:12,031 -  Deklarisanih promenljivih ima = 0
+INFO  12:22:12,032 - Neuspesna semanticka analiza!!

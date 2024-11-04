@@ -1,0 +1,79 @@
+INFO  20:21:43,212 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:21:43,284 - #2 program
+INFO  20:21:43,285 - #47 MJProgram
+INFO  20:21:43,285 - #47 int
+INFO  20:21:43,288 - #47 x
+INFO  20:21:43,289 - #34 ;
+INFO  20:21:43,290 - #47 int
+INFO  20:21:43,291 - #47 y
+INFO  20:21:43,292 - #34 ;
+INFO  20:21:43,292 - #42 {
+INFO  20:21:43,292 - #12 void
+INFO  20:21:43,293 - #47 main
+INFO  20:21:43,294 - #38 (
+INFO  20:21:43,296 - #39 )
+INFO  20:21:43,297 - #42 {
+INFO  20:21:43,299 - #11 return
+INFO  20:21:43,301 - #34 ;
+INFO  20:21:43,301 - #43 }
+INFO  20:21:43,303 - #43 }
+INFO  20:21:43,310 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           x
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         y
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:21:43,316 - Deklarisana promenljiva x na liniji 2
+INFO  20:21:43,317 - Deklarisana promenljiva y na liniji 2
+INFO  20:21:43,317 - Obradjuje se funkcija main na liniji 5
+INFO  20:21:43,317 -  Print count calls = 0
+INFO  20:21:43,317 -  Deklarisanih promenljivih ima = 0
+INFO  20:21:43,322 - Uspesna semanticka analiza!!

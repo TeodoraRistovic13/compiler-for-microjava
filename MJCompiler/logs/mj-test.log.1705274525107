@@ -1,0 +1,53 @@
+INFO  00:21:43,708 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:21:43,787 - #2 program
+INFO  00:21:43,788 - #48 test2
+INFO  00:21:43,788 - #48 int
+INFO  00:21:43,792 - #22 %
+ERROR 00:21:43,793 - 
+Sintaksna greska na liniji 2
+INFO  00:21:43,793 - #31 =
+INFO  00:21:43,793 - #47 3
+INFO  00:21:43,793 - #34 ;
+INFO  00:21:43,795 - #42 {
+INFO  00:21:43,795 - #12 void
+INFO  00:21:43,795 - #48 main
+ERROR 00:21:43,795 - Izvrsen oporavak do ; u liniji 2
+INFO  00:21:43,800 - #38 (
+INFO  00:21:43,801 - #39 )
+INFO  00:21:43,802 - #42 {
+INFO  00:21:43,803 - #43 }
+INFO  00:21:43,804 - #43 }
+INFO  00:21:43,814 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ErrorProgDecl(
+    ) [ErrorProgDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      NoStmt(
+      ) [NoStmt]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:21:43,821 - Obradjuje se funkcija main na liniji 6
+INFO  00:21:43,821 -  Print count calls = 0
+INFO  00:21:43,821 -  Deklarisanih promenljivih ima = 0
+INFO  00:21:43,827 - Uspesna semanticka analiza!!

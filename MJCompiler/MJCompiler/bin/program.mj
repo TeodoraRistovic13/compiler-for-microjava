@@ -1,0 +1,21 @@
+program MJProgram
+	int x;
+{
+	void main(){
+		
+		x = 3;
+		
+		if(x < 3){
+			print(x);
+		}
+		
+		x--;
+		if(x < 3){
+			print(x);
+		}
+		
+		
+		return;
+	}
+
+}

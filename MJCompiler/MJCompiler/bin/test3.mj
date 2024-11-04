@@ -1,0 +1,52 @@
+//Test Statements..
+//for, break, continue, read, print, return, if, ifElse
+
+program test3
+
+
+const int N = 10;
+{
+	
+	void main()
+		int i, j, temp, cnt;
+		int arr[];
+		bool uslov;
+	{
+	
+		cnt = 0;
+		
+		arr = new int[N];
+		for(i = 0; i < N; i++){
+			arr[i] = i;
+		}
+		
+		for(i = 0; i < N; i++){
+			
+			for(j = 0;; j++){
+				
+				if(j < i) continue;
+				
+				if(i % 2 == 0){
+					temp = arr[i];
+					print(temp); 
+				}
+				else{
+					cnt++;
+				}
+				
+				if(j == N) break; 
+				
+			
+			}
+		
+		}
+		
+		print(i);
+		read(j);
+		read(arr[4]);
+		return;
+	}
+	
+	
+}
+

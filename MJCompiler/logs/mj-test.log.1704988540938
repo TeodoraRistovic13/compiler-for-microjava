@@ -1,0 +1,741 @@
+INFO  16:54:26,466 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\test3.mj
+INFO  16:54:26,537 - #2 program
+INFO  16:54:26,537 - #47 test3
+INFO  16:54:26,538 - #6 const
+INFO  16:54:26,541 - #47 int
+INFO  16:54:26,542 - #47 N
+INFO  16:54:26,543 - #31 =
+INFO  16:54:26,543 - #46 10
+INFO  16:54:26,544 - #34 ;
+INFO  16:54:26,545 - #42 {
+INFO  16:54:26,546 - #12 void
+INFO  16:54:26,547 - #47 main
+INFO  16:54:26,549 - #38 (
+INFO  16:54:26,551 - #39 )
+INFO  16:54:26,552 - #47 int
+INFO  16:54:26,553 - #47 i
+INFO  16:54:26,553 - #36 ,
+INFO  16:54:26,554 - #47 j
+INFO  16:54:26,554 - #36 ,
+INFO  16:54:26,554 - #47 temp
+INFO  16:54:26,554 - #34 ;
+INFO  16:54:26,554 - #47 int
+INFO  16:54:26,555 - #47 arr
+INFO  16:54:26,555 - #40 [
+INFO  16:54:26,556 - #41 ]
+INFO  16:54:26,556 - #34 ;
+INFO  16:54:26,556 - #47 bool
+INFO  16:54:26,556 - #47 uslov
+INFO  16:54:26,557 - #34 ;
+INFO  16:54:26,557 - #42 {
+INFO  16:54:26,557 - #47 arr
+INFO  16:54:26,558 - #31 =
+INFO  16:54:26,559 - #8 new
+INFO  16:54:26,559 - #47 int
+INFO  16:54:26,559 - #40 [
+INFO  16:54:26,559 - #47 N
+INFO  16:54:26,559 - #41 ]
+INFO  16:54:26,560 - #34 ;
+INFO  16:54:26,561 - #15 for
+INFO  16:54:26,561 - #38 (
+INFO  16:54:26,562 - #47 i
+INFO  16:54:26,562 - #31 =
+INFO  16:54:26,562 - #46 0
+INFO  16:54:26,563 - #34 ;
+INFO  16:54:26,563 - #47 i
+INFO  16:54:26,563 - #27 <
+INFO  16:54:26,563 - #47 N
+INFO  16:54:26,566 - #34 ;
+INFO  16:54:26,567 - #47 i
+INFO  16:54:26,567 - #32 ++
+INFO  16:54:26,567 - #39 )
+INFO  16:54:26,568 - #42 {
+INFO  16:54:26,569 - #47 arr
+INFO  16:54:26,569 - #40 [
+INFO  16:54:26,569 - #47 i
+INFO  16:54:26,569 - #41 ]
+INFO  16:54:26,570 - #31 =
+INFO  16:54:26,570 - #47 i
+INFO  16:54:26,571 - #34 ;
+INFO  16:54:26,571 - #43 }
+INFO  16:54:26,572 - #15 for
+INFO  16:54:26,572 - #38 (
+INFO  16:54:26,573 - #47 i
+INFO  16:54:26,573 - #31 =
+INFO  16:54:26,573 - #46 0
+INFO  16:54:26,574 - #34 ;
+INFO  16:54:26,574 - #47 i
+INFO  16:54:26,574 - #27 <
+INFO  16:54:26,574 - #47 N
+INFO  16:54:26,574 - #34 ;
+INFO  16:54:26,574 - #47 i
+INFO  16:54:26,574 - #32 ++
+INFO  16:54:26,574 - #39 )
+INFO  16:54:26,575 - #42 {
+INFO  16:54:26,575 - #15 for
+INFO  16:54:26,575 - #38 (
+INFO  16:54:26,575 - #47 j
+INFO  16:54:26,575 - #31 =
+INFO  16:54:26,575 - #46 0
+INFO  16:54:26,575 - #34 ;
+INFO  16:54:26,576 - #34 ;
+INFO  16:54:26,577 - #47 j
+INFO  16:54:26,577 - #32 ++
+INFO  16:54:26,577 - #39 )
+INFO  16:54:26,577 - #42 {
+INFO  16:54:26,577 - #7 if
+INFO  16:54:26,578 - #38 (
+INFO  16:54:26,578 - #47 j
+INFO  16:54:26,578 - #27 <
+INFO  16:54:26,578 - #47 i
+INFO  16:54:26,578 - #39 )
+INFO  16:54:26,579 - #14 continue
+INFO  16:54:26,579 - #34 ;
+INFO  16:54:26,579 - #7 if
+INFO  16:54:26,580 - #38 (
+INFO  16:54:26,580 - #47 arr
+INFO  16:54:26,581 - #40 [
+INFO  16:54:26,581 - #47 i
+INFO  16:54:26,581 - #41 ]
+INFO  16:54:26,581 - #25 >
+INFO  16:54:26,582 - #47 arr
+INFO  16:54:26,584 - #40 [
+INFO  16:54:26,584 - #47 j
+INFO  16:54:26,584 - #41 ]
+INFO  16:54:26,584 - #39 )
+INFO  16:54:26,584 - #42 {
+INFO  16:54:26,585 - #47 temp
+INFO  16:54:26,585 - #31 =
+INFO  16:54:26,585 - #47 arr
+INFO  16:54:26,585 - #40 [
+INFO  16:54:26,585 - #47 i
+INFO  16:54:26,585 - #41 ]
+INFO  16:54:26,585 - #34 ;
+INFO  16:54:26,586 - #47 arr
+INFO  16:54:26,586 - #40 [
+INFO  16:54:26,586 - #47 i
+INFO  16:54:26,586 - #41 ]
+INFO  16:54:26,586 - #31 =
+INFO  16:54:26,586 - #47 arr
+INFO  16:54:26,586 - #40 [
+INFO  16:54:26,587 - #47 j
+INFO  16:54:26,587 - #41 ]
+INFO  16:54:26,587 - #34 ;
+INFO  16:54:26,587 - #47 arr
+INFO  16:54:26,588 - #40 [
+INFO  16:54:26,588 - #47 j
+INFO  16:54:26,588 - #41 ]
+INFO  16:54:26,588 - #31 =
+INFO  16:54:26,588 - #47 temp
+INFO  16:54:26,588 - #34 ;
+INFO  16:54:26,588 - #43 }
+INFO  16:54:26,589 - #7 if
+INFO  16:54:26,589 - #38 (
+INFO  16:54:26,589 - #47 j
+INFO  16:54:26,589 - #23 ==
+INFO  16:54:26,589 - #47 N
+INFO  16:54:26,590 - #39 )
+INFO  16:54:26,590 - #3 break
+INFO  16:54:26,591 - #34 ;
+INFO  16:54:26,591 - #43 }
+INFO  16:54:26,592 - #43 }
+INFO  16:54:26,592 - #9 print
+INFO  16:54:26,592 - #38 (
+INFO  16:54:26,592 - #47 i
+INFO  16:54:26,592 - #39 )
+INFO  16:54:26,593 - #34 ;
+INFO  16:54:26,593 - #10 read
+INFO  16:54:26,594 - #38 (
+INFO  16:54:26,594 - #47 j
+INFO  16:54:26,594 - #39 )
+INFO  16:54:26,594 - #34 ;
+INFO  16:54:26,594 - #10 read
+INFO  16:54:26,594 - #38 (
+INFO  16:54:26,595 - #47 arr
+INFO  16:54:26,595 - #40 [
+INFO  16:54:26,595 - #46 4
+INFO  16:54:26,596 - #41 ]
+INFO  16:54:26,596 - #39 )
+INFO  16:54:26,596 - #34 ;
+INFO  16:54:26,597 - #11 return
+INFO  16:54:26,597 - #34 ;
+INFO  16:54:26,597 - #43 }
+INFO  16:54:26,598 - #43 }
+INFO  16:54:26,608 - Program(
+  ProgName(
+   test3
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramConstDecl(
+      Type(
+       int
+      ) [Type]
+      SingleConstDecl(
+        ConstDecl(
+         N
+          NumConst(
+           10
+          ) [NumConst]
+        ) [ConstDecl]
+      ) [SingleConstDecl]
+    ) [ProgramConstDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      MethodVars(
+        MethodVars(
+          MethodVars(
+            NoMethVar(
+            ) [NoMethVar]
+            Type(
+             int
+            ) [Type]
+            MultipleVarDecls(
+              MultipleVarDecls(
+                SingleVarDecl(
+                  VarNameDecl(
+                   i
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+                VarNameDecl(
+                 j
+                ) [VarNameDecl]
+              ) [MultipleVarDecls]
+              VarNameDecl(
+               temp
+              ) [VarNameDecl]
+            ) [MultipleVarDecls]
+          ) [MethodVars]
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarArrayNameDecl(
+             arr
+            ) [VarArrayNameDecl]
+          ) [SingleVarDecl]
+        ) [MethodVars]
+        Type(
+         bool
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           uslov
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [MethodVars]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    NoStmt(
+                    ) [NoStmt]
+                    DesignatorStmt(
+                      DesigStmtActions(
+                        DesigVar(
+                         arr
+                        ) [DesigVar]
+                        AssignExpr(
+                          PosTermExpr(
+                            FactorTerm(
+                              NewFactor(
+                                Type(
+                                 int
+                                ) [Type]
+                                PosTermExpr(
+                                  FactorTerm(
+                                    VarFactor(
+                                      DesigVar(
+                                       N
+                                      ) [DesigVar]
+                                    ) [VarFactor]
+                                  ) [FactorTerm]
+                                ) [PosTermExpr]
+                              ) [NewFactor]
+                            ) [FactorTerm]
+                          ) [PosTermExpr]
+                        ) [AssignExpr]
+                      ) [DesigStmtActions]
+                    ) [DesignatorStmt]
+                  ) [Statements]
+                  ForLoop(
+                    ForDesigStmts(
+                      SingleDesignatorStmt(
+                        DesigStmtActions(
+                          DesigVar(
+                           i
+                          ) [DesigVar]
+                          AssignExpr(
+                            PosTermExpr(
+                              FactorTerm(
+                                NumFactor(
+                                 0
+                                ) [NumFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                          ) [AssignExpr]
+                        ) [DesigStmtActions]
+                      ) [SingleDesignatorStmt]
+                    ) [ForDesigStmts]
+                    ForCondFactExpr(
+                      RelOpCondFact(
+                        PosTermExpr(
+                          FactorTerm(
+                            VarFactor(
+                              DesigVar(
+                               i
+                              ) [DesigVar]
+                            ) [VarFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                        LssOp(
+                        ) [LssOp]
+                        PosTermExpr(
+                          FactorTerm(
+                            VarFactor(
+                              DesigVar(
+                               N
+                              ) [DesigVar]
+                            ) [VarFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                      ) [RelOpCondFact]
+                    ) [ForCondFactExpr]
+                    ForDesigStmts(
+                      SingleDesignatorStmt(
+                        DesigStmtActions(
+                          DesigVar(
+                           i
+                          ) [DesigVar]
+                          DesigInc(
+                          ) [DesigInc]
+                        ) [DesigStmtActions]
+                      ) [SingleDesignatorStmt]
+                    ) [ForDesigStmts]
+                    ComplexStm(
+                      Statements(
+                        NoStmt(
+                        ) [NoStmt]
+                        DesignatorStmt(
+                          DesigStmtActions(
+                            DesigArray(
+                             arr
+                              PosTermExpr(
+                                FactorTerm(
+                                  VarFactor(
+                                    DesigVar(
+                                     i
+                                    ) [DesigVar]
+                                  ) [VarFactor]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                            ) [DesigArray]
+                            AssignExpr(
+                              PosTermExpr(
+                                FactorTerm(
+                                  VarFactor(
+                                    DesigVar(
+                                     i
+                                    ) [DesigVar]
+                                  ) [VarFactor]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                            ) [AssignExpr]
+                          ) [DesigStmtActions]
+                        ) [DesignatorStmt]
+                      ) [Statements]
+                    ) [ComplexStm]
+                  ) [ForLoop]
+                ) [Statements]
+                ForLoop(
+                  ForDesigStmts(
+                    SingleDesignatorStmt(
+                      DesigStmtActions(
+                        DesigVar(
+                         i
+                        ) [DesigVar]
+                        AssignExpr(
+                          PosTermExpr(
+                            FactorTerm(
+                              NumFactor(
+                               0
+                              ) [NumFactor]
+                            ) [FactorTerm]
+                          ) [PosTermExpr]
+                        ) [AssignExpr]
+                      ) [DesigStmtActions]
+                    ) [SingleDesignatorStmt]
+                  ) [ForDesigStmts]
+                  ForCondFactExpr(
+                    RelOpCondFact(
+                      PosTermExpr(
+                        FactorTerm(
+                          VarFactor(
+                            DesigVar(
+                             i
+                            ) [DesigVar]
+                          ) [VarFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                      LssOp(
+                      ) [LssOp]
+                      PosTermExpr(
+                        FactorTerm(
+                          VarFactor(
+                            DesigVar(
+                             N
+                            ) [DesigVar]
+                          ) [VarFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                    ) [RelOpCondFact]
+                  ) [ForCondFactExpr]
+                  ForDesigStmts(
+                    SingleDesignatorStmt(
+                      DesigStmtActions(
+                        DesigVar(
+                         i
+                        ) [DesigVar]
+                        DesigInc(
+                        ) [DesigInc]
+                      ) [DesigStmtActions]
+                    ) [SingleDesignatorStmt]
+                  ) [ForDesigStmts]
+                  ComplexStm(
+                    Statements(
+                      NoStmt(
+                      ) [NoStmt]
+                      ForLoop(
+                        ForDesigStmts(
+                          SingleDesignatorStmt(
+                            DesigStmtActions(
+                              DesigVar(
+                               j
+                              ) [DesigVar]
+                              AssignExpr(
+                                PosTermExpr(
+                                  FactorTerm(
+                                    NumFactor(
+                                     0
+                                    ) [NumFactor]
+                                  ) [FactorTerm]
+                                ) [PosTermExpr]
+                              ) [AssignExpr]
+                            ) [DesigStmtActions]
+                          ) [SingleDesignatorStmt]
+                        ) [ForDesigStmts]
+                        NoForCondFact(
+                        ) [NoForCondFact]
+                        ForDesigStmts(
+                          SingleDesignatorStmt(
+                            DesigStmtActions(
+                              DesigVar(
+                               j
+                              ) [DesigVar]
+                              DesigInc(
+                              ) [DesigInc]
+                            ) [DesigStmtActions]
+                          ) [SingleDesignatorStmt]
+                        ) [ForDesigStmts]
+                        ComplexStm(
+                          Statements(
+                            Statements(
+                              Statements(
+                                NoStmt(
+                                ) [NoStmt]
+                                IfStmt(
+                                  ConditionCondTerm(
+                                    CondTermFact(
+                                      RelOpCondFact(
+                                        PosTermExpr(
+                                          FactorTerm(
+                                            VarFactor(
+                                              DesigVar(
+                                               j
+                                              ) [DesigVar]
+                                            ) [VarFactor]
+                                          ) [FactorTerm]
+                                        ) [PosTermExpr]
+                                        LssOp(
+                                        ) [LssOp]
+                                        PosTermExpr(
+                                          FactorTerm(
+                                            VarFactor(
+                                              DesigVar(
+                                               i
+                                              ) [DesigVar]
+                                            ) [VarFactor]
+                                          ) [FactorTerm]
+                                        ) [PosTermExpr]
+                                      ) [RelOpCondFact]
+                                    ) [CondTermFact]
+                                  ) [ConditionCondTerm]
+                                  ContinueStmt(
+                                  ) [ContinueStmt]
+                                ) [IfStmt]
+                              ) [Statements]
+                              IfStmt(
+                                ConditionCondTerm(
+                                  CondTermFact(
+                                    RelOpCondFact(
+                                      PosTermExpr(
+                                        FactorTerm(
+                                          VarFactor(
+                                            DesigArray(
+                                             arr
+                                              PosTermExpr(
+                                                FactorTerm(
+                                                  VarFactor(
+                                                    DesigVar(
+                                                     i
+                                                    ) [DesigVar]
+                                                  ) [VarFactor]
+                                                ) [FactorTerm]
+                                              ) [PosTermExpr]
+                                            ) [DesigArray]
+                                          ) [VarFactor]
+                                        ) [FactorTerm]
+                                      ) [PosTermExpr]
+                                      GrtOp(
+                                      ) [GrtOp]
+                                      PosTermExpr(
+                                        FactorTerm(
+                                          VarFactor(
+                                            DesigArray(
+                                             arr
+                                              PosTermExpr(
+                                                FactorTerm(
+                                                  VarFactor(
+                                                    DesigVar(
+                                                     j
+                                                    ) [DesigVar]
+                                                  ) [VarFactor]
+                                                ) [FactorTerm]
+                                              ) [PosTermExpr]
+                                            ) [DesigArray]
+                                          ) [VarFactor]
+                                        ) [FactorTerm]
+                                      ) [PosTermExpr]
+                                    ) [RelOpCondFact]
+                                  ) [CondTermFact]
+                                ) [ConditionCondTerm]
+                                ComplexStm(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        NoStmt(
+                                        ) [NoStmt]
+                                        DesignatorStmt(
+                                          DesigStmtActions(
+                                            DesigVar(
+                                             temp
+                                            ) [DesigVar]
+                                            AssignExpr(
+                                              PosTermExpr(
+                                                FactorTerm(
+                                                  VarFactor(
+                                                    DesigArray(
+                                                     arr
+                                                      PosTermExpr(
+                                                        FactorTerm(
+                                                          VarFactor(
+                                                            DesigVar(
+                                                             i
+                                                            ) [DesigVar]
+                                                          ) [VarFactor]
+                                                        ) [FactorTerm]
+                                                      ) [PosTermExpr]
+                                                    ) [DesigArray]
+                                                  ) [VarFactor]
+                                                ) [FactorTerm]
+                                              ) [PosTermExpr]
+                                            ) [AssignExpr]
+                                          ) [DesigStmtActions]
+                                        ) [DesignatorStmt]
+                                      ) [Statements]
+                                      DesignatorStmt(
+                                        DesigStmtActions(
+                                          DesigArray(
+                                           arr
+                                            PosTermExpr(
+                                              FactorTerm(
+                                                VarFactor(
+                                                  DesigVar(
+                                                   i
+                                                  ) [DesigVar]
+                                                ) [VarFactor]
+                                              ) [FactorTerm]
+                                            ) [PosTermExpr]
+                                          ) [DesigArray]
+                                          AssignExpr(
+                                            PosTermExpr(
+                                              FactorTerm(
+                                                VarFactor(
+                                                  DesigArray(
+                                                   arr
+                                                    PosTermExpr(
+                                                      FactorTerm(
+                                                        VarFactor(
+                                                          DesigVar(
+                                                           j
+                                                          ) [DesigVar]
+                                                        ) [VarFactor]
+                                                      ) [FactorTerm]
+                                                    ) [PosTermExpr]
+                                                  ) [DesigArray]
+                                                ) [VarFactor]
+                                              ) [FactorTerm]
+                                            ) [PosTermExpr]
+                                          ) [AssignExpr]
+                                        ) [DesigStmtActions]
+                                      ) [DesignatorStmt]
+                                    ) [Statements]
+                                    DesignatorStmt(
+                                      DesigStmtActions(
+                                        DesigArray(
+                                         arr
+                                          PosTermExpr(
+                                            FactorTerm(
+                                              VarFactor(
+                                                DesigVar(
+                                                 j
+                                                ) [DesigVar]
+                                              ) [VarFactor]
+                                            ) [FactorTerm]
+                                          ) [PosTermExpr]
+                                        ) [DesigArray]
+                                        AssignExpr(
+                                          PosTermExpr(
+                                            FactorTerm(
+                                              VarFactor(
+                                                DesigVar(
+                                                 temp
+                                                ) [DesigVar]
+                                              ) [VarFactor]
+                                            ) [FactorTerm]
+                                          ) [PosTermExpr]
+                                        ) [AssignExpr]
+                                      ) [DesigStmtActions]
+                                    ) [DesignatorStmt]
+                                  ) [Statements]
+                                ) [ComplexStm]
+                              ) [IfStmt]
+                            ) [Statements]
+                            IfStmt(
+                              ConditionCondTerm(
+                                CondTermFact(
+                                  RelOpCondFact(
+                                    PosTermExpr(
+                                      FactorTerm(
+                                        VarFactor(
+                                          DesigVar(
+                                           j
+                                          ) [DesigVar]
+                                        ) [VarFactor]
+                                      ) [FactorTerm]
+                                    ) [PosTermExpr]
+                                    EqlOp(
+                                    ) [EqlOp]
+                                    PosTermExpr(
+                                      FactorTerm(
+                                        VarFactor(
+                                          DesigVar(
+                                           N
+                                          ) [DesigVar]
+                                        ) [VarFactor]
+                                      ) [FactorTerm]
+                                    ) [PosTermExpr]
+                                  ) [RelOpCondFact]
+                                ) [CondTermFact]
+                              ) [ConditionCondTerm]
+                              BreakStmt(
+                              ) [BreakStmt]
+                            ) [IfStmt]
+                          ) [Statements]
+                        ) [ComplexStm]
+                      ) [ForLoop]
+                    ) [Statements]
+                  ) [ComplexStm]
+                ) [ForLoop]
+              ) [Statements]
+              PrintStmt(
+                PosTermExpr(
+                  FactorTerm(
+                    VarFactor(
+                      DesigVar(
+                       i
+                      ) [DesigVar]
+                    ) [VarFactor]
+                  ) [FactorTerm]
+                ) [PosTermExpr]
+                NoPrintVar(
+                ) [NoPrintVar]
+              ) [PrintStmt]
+            ) [Statements]
+            ReadExpr(
+              DesigVar(
+               j
+              ) [DesigVar]
+            ) [ReadExpr]
+          ) [Statements]
+          ReadExpr(
+            DesigArray(
+             arr
+              PosTermExpr(
+                FactorTerm(
+                  NumFactor(
+                   4
+                  ) [NumFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+            ) [DesigArray]
+          ) [ReadExpr]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:54:26,614 - Deklarisana konstanta N na liniji 7
+INFO  16:54:26,615 - Obradjuje se funkcija main na liniji 10
+INFO  16:54:26,615 - Deklarisana promenljiva i na liniji 11
+INFO  16:54:26,616 - Deklarisana promenljiva j na liniji 11
+INFO  16:54:26,617 - Deklarisana promenljiva temp na liniji 11
+INFO  16:54:26,617 - Deklarisana promenljiva arr na liniji 12
+INFO  16:54:26,617 - Deklarisana promenljiva uslov na liniji 13
+INFO  16:54:26,621 - Obradjuje se for petlja na liniji: 17 na liniji 17
+INFO  16:54:26,621 - Pretraga na 18(arr), nadjeno Var arr: Arr of int, 3, 1  na liniji 18
+INFO  16:54:26,621 - Obradjuje se for petlja na liniji: 21 na liniji 21
+INFO  16:54:26,622 - Obradjuje se for petlja na liniji: 23
+INFO  16:54:26,622 - Pronadjen continue na liniji: 0
+INFO  16:54:26,622 - Pretraga na 27(arr), nadjeno Var arr: Arr of int, 3, 1  na liniji 27
+INFO  16:54:26,622 - Pretraga na 27(arr), nadjeno Var arr: Arr of int, 3, 1  na liniji 27
+ERROR 16:54:26,622 - Greska na liniji 27 promenljive tipa reference mogu da se uporedjuju samo na jednakost ili nejednakost!
+INFO  16:54:26,622 - Pretraga na 28(arr), nadjeno Var arr: Arr of int, 3, 1  na liniji 28
+ERROR 16:54:26,622 - Greska na liniji 28: src i dst nisu kompatibilni pri dodeli! 
+INFO  16:54:26,622 - Pretraga na 29(arr), nadjeno Var arr: Arr of int, 3, 1  na liniji 29
+INFO  16:54:26,622 - Pretraga na 29(arr), nadjeno Var arr: Arr of int, 3, 1  na liniji 29
+ERROR 16:54:26,623 - Greska na liniji 29: src i dst nisu kompatibilni pri dodeli! 
+INFO  16:54:26,623 - Pretraga na 30(arr), nadjeno Var arr: Arr of int, 3, 1  na liniji 30
+INFO  16:54:26,623 - Pronadjen break na liniji: 0
+INFO  16:54:26,623 - Pretraga na 41(arr), nadjeno Var arr: Arr of int, 3, 1  na liniji 41
+INFO  16:54:26,623 -  Print count calls = 0
+INFO  16:54:26,629 -  Deklarisanih promenljivih ima = 0
+INFO  16:54:26,634 - Neuspesna semanticka analiza!!

@@ -1,0 +1,166 @@
+INFO  19:57:27,496 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:57:27,563 - #2 program
+INFO  19:57:27,563 - #49 Program
+INFO  19:57:27,563 - #6 const
+INFO  19:57:27,565 - #49 int
+INFO  19:57:27,566 - #49 pi
+INFO  19:57:27,566 - #31 =
+INFO  19:57:27,566 - #48 3
+INFO  19:57:27,567 - #36 ,
+INFO  19:57:27,568 - #49 e
+INFO  19:57:27,568 - #31 =
+INFO  19:57:27,568 - #48 2
+INFO  19:57:27,569 - #34 ;
+INFO  19:57:27,569 - #49 int
+INFO  19:57:27,569 - #49 a
+INFO  19:57:27,570 - #36 ,
+INFO  19:57:27,570 - #49 b
+INFO  19:57:27,570 - #34 ;
+INFO  19:57:27,571 - #42 {
+INFO  19:57:27,571 - #12 void
+INFO  19:57:27,572 - #49 main
+INFO  19:57:27,574 - #38 (
+INFO  19:57:27,574 - #39 )
+INFO  19:57:27,575 - #42 {
+INFO  19:57:27,576 - #9 print
+INFO  19:57:27,577 - #38 (
+INFO  19:57:27,577 - #49 a
+INFO  19:57:27,578 - #39 )
+INFO  19:57:27,579 - #34 ;
+INFO  19:57:27,579 - #3 break
+INFO  19:57:27,580 - #34 ;
+INFO  19:57:27,580 - #14 continue
+INFO  19:57:27,581 - #34 ;
+INFO  19:57:27,581 - #11 return
+INFO  19:57:27,582 - #49 a
+INFO  19:57:27,583 - #34 ;
+INFO  19:57:27,583 - #11 return
+INFO  19:57:27,584 - #34 ;
+INFO  19:57:27,584 - #15 for
+INFO  19:57:27,585 - #38 (
+INFO  19:57:27,585 - #34 ;
+INFO  19:57:27,586 - #34 ;
+INFO  19:57:27,587 - #39 )
+INFO  19:57:27,587 - #42 {
+INFO  19:57:27,587 - #43 }
+INFO  19:57:27,587 - #43 }
+INFO  19:57:27,588 - #43 }
+INFO  19:57:27,591 - Program(
+ Program
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramConstDecl(
+        InnerScopeType(
+         int
+        ) [InnerScopeType]
+        MultipleConstDecls(
+          SingleConstDecl(
+            ConstDecl(
+             pi
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDecl]
+          ) [SingleConstDecl]
+          ConstDecl(
+           e
+            NumConst(
+             2
+            ) [NumConst]
+          ) [ConstDecl]
+        ) [MultipleConstDecls]
+      ) [ProgramConstDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      InnerScopeType(
+       int
+      ) [InnerScopeType]
+      MultipleVarDecls(
+        SingleVarDecl(
+          VariableDecl(
+           a
+          ) [VariableDecl]
+        ) [SingleVarDecl]
+        VariableDecl(
+         b
+        ) [VariableDecl]
+      ) [MultipleVarDecls]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidRet(
+      ) [VoidRet]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  NoStmt(
+                  ) [NoStmt]
+                  PrintStmt(
+                    SingleTerm(
+                      SimpleTerm(
+                        VarFactor(
+                          DesigVar(
+                           a
+                          ) [DesigVar]
+                        ) [VarFactor]
+                      ) [SimpleTerm]
+                    ) [SingleTerm]
+                    NoPrintVar(
+                    ) [NoPrintVar]
+                  ) [PrintStmt]
+                ) [Statements]
+                BreakStmt(
+                ) [BreakStmt]
+              ) [Statements]
+              ContinueStmt(
+              ) [ContinueStmt]
+            ) [Statements]
+            ReturnExpr(
+              SingleTerm(
+                SimpleTerm(
+                  VarFactor(
+                    DesigVar(
+                     a
+                    ) [DesigVar]
+                  ) [VarFactor]
+                ) [SimpleTerm]
+              ) [SingleTerm]
+            ) [ReturnExpr]
+          ) [Statements]
+          ReturnNoExpr(
+          ) [ReturnNoExpr]
+        ) [Statements]
+        ForLoop(
+          NoDesignatorStmt(
+          ) [NoDesignatorStmt]
+          NoForCondFact(
+          ) [NoForCondFact]
+          NoDesignatorStmt(
+          ) [NoDesignatorStmt]
+          ComplexStm(
+            NoStmt(
+            ) [NoStmt]
+          ) [ComplexStm]
+        ) [ForLoop]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:57:27,592 - ===================================
+INFO  19:57:27,595 -  Print count calls = 0
+INFO  19:57:27,595 -  Deklarisanih promenljivih ima = 0

@@ -1,0 +1,313 @@
+INFO  22:21:16,365 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:21:16,430 - #2 program
+INFO  22:21:16,430 - #47 test2
+INFO  22:21:16,430 - #42 {
+INFO  22:21:16,432 - #47 int
+INFO  22:21:16,434 - #47 m1
+INFO  22:21:16,435 - #38 (
+INFO  22:21:16,438 - #39 )
+INFO  22:21:16,439 - #42 {
+INFO  22:21:16,440 - #9 print
+INFO  22:21:16,441 - #38 (
+INFO  22:21:16,442 - #49 m
+INFO  22:21:16,442 - #39 )
+INFO  22:21:16,444 - #34 ;
+INFO  22:21:16,444 - #9 print
+INFO  22:21:16,444 - #38 (
+INFO  22:21:16,444 - #46 1
+INFO  22:21:16,444 - #39 )
+INFO  22:21:16,445 - #34 ;
+INFO  22:21:16,445 - #11 return
+INFO  22:21:16,445 - #46 0
+INFO  22:21:16,445 - #34 ;
+INFO  22:21:16,445 - #43 }
+INFO  22:21:16,449 - #12 void
+INFO  22:21:16,451 - #47 m2
+INFO  22:21:16,451 - #38 (
+INFO  22:21:16,451 - #39 )
+INFO  22:21:16,452 - #42 {
+INFO  22:21:16,452 - #9 print
+INFO  22:21:16,453 - #38 (
+INFO  22:21:16,453 - #49 m
+INFO  22:21:16,454 - #39 )
+INFO  22:21:16,454 - #34 ;
+INFO  22:21:16,454 - #9 print
+INFO  22:21:16,455 - #38 (
+INFO  22:21:16,455 - #46 2
+INFO  22:21:16,455 - #39 )
+INFO  22:21:16,455 - #34 ;
+INFO  22:21:16,455 - #11 return
+INFO  22:21:16,455 - #34 ;
+INFO  22:21:16,455 - #43 }
+INFO  22:21:16,457 - #12 void
+INFO  22:21:16,457 - #47 m3
+INFO  22:21:16,457 - #38 (
+INFO  22:21:16,457 - #39 )
+INFO  22:21:16,458 - #42 {
+INFO  22:21:16,458 - #9 print
+INFO  22:21:16,458 - #38 (
+INFO  22:21:16,458 - #49 m
+INFO  22:21:16,458 - #39 )
+INFO  22:21:16,458 - #34 ;
+INFO  22:21:16,458 - #9 print
+INFO  22:21:16,458 - #38 (
+INFO  22:21:16,459 - #46 3
+INFO  22:21:16,459 - #39 )
+INFO  22:21:16,459 - #34 ;
+INFO  22:21:16,459 - #43 }
+INFO  22:21:16,459 - #47 int
+INFO  22:21:16,459 - #47 m4
+INFO  22:21:16,459 - #38 (
+INFO  22:21:16,460 - #39 )
+INFO  22:21:16,460 - #42 {
+INFO  22:21:16,460 - #9 print
+INFO  22:21:16,460 - #38 (
+INFO  22:21:16,460 - #49 m
+INFO  22:21:16,460 - #39 )
+INFO  22:21:16,460 - #34 ;
+INFO  22:21:16,461 - #9 print
+INFO  22:21:16,461 - #38 (
+INFO  22:21:16,461 - #46 4
+INFO  22:21:16,461 - #39 )
+INFO  22:21:16,461 - #34 ;
+INFO  22:21:16,462 - #43 }
+INFO  22:21:16,462 - #12 void
+INFO  22:21:16,462 - #47 main
+INFO  22:21:16,462 - #38 (
+INFO  22:21:16,462 - #39 )
+INFO  22:21:16,462 - #42 {
+INFO  22:21:16,463 - #47 m2
+INFO  22:21:16,463 - #38 (
+INFO  22:21:16,463 - #39 )
+INFO  22:21:16,465 - #34 ;
+INFO  22:21:16,465 - #43 }
+INFO  22:21:16,465 - #43 }
+INFO  22:21:16,473 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      MethodDeclarations(
+        MethodDeclarations(
+          MethodDeclarations(
+            NoMethodDecl(
+            ) [NoMethodDecl]
+            MethodDecl(
+              MethodTypeName(
+                MethRetType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [MethRetType]
+               m1
+              ) [MethodTypeName]
+              NoFormParam(
+              ) [NoFormParam]
+              NoMethVar(
+              ) [NoMethVar]
+              Statements(
+                Statements(
+                  Statements(
+                    NoStmt(
+                    ) [NoStmt]
+                    PrintStmt(
+                      PosTermExpr(
+                        FactorTerm(
+                          CharFactor(
+                           m
+                          ) [CharFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                      NoPrintVar(
+                      ) [NoPrintVar]
+                    ) [PrintStmt]
+                  ) [Statements]
+                  PrintStmt(
+                    PosTermExpr(
+                      FactorTerm(
+                        NumFactor(
+                         1
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                    NoPrintVar(
+                    ) [NoPrintVar]
+                  ) [PrintStmt]
+                ) [Statements]
+                ReturnExpr(
+                  PosTermExpr(
+                    FactorTerm(
+                      NumFactor(
+                       0
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                ) [ReturnExpr]
+              ) [Statements]
+            ) [MethodDecl]
+          ) [MethodDeclarations]
+          MethodDecl(
+            MethodTypeName(
+              MethRetVoid(
+              ) [MethRetVoid]
+             m2
+            ) [MethodTypeName]
+            NoFormParam(
+            ) [NoFormParam]
+            NoMethVar(
+            ) [NoMethVar]
+            Statements(
+              Statements(
+                Statements(
+                  NoStmt(
+                  ) [NoStmt]
+                  PrintStmt(
+                    PosTermExpr(
+                      FactorTerm(
+                        CharFactor(
+                         m
+                        ) [CharFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                    NoPrintVar(
+                    ) [NoPrintVar]
+                  ) [PrintStmt]
+                ) [Statements]
+                PrintStmt(
+                  PosTermExpr(
+                    FactorTerm(
+                      NumFactor(
+                       2
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                  NoPrintVar(
+                  ) [NoPrintVar]
+                ) [PrintStmt]
+              ) [Statements]
+              ReturnNoExpr(
+              ) [ReturnNoExpr]
+            ) [Statements]
+          ) [MethodDecl]
+        ) [MethodDeclarations]
+        MethodDecl(
+          MethodTypeName(
+            MethRetVoid(
+            ) [MethRetVoid]
+           m3
+          ) [MethodTypeName]
+          NoFormParam(
+          ) [NoFormParam]
+          NoMethVar(
+          ) [NoMethVar]
+          Statements(
+            Statements(
+              NoStmt(
+              ) [NoStmt]
+              PrintStmt(
+                PosTermExpr(
+                  FactorTerm(
+                    CharFactor(
+                     m
+                    ) [CharFactor]
+                  ) [FactorTerm]
+                ) [PosTermExpr]
+                NoPrintVar(
+                ) [NoPrintVar]
+              ) [PrintStmt]
+            ) [Statements]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  NumFactor(
+                   3
+                  ) [NumFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+        ) [MethodDecl]
+      ) [MethodDeclarations]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         m4
+        ) [MethodTypeName]
+        NoFormParam(
+        ) [NoFormParam]
+        NoMethVar(
+        ) [NoMethVar]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  CharFactor(
+                   m
+                  ) [CharFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                NumFactor(
+                 4
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        DesignatorStmt(
+          DesigStmtActions(
+            DesigVar(
+             m2
+            ) [DesigVar]
+            DesigFuncCall(
+              NoActPars(
+              ) [NoActPars]
+            ) [DesigFuncCall]
+          ) [DesigStmtActions]
+        ) [DesignatorStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:21:16,478 - Obradjuje se funkcija m1 na liniji 4
+INFO  22:21:16,478 - Obradjuje se funkcija m2 na liniji 10
+INFO  22:21:16,478 - Obradjuje se funkcija m3 na liniji 17
+INFO  22:21:16,478 - Obradjuje se funkcija m4 na liniji 22
+INFO  22:21:16,478 - Obradjuje se funkcija main na liniji 28

@@ -1,0 +1,95 @@
+INFO  00:44:02,284 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:44:02,363 - #2 program
+INFO  00:44:02,363 - #47 MJProgram
+INFO  00:44:02,363 - #47 int
+INFO  00:44:02,366 - #47 x
+INFO  00:44:02,368 - #34 ;
+INFO  00:44:02,371 - #42 {
+INFO  00:44:02,373 - #12 void
+INFO  00:44:02,375 - #47 main
+INFO  00:44:02,377 - #38 (
+INFO  00:44:02,378 - #39 )
+INFO  00:44:02,380 - #42 {
+INFO  00:44:02,381 - #10 read
+INFO  00:44:02,382 - #38 (
+INFO  00:44:02,383 - #47 x
+INFO  00:44:02,383 - #39 )
+INFO  00:44:02,384 - #34 ;
+INFO  00:44:02,384 - #9 print
+INFO  00:44:02,385 - #38 (
+INFO  00:44:02,385 - #47 x
+INFO  00:44:02,385 - #39 )
+INFO  00:44:02,388 - #34 ;
+INFO  00:44:02,389 - #11 return
+INFO  00:44:02,389 - #34 ;
+INFO  00:44:02,389 - #43 }
+INFO  00:44:02,391 - #43 }
+INFO  00:44:02,400 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         x
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            ReadExpr(
+              DesigVar(
+               x
+              ) [DesigVar]
+            ) [ReadExpr]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                VarFactor(
+                  DesigVar(
+                   x
+                  ) [DesigVar]
+                ) [VarFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:44:02,409 - Deklarisana promenljiva x na liniji 2
+INFO  00:44:02,409 - Obradjuje se funkcija main na liniji 4
+INFO  00:44:02,410 -  Print count calls = 0
+INFO  00:44:02,410 -  Deklarisanih promenljivih ima = 0
+INFO  00:44:02,419 - Uspesna semanticka analiza!!

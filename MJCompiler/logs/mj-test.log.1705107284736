@@ -1,0 +1,145 @@
+INFO  01:50:35,533 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:50:35,610 - #2 program
+INFO  01:50:35,611 - #47 MJProgram
+INFO  01:50:35,611 - #47 int
+INFO  01:50:35,614 - #47 x
+INFO  01:50:35,615 - #34 ;
+INFO  01:50:35,616 - #42 {
+INFO  01:50:35,617 - #12 void
+INFO  01:50:35,618 - #47 main
+INFO  01:50:35,619 - #38 (
+INFO  01:50:35,622 - #39 )
+INFO  01:50:35,624 - #42 {
+INFO  01:50:35,626 - #47 x
+INFO  01:50:35,628 - #31 =
+INFO  01:50:35,628 - #46 3
+INFO  01:50:35,628 - #34 ;
+INFO  01:50:35,630 - #7 if
+INFO  01:50:35,630 - #38 (
+INFO  01:50:35,631 - #47 x
+INFO  01:50:35,632 - #27 <
+INFO  01:50:35,633 - #46 3
+INFO  01:50:35,636 - #39 )
+INFO  01:50:35,638 - #42 {
+INFO  01:50:35,642 - #9 print
+INFO  01:50:35,643 - #38 (
+INFO  01:50:35,643 - #47 x
+INFO  01:50:35,643 - #39 )
+INFO  01:50:35,644 - #34 ;
+INFO  01:50:35,644 - #43 }
+INFO  01:50:35,645 - #11 return
+INFO  01:50:35,646 - #34 ;
+INFO  01:50:35,646 - #43 }
+INFO  01:50:35,647 - #43 }
+INFO  01:50:35,660 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         x
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            DesignatorStmt(
+              DesigStmtActions(
+                DesigVar(
+                 x
+                ) [DesigVar]
+                AssignExpr(
+                  PosTermExpr(
+                    FactorTerm(
+                      NumFactor(
+                       3
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                ) [AssignExpr]
+              ) [DesigStmtActions]
+            ) [DesignatorStmt]
+          ) [Statements]
+          IfStmt(
+            ConditionCondTerm(
+              CondTermFact(
+                RelOpCondFact(
+                  PosTermExpr(
+                    FactorTerm(
+                      VarFactor(
+                        DesigVar(
+                         x
+                        ) [DesigVar]
+                      ) [VarFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                  LssOp(
+                  ) [LssOp]
+                  PosTermExpr(
+                    FactorTerm(
+                      NumFactor(
+                       3
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                ) [RelOpCondFact]
+              ) [CondTermFact]
+            ) [ConditionCondTerm]
+            ComplexStm(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                PrintStmt(
+                  PosTermExpr(
+                    FactorTerm(
+                      VarFactor(
+                        DesigVar(
+                         x
+                        ) [DesigVar]
+                      ) [VarFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                  NoPrintVar(
+                  ) [NoPrintVar]
+                ) [PrintStmt]
+              ) [Statements]
+            ) [ComplexStm]
+          ) [IfStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:50:35,668 - Deklarisana promenljiva x na liniji 2
+INFO  01:50:35,669 - Obradjuje se funkcija main na liniji 4
+INFO  01:50:35,671 -  Print count calls = 0
+INFO  01:50:35,671 -  Deklarisanih promenljivih ima = 0
+INFO  01:50:35,683 - Uspesna semanticka analiza!!

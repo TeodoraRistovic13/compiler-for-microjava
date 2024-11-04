@@ -1,0 +1,75 @@
+INFO  00:22:20,816 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:22:20,908 - #2 program
+INFO  00:22:20,909 - #47 MJProgram
+INFO  00:22:20,911 - #47 int
+INFO  00:22:20,916 - #47 x
+INFO  00:22:20,918 - #34 ;
+INFO  00:22:20,919 - #42 {
+INFO  00:22:20,920 - #12 void
+INFO  00:22:20,921 - #47 main
+INFO  00:22:20,922 - #38 (
+INFO  00:22:20,924 - #39 )
+INFO  00:22:20,925 - #42 {
+INFO  00:22:20,926 - #10 read
+INFO  00:22:20,927 - #38 (
+INFO  00:22:20,928 - #47 x
+INFO  00:22:20,928 - #39 )
+INFO  00:22:20,928 - #34 ;
+INFO  00:22:20,928 - #11 return
+INFO  00:22:20,929 - #34 ;
+INFO  00:22:20,929 - #43 }
+INFO  00:22:20,930 - #43 }
+INFO  00:22:20,940 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         x
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          ReadExpr(
+            DesigVar(
+             x
+            ) [DesigVar]
+          ) [ReadExpr]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:22:20,944 - Deklarisana promenljiva x na liniji 2
+INFO  00:22:20,945 - Obradjuje se funkcija main na liniji 4
+INFO  00:22:20,945 -  Print count calls = 0
+INFO  00:22:20,945 -  Deklarisanih promenljivih ima = 0
+INFO  00:22:20,951 - Uspesna semanticka analiza!!

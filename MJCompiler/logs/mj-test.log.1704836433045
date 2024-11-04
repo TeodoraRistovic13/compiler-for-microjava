@@ -1,0 +1,501 @@
+INFO  22:34:28,641 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:34:28,755 - #2 program
+INFO  22:34:28,755 - #47 test302
+INFO  22:34:28,756 - #17 namespace
+INFO  22:34:28,761 - #47 Unpacking
+INFO  22:34:28,761 - #42 {
+INFO  22:34:28,764 - #47 int
+INFO  22:34:28,767 - #47 a
+INFO  22:34:28,769 - #36 ,
+INFO  22:34:28,771 - #47 b
+INFO  22:34:28,771 - #34 ;
+INFO  22:34:28,772 - #47 int
+INFO  22:34:28,772 - #47 niz
+INFO  22:34:28,773 - #40 [
+INFO  22:34:28,773 - #41 ]
+INFO  22:34:28,773 - #34 ;
+INFO  22:34:28,773 - #47 int
+INFO  22:34:28,774 - #47 arr
+INFO  22:34:28,774 - #40 [
+INFO  22:34:28,774 - #41 ]
+INFO  22:34:28,775 - #34 ;
+INFO  22:34:28,775 - #47 bool
+INFO  22:34:28,776 - #47 buarr
+INFO  22:34:28,777 - #40 [
+INFO  22:34:28,777 - #41 ]
+INFO  22:34:28,777 - #34 ;
+INFO  22:34:28,778 - #42 {
+INFO  22:34:28,778 - #47 int
+INFO  22:34:28,780 - #47 main
+INFO  22:34:28,781 - #38 (
+INFO  22:34:28,783 - #39 )
+INFO  22:34:28,785 - #42 {
+INFO  22:34:28,787 - #11 return
+INFO  22:34:28,790 - #46 2
+INFO  22:34:28,790 - #34 ;
+INFO  22:34:28,791 - #43 }
+INFO  22:34:28,792 - #43 }
+INFO  22:34:28,794 - #43 }
+INFO  22:34:28,794 - #47 int
+INFO  22:34:28,800 - #47 nizic
+INFO  22:34:28,801 - #40 [
+INFO  22:34:28,801 - #41 ]
+INFO  22:34:28,802 - #34 ;
+INFO  22:34:28,805 - #6 const
+INFO  22:34:28,806 - #47 bool
+INFO  22:34:28,808 - #47 ok
+INFO  22:34:28,809 - #31 =
+INFO  22:34:28,809 - #48 false
+INFO  22:34:28,809 - #34 ;
+INFO  22:34:28,813 - #47 bool
+INFO  22:34:28,814 - #47 pokusaj
+INFO  22:34:28,814 - #34 ;
+INFO  22:34:28,816 - #47 int
+INFO  22:34:28,816 - #47 dd
+INFO  22:34:28,817 - #34 ;
+INFO  22:34:28,817 - #47 char
+INFO  22:34:28,817 - #47 slovo
+INFO  22:34:28,818 - #34 ;
+INFO  22:34:28,818 - #42 {
+INFO  22:34:28,818 - #47 bool
+INFO  22:34:28,822 - #47 testtest
+INFO  22:34:28,823 - #38 (
+INFO  22:34:28,824 - #47 int
+INFO  22:34:28,824 - #47 param1
+INFO  22:34:28,828 - #36 ,
+INFO  22:34:28,829 - #47 int
+INFO  22:34:28,830 - #47 param2
+INFO  22:34:28,830 - #36 ,
+INFO  22:34:28,831 - #47 char
+INFO  22:34:28,832 - #47 param3
+INFO  22:34:28,832 - #39 )
+INFO  22:34:28,833 - #47 bool
+INFO  22:34:28,833 - #47 c
+INFO  22:34:28,833 - #36 ,
+INFO  22:34:28,834 - #47 d
+INFO  22:34:28,834 - #34 ;
+INFO  22:34:28,834 - #42 {
+INFO  22:34:28,836 - #11 return
+INFO  22:34:28,838 - #47 c
+INFO  22:34:28,839 - #34 ;
+INFO  22:34:28,839 - #43 }
+INFO  22:34:28,840 - #47 int
+INFO  22:34:28,841 - #47 main
+INFO  22:34:28,841 - #38 (
+INFO  22:34:28,842 - #39 )
+INFO  22:34:28,843 - #47 int
+INFO  22:34:28,844 - #47 prvi
+INFO  22:34:28,844 - #36 ,
+INFO  22:34:28,845 - #47 drugi
+INFO  22:34:28,845 - #34 ;
+INFO  22:34:28,845 - #47 bool
+INFO  22:34:28,846 - #47 treci
+INFO  22:34:28,848 - #34 ;
+INFO  22:34:28,850 - #42 {
+INFO  22:34:28,851 - #47 test
+INFO  22:34:28,851 - #38 (
+INFO  22:34:28,851 - #39 )
+INFO  22:34:28,857 - #34 ;
+INFO  22:34:28,858 - #47 testtest
+INFO  22:34:28,858 - #38 (
+INFO  22:34:28,860 - #47 prvi
+INFO  22:34:28,861 - #36 ,
+INFO  22:34:28,863 - #47 drugi
+INFO  22:34:28,864 - #36 ,
+INFO  22:34:28,864 - #47 treci
+INFO  22:34:28,865 - #39 )
+INFO  22:34:28,866 - #34 ;
+INFO  22:34:28,869 - #11 return
+INFO  22:34:28,869 - #46 2
+INFO  22:34:28,870 - #34 ;
+INFO  22:34:28,871 - #43 }
+INFO  22:34:28,876 - #43 }
+INFO  22:34:28,890 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Unpacking
+      ) [NamespaceName]
+      NamespaceDecls(
+        NamespaceDecls(
+          NamespaceDecls(
+            NamespaceDecls(
+              NoNamespaceDecls(
+              ) [NoNamespaceDecls]
+              NamespaceVarDecl(
+                Type(
+                 int
+                ) [Type]
+                MultipleVarDecls(
+                  SingleVarDecl(
+                    VarNameDecl(
+                     a
+                    ) [VarNameDecl]
+                  ) [SingleVarDecl]
+                  VarNameDecl(
+                   b
+                  ) [VarNameDecl]
+                ) [MultipleVarDecls]
+              ) [NamespaceVarDecl]
+            ) [NamespaceDecls]
+            NamespaceVarDecl(
+              Type(
+               int
+              ) [Type]
+              SingleVarDecl(
+                VarArrayNameDecl(
+                 niz
+                ) [VarArrayNameDecl]
+              ) [SingleVarDecl]
+            ) [NamespaceVarDecl]
+          ) [NamespaceDecls]
+          NamespaceVarDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDecl(
+              VarArrayNameDecl(
+               arr
+              ) [VarArrayNameDecl]
+            ) [SingleVarDecl]
+          ) [NamespaceVarDecl]
+        ) [NamespaceDecls]
+        NamespaceVarDecl(
+          Type(
+           bool
+          ) [Type]
+          SingleVarDecl(
+            VarArrayNameDecl(
+             buarr
+            ) [VarArrayNameDecl]
+          ) [SingleVarDecl]
+        ) [NamespaceVarDecl]
+      ) [NamespaceDecls]
+      MethodDeclarations(
+        NoMethodDecl(
+        ) [NoMethodDecl]
+        MethodDecl(
+          MethodTypeName(
+            MethRetType(
+              Type(
+               int
+              ) [Type]
+            ) [MethRetType]
+           main
+          ) [MethodTypeName]
+          NoFormParam(
+          ) [NoFormParam]
+          NoMethVar(
+          ) [NoMethVar]
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            ReturnExpr(
+              PosTermExpr(
+                FactorTerm(
+                  NumFactor(
+                   2
+                  ) [NumFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+            ) [ReturnExpr]
+          ) [Statements]
+        ) [MethodDecl]
+      ) [MethodDeclarations]
+    ) [Namespace]
+  ) [NamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          ProgramDecls(
+            NoProgramDecls(
+            ) [NoProgramDecls]
+            ProgramVarDecl(
+              Type(
+               int
+              ) [Type]
+              SingleVarDecl(
+                VarArrayNameDecl(
+                 nizic
+                ) [VarArrayNameDecl]
+              ) [SingleVarDecl]
+            ) [ProgramVarDecl]
+          ) [ProgramDecls]
+          ProgramConstDecl(
+            Type(
+             bool
+            ) [Type]
+            SingleConstDecl(
+              ConstDecl(
+               ok
+                BoolConst(
+                 false
+                ) [BoolConst]
+              ) [ConstDecl]
+            ) [SingleConstDecl]
+          ) [ProgramConstDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          Type(
+           bool
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             pokusaj
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           dd
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       char
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         slovo
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             bool
+            ) [Type]
+          ) [MethRetType]
+         testtest
+        ) [MethodTypeName]
+        FormParams(
+          FormCommaParamDecl(
+            FormCommaParamDecl(
+              FormParamDecl(
+                FormParamVar(
+                  Type(
+                   int
+                  ) [Type]
+                 param1
+                ) [FormParamVar]
+              ) [FormParamDecl]
+              FormParamVar(
+                Type(
+                 int
+                ) [Type]
+               param2
+              ) [FormParamVar]
+            ) [FormCommaParamDecl]
+            FormParamVar(
+              Type(
+               char
+              ) [Type]
+             param3
+            ) [FormParamVar]
+          ) [FormCommaParamDecl]
+        ) [FormParams]
+        MethodVars(
+          NoMethVar(
+          ) [NoMethVar]
+          Type(
+           bool
+          ) [Type]
+          MultipleVarDecls(
+            SingleVarDecl(
+              VarNameDecl(
+               c
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+            VarNameDecl(
+             d
+            ) [VarNameDecl]
+          ) [MultipleVarDecls]
+        ) [MethodVars]
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          ReturnExpr(
+            PosTermExpr(
+              FactorTerm(
+                VarFactor(
+                  DesigVar(
+                   c
+                  ) [DesigVar]
+                ) [VarFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+          ) [ReturnExpr]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetType(
+          Type(
+           int
+          ) [Type]
+        ) [MethRetType]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      MethodVars(
+        MethodVars(
+          NoMethVar(
+          ) [NoMethVar]
+          Type(
+           int
+          ) [Type]
+          MultipleVarDecls(
+            SingleVarDecl(
+              VarNameDecl(
+               prvi
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+            VarNameDecl(
+             drugi
+            ) [VarNameDecl]
+          ) [MultipleVarDecls]
+        ) [MethodVars]
+        Type(
+         bool
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           treci
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [MethodVars]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            DesignatorStmt(
+              DesigStmtActions(
+                DesigVar(
+                 test
+                ) [DesigVar]
+                DesigFuncCall(
+                  NoActPars(
+                  ) [NoActPars]
+                ) [DesigFuncCall]
+              ) [DesigStmtActions]
+            ) [DesignatorStmt]
+          ) [Statements]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               testtest
+              ) [DesigVar]
+              DesigFuncCall(
+                ActPars(
+                  ActualParamsList(
+                    ActualParamsList(
+                      ActualParam(
+                        PosTermExpr(
+                          FactorTerm(
+                            VarFactor(
+                              DesigVar(
+                               prvi
+                              ) [DesigVar]
+                            ) [VarFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                      ) [ActualParam]
+                      PosTermExpr(
+                        FactorTerm(
+                          VarFactor(
+                            DesigVar(
+                             drugi
+                            ) [DesigVar]
+                          ) [VarFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                    ) [ActualParamsList]
+                    PosTermExpr(
+                      FactorTerm(
+                        VarFactor(
+                          DesigVar(
+                           treci
+                          ) [DesigVar]
+                        ) [VarFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                  ) [ActualParamsList]
+                ) [ActPars]
+              ) [DesigFuncCall]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        ReturnExpr(
+          PosTermExpr(
+            FactorTerm(
+              NumFactor(
+               2
+              ) [NumFactor]
+            ) [FactorTerm]
+          ) [PosTermExpr]
+        ) [ReturnExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:34:28,904 - Deklarisana promenljiva Unpacking::a na liniji 6
+INFO  22:34:28,905 - Deklarisana promenljiva Unpacking::b na liniji 6
+INFO  22:34:28,905 - Deklarisana promenljiva Unpacking::niz na liniji 7
+INFO  22:34:28,906 - Deklarisana promenljiva Unpacking::arr na liniji 8
+INFO  22:34:28,907 - Deklarisana promenljiva Unpacking::buarr na liniji 9
+INFO  22:34:28,907 - Obradjuje se funkcija main na liniji 11
+INFO  22:34:28,908 - Deklarisana promenljiva nizic na liniji 16
+INFO  22:34:28,909 - Deklarisana konstanta ok na liniji 17
+INFO  22:34:28,910 - Deklarisana promenljiva pokusaj na liniji 18
+INFO  22:34:28,911 - Deklarisana promenljiva dd na liniji 19
+INFO  22:34:28,911 - Deklarisana promenljiva slovo na liniji 20
+INFO  22:34:28,913 - Obradjuje se funkcija testtest na liniji 23
+INFO  22:34:28,917 - Deklarisan parametar param1 metode: testtest. na liniji 23
+INFO  22:34:28,919 - Deklarisan parametar param2 metode: testtest. na liniji 23
+INFO  22:34:28,926 - Deklarisan parametar param3 metode: testtest. na liniji 23
+INFO  22:34:28,944 - Deklarisana promenljiva c na liniji 23
+INFO  22:34:28,949 - Deklarisana promenljiva d na liniji 23
+INFO  22:34:28,953 - Pretraga na 24(c), nadjeno Var c: bool, 3, 1  na liniji 24
+ERROR 22:34:28,957 - Greska: Vec je deklarisano ime main u tabeli simbola u tekucem opsegu! [1m[0m
+INFO  22:34:28,961 - Deklarisana promenljiva prvi na liniji 28
+INFO  22:34:28,964 - Deklarisana promenljiva drugi na liniji 28
+INFO  22:34:28,968 - Deklarisana promenljiva treci na liniji 29
+ERROR 22:34:28,972 - Greska na liniji 32 : ime test nije deklarisano! [1m[0m
+ERROR 22:34:28,979 - Greska na liniji 32 : ime noObj nije globalna fja gl programa![1m[0m
+INFO  22:34:28,980 - Pretraga na 33(testtest), nadjeno Meth testtest: bool, 0, 3 
+   Var param1: int, 0, 1 
+   Var param2: int, 1, 1 
+   Var param3: char, 2, 1 
+   Var c: bool, 3, 1 
+   Var d: bool, 4, 1 
+ na liniji 33
+INFO  22:34:28,981 - Pretraga na 33(prvi), nadjeno Var prvi: int, 9, 0  na liniji 33
+INFO  22:34:28,981 - Pretraga na 33(drugi), nadjeno Var drugi: int, 10, 0  na liniji 33
+INFO  22:34:28,981 - Pretraga na 33(treci), nadjeno Var treci: bool, 11, 0  na liniji 33
+ERROR 22:34:28,982 - Greska na liniji 33broj stvarnih parametara je manji od broja formalnih parametara![1m[0m
+ERROR 22:34:28,982 - Greska na liniji 34: izraz koji se vraca ne odgovara povratnom tipu metode testtest![1m[0m
+INFO  22:34:28,983 -  Print count calls = 0
+INFO  22:34:28,983 -  Deklarisanih promenljivih ima = 0
+INFO  22:34:28,984 - Neuspesna semanticka analiza!!

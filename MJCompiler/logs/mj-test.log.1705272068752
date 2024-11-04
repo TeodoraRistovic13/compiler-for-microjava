@@ -1,0 +1,86 @@
+INFO  23:31:50,266 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:31:50,336 - #2 program
+INFO  23:31:50,336 - #48 test2
+INFO  23:31:50,336 - #42 {
+INFO  23:31:50,340 - #12 void
+INFO  23:31:50,341 - #48 main
+INFO  23:31:50,342 - #38 (
+INFO  23:31:50,344 - #39 )
+INFO  23:31:50,345 - #42 {
+INFO  23:31:50,347 - #9 print
+INFO  23:31:50,348 - #38 (
+INFO  23:31:50,348 - #47 4
+INFO  23:31:50,348 - #39 )
+INFO  23:31:50,350 - #34 ;
+INFO  23:31:50,350 - #9 print
+INFO  23:31:50,351 - #38 (
+INFO  23:31:50,351 - #46 eol
+INFO  23:31:50,351 - #39 )
+INFO  23:31:50,351 - #34 ;
+INFO  23:31:50,351 - #9 print
+INFO  23:31:50,353 - #38 (
+INFO  23:31:50,353 - #47 3
+INFO  23:31:50,353 - #39 )
+INFO  23:31:50,354 - #34 ;
+INFO  23:31:50,354 - #43 }
+INFO  23:31:50,354 - #43 }
+INFO  23:31:50,363 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  NumFactor(
+                   4
+                  ) [NumFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmtEol(
+          ) [PrintStmtEol]
+        ) [Statements]
+        PrintStmt(
+          PosTermExpr(
+            FactorTerm(
+              NumFactor(
+               3
+              ) [NumFactor]
+            ) [FactorTerm]
+          ) [PosTermExpr]
+          NoPrintVar(
+          ) [NoPrintVar]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:31:50,369 - Obradjuje se funkcija main na liniji 5
+INFO  23:31:50,370 -  Print count calls = 0
+INFO  23:31:50,370 -  Deklarisanih promenljivih ima = 0
+INFO  23:31:50,376 - Uspesna semanticka analiza!!

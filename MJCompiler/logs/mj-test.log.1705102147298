@@ -1,0 +1,83 @@
+INFO  00:25:39,094 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:25:39,167 - #2 program
+INFO  00:25:39,168 - #47 MJProgram
+INFO  00:25:39,168 - #47 int
+INFO  00:25:39,171 - #47 x
+INFO  00:25:39,172 - #34 ;
+INFO  00:25:39,173 - #42 {
+INFO  00:25:39,173 - #12 void
+INFO  00:25:39,175 - #47 main
+INFO  00:25:39,175 - #38 (
+INFO  00:25:39,176 - #39 )
+INFO  00:25:39,177 - #42 {
+INFO  00:25:39,178 - #9 print
+INFO  00:25:39,179 - #38 (
+INFO  00:25:39,179 - #47 x
+INFO  00:25:39,180 - #39 )
+INFO  00:25:39,181 - #34 ;
+INFO  00:25:39,182 - #11 return
+INFO  00:25:39,182 - #34 ;
+INFO  00:25:39,182 - #43 }
+INFO  00:25:39,183 - #43 }
+INFO  00:25:39,192 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         x
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                VarFactor(
+                  DesigVar(
+                   x
+                  ) [DesigVar]
+                ) [VarFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:25:39,198 - Deklarisana promenljiva x na liniji 2
+INFO  00:25:39,199 - Obradjuje se funkcija main na liniji 4
+INFO  00:25:39,199 -  Print count calls = 0
+INFO  00:25:39,199 -  Deklarisanih promenljivih ima = 0
+INFO  00:25:39,204 - Uspesna semanticka analiza!!

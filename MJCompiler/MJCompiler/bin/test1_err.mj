@@ -1,0 +1,35 @@
+//Test dodavanje u tabelu simbola..kontekstni uslovi za deklaracije
+
+program test1
+
+namespace Podaci{
+	const int a = 3;
+	const bool ok = 3; //treba da izazove error
+	int a;//treba da izazove error jer a vec postoji u ovom scope-u
+	int b;
+	char c;
+	bool fleg;
+	int niz[];
+	{
+		int m1() int a1, b1;{
+			return 2;
+		}
+		void m2(int param) int a1;{
+			return;
+		}
+		void m3(){
+			return 5; //treba da izazove error jer je metoda void!
+		}
+	}
+}
+
+const int N = 10;
+int i, j;
+tip k; //treba da izazove error jer tip 'tip' ne postoji
+{
+	int main(){
+		return 10;
+	}
+	
+}
+

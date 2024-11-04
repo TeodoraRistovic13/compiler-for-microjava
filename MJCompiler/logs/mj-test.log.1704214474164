@@ -1,0 +1,75 @@
+INFO  16:43:34,098 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  16:43:34,116 - #2 program
+INFO  16:43:34,116 - #48 MJProgram
+INFO  16:43:34,116 - #48 int
+INFO  16:43:34,118 - #48 a
+INFO  16:43:34,120 - #36 ,
+INFO  16:43:34,121 - #48 b
+INFO  16:43:34,121 - #36 ,
+INFO  16:43:34,122 - #48 c
+INFO  16:43:34,122 - #34 ;
+INFO  16:43:34,122 - #6 const
+INFO  16:43:34,123 - #48 int
+INFO  16:43:34,123 - #48 d
+INFO  16:43:34,123 - #31 =
+INFO  16:43:34,123 - #47 3
+INFO  16:43:34,124 - #36 ,
+INFO  16:43:34,125 - #48 e
+INFO  16:43:34,125 - #31 =
+INFO  16:43:34,125 - #47 7
+INFO  16:43:34,125 - #34 ;
+INFO  16:43:34,126 - #42 {
+INFO  16:43:34,127 - #43 }
+INFO  16:43:34,130 - Program(
+ MJProgram
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        MultipleVarDecls(
+          MultipleVarDecls(
+            SingleVarDecl(
+              VarDecl(
+               a
+              ) [VarDecl]
+            ) [SingleVarDecl]
+            VarDecl(
+             b
+            ) [VarDecl]
+          ) [MultipleVarDecls]
+          VarDecl(
+           c
+          ) [VarDecl]
+        ) [MultipleVarDecls]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramConstDecl(
+      Type(
+       int
+      ) [Type]
+      MultipleConstDecls(
+        SingleConstDecl(
+          ConstDecl(
+           d
+            NumConst(
+             3
+            ) [NumConst]
+          ) [ConstDecl]
+        ) [SingleConstDecl]
+        ConstDecl(
+         e
+          NumConst(
+           7
+          ) [NumConst]
+        ) [ConstDecl]
+      ) [MultipleConstDecls]
+    ) [ProgramConstDecl]
+  ) [ProgramDecls]
+) [Program]
+INFO  16:43:34,130 - ===================================
+INFO  16:43:34,133 -  Print count calls = 0
+INFO  16:43:34,133 -  Deklarisanih promenljivih ima = 0

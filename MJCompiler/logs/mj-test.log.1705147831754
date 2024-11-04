@@ -1,0 +1,150 @@
+INFO  13:08:55,852 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  13:08:55,927 - #2 program
+INFO  13:08:55,927 - #47 MJProgram
+INFO  13:08:55,927 - #47 int
+INFO  13:08:55,930 - #47 x
+INFO  13:08:55,932 - #34 ;
+INFO  13:08:55,932 - #47 bool
+INFO  13:08:55,933 - #47 uslov
+INFO  13:08:55,933 - #34 ;
+INFO  13:08:55,933 - #47 char
+INFO  13:08:55,934 - #47 c
+INFO  13:08:55,934 - #34 ;
+INFO  13:08:55,934 - #47 int
+INFO  13:08:55,934 - #47 a
+INFO  13:08:55,934 - #40 [
+INFO  13:08:55,935 - #41 ]
+INFO  13:08:55,935 - #34 ;
+INFO  13:08:55,935 - #47 char
+INFO  13:08:55,935 - #47 b
+INFO  13:08:55,935 - #40 [
+INFO  13:08:55,935 - #41 ]
+INFO  13:08:55,935 - #34 ;
+INFO  13:08:55,936 - #42 {
+INFO  13:08:55,936 - #12 void
+INFO  13:08:55,937 - #47 main
+INFO  13:08:55,938 - #38 (
+INFO  13:08:55,940 - #39 )
+INFO  13:08:55,941 - #42 {
+INFO  13:08:55,942 - #47 x
+INFO  13:08:55,943 - #31 =
+INFO  13:08:55,945 - #46 3
+INFO  13:08:55,945 - #34 ;
+INFO  13:08:55,946 - #11 return
+INFO  13:08:55,947 - #34 ;
+INFO  13:08:55,947 - #43 }
+INFO  13:08:55,948 - #43 }
+INFO  13:08:55,959 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          ProgramDecls(
+            NoProgramDecls(
+            ) [NoProgramDecls]
+            ProgramVarDecl(
+              Type(
+               int
+              ) [Type]
+              SingleVarDecl(
+                VarNameDecl(
+                 x
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+            ) [ProgramVarDecl]
+          ) [ProgramDecls]
+          ProgramVarDecl(
+            Type(
+             bool
+            ) [Type]
+            SingleVarDecl(
+              VarNameDecl(
+               uslov
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+          ) [ProgramVarDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          Type(
+           char
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             c
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarArrayNameDecl(
+           a
+          ) [VarArrayNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       char
+      ) [Type]
+      SingleVarDecl(
+        VarArrayNameDecl(
+         b
+        ) [VarArrayNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               x
+              ) [DesigVar]
+              AssignExpr(
+                PosTermExpr(
+                  FactorTerm(
+                    NumFactor(
+                     3
+                    ) [NumFactor]
+                  ) [FactorTerm]
+                ) [PosTermExpr]
+              ) [AssignExpr]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  13:08:55,964 - Deklarisana promenljiva x na liniji 2
+INFO  13:08:55,965 - Deklarisana promenljiva uslov na liniji 3
+INFO  13:08:55,965 - Deklarisana promenljiva c na liniji 4
+INFO  13:08:55,965 - Deklarisana promenljiva a na liniji 5
+INFO  13:08:55,965 - Deklarisana promenljiva b na liniji 6
+INFO  13:08:55,965 - Obradjuje se funkcija main na liniji 9

@@ -1,0 +1,272 @@
+INFO  16:52:10,324 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  16:52:10,406 - #2 program
+INFO  16:52:10,406 - #47 MJProgram
+INFO  16:52:10,407 - #47 int
+INFO  16:52:10,410 - #47 x
+INFO  16:52:10,411 - #36 ,
+INFO  16:52:10,411 - #47 y
+INFO  16:52:10,412 - #34 ;
+INFO  16:52:10,412 - #47 bool
+INFO  16:52:10,413 - #47 uslov
+INFO  16:52:10,413 - #34 ;
+INFO  16:52:10,413 - #47 char
+INFO  16:52:10,413 - #47 c
+INFO  16:52:10,413 - #34 ;
+INFO  16:52:10,413 - #47 int
+INFO  16:52:10,414 - #47 a
+INFO  16:52:10,414 - #40 [
+INFO  16:52:10,415 - #41 ]
+INFO  16:52:10,415 - #34 ;
+INFO  16:52:10,416 - #47 char
+INFO  16:52:10,416 - #47 b
+INFO  16:52:10,416 - #40 [
+INFO  16:52:10,417 - #41 ]
+INFO  16:52:10,417 - #34 ;
+INFO  16:52:10,417 - #47 bool
+INFO  16:52:10,417 - #47 d
+INFO  16:52:10,417 - #40 [
+INFO  16:52:10,418 - #41 ]
+INFO  16:52:10,418 - #34 ;
+INFO  16:52:10,418 - #47 int
+INFO  16:52:10,418 - #47 i
+INFO  16:52:10,418 - #34 ;
+INFO  16:52:10,418 - #42 {
+INFO  16:52:10,418 - #12 void
+INFO  16:52:10,419 - #47 main
+INFO  16:52:10,420 - #38 (
+INFO  16:52:10,421 - #39 )
+INFO  16:52:10,422 - #42 {
+INFO  16:52:10,423 - #15 for
+INFO  16:52:10,424 - #38 (
+INFO  16:52:10,424 - #47 i
+INFO  16:52:10,424 - #31 =
+INFO  16:52:10,425 - #46 0
+INFO  16:52:10,425 - #34 ;
+INFO  16:52:10,426 - #47 i
+INFO  16:52:10,427 - #27 <
+INFO  16:52:10,427 - #46 3
+INFO  16:52:10,429 - #34 ;
+INFO  16:52:10,429 - #47 i
+INFO  16:52:10,429 - #32 ++
+INFO  16:52:10,430 - #39 )
+INFO  16:52:10,433 - #42 {
+INFO  16:52:10,434 - #9 print
+INFO  16:52:10,434 - #38 (
+INFO  16:52:10,434 - #47 i
+INFO  16:52:10,434 - #39 )
+INFO  16:52:10,435 - #34 ;
+INFO  16:52:10,436 - #43 }
+INFO  16:52:10,436 - #11 return
+INFO  16:52:10,438 - #34 ;
+INFO  16:52:10,438 - #43 }
+INFO  16:52:10,439 - #43 }
+INFO  16:52:10,449 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          ProgramDecls(
+            ProgramDecls(
+              ProgramDecls(
+                NoProgramDecls(
+                ) [NoProgramDecls]
+                ProgramVarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  MultipleVarDecls(
+                    SingleVarDecl(
+                      VarNameDecl(
+                       x
+                      ) [VarNameDecl]
+                    ) [SingleVarDecl]
+                    VarNameDecl(
+                     y
+                    ) [VarNameDecl]
+                  ) [MultipleVarDecls]
+                ) [ProgramVarDecl]
+              ) [ProgramDecls]
+              ProgramVarDecl(
+                Type(
+                 bool
+                ) [Type]
+                SingleVarDecl(
+                  VarNameDecl(
+                   uslov
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+              ) [ProgramVarDecl]
+            ) [ProgramDecls]
+            ProgramVarDecl(
+              Type(
+               char
+              ) [Type]
+              SingleVarDecl(
+                VarNameDecl(
+                 c
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+            ) [ProgramVarDecl]
+          ) [ProgramDecls]
+          ProgramVarDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDecl(
+              VarArrayNameDecl(
+               a
+              ) [VarArrayNameDecl]
+            ) [SingleVarDecl]
+          ) [ProgramVarDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          Type(
+           char
+          ) [Type]
+          SingleVarDecl(
+            VarArrayNameDecl(
+             b
+            ) [VarArrayNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        Type(
+         bool
+        ) [Type]
+        SingleVarDecl(
+          VarArrayNameDecl(
+           d
+          ) [VarArrayNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         i
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          ForLoop(
+            ForDesigStmts(
+              SingleDesignatorStmt(
+                DesigStmtActions(
+                  DesigVar(
+                   i
+                  ) [DesigVar]
+                  AssignExpr(
+                    PosTermExpr(
+                      FactorTerm(
+                        NumFactor(
+                         0
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                  ) [AssignExpr]
+                ) [DesigStmtActions]
+              ) [SingleDesignatorStmt]
+            ) [ForDesigStmts]
+            ForCondFactExpr(
+              RelOpCondFact(
+                PosTermExpr(
+                  FactorTerm(
+                    VarFactor(
+                      DesigVar(
+                       i
+                      ) [DesigVar]
+                    ) [VarFactor]
+                  ) [FactorTerm]
+                ) [PosTermExpr]
+                LssOp(
+                ) [LssOp]
+                PosTermExpr(
+                  FactorTerm(
+                    NumFactor(
+                     3
+                    ) [NumFactor]
+                  ) [FactorTerm]
+                ) [PosTermExpr]
+              ) [RelOpCondFact]
+            ) [ForCondFactExpr]
+            ForLoopStmts(
+              ForDesigStmts(
+                SingleDesignatorStmt(
+                  DesigStmtActions(
+                    DesigVar(
+                     i
+                    ) [DesigVar]
+                    DesigInc(
+                    ) [DesigInc]
+                  ) [DesigStmtActions]
+                ) [SingleDesignatorStmt]
+              ) [ForDesigStmts]
+            ) [ForLoopStmts]
+            ForLoopBody(
+              ComplexStm(
+                Statements(
+                  NoStmt(
+                  ) [NoStmt]
+                  PrintStmt(
+                    PosTermExpr(
+                      FactorTerm(
+                        VarFactor(
+                          DesigVar(
+                           i
+                          ) [DesigVar]
+                        ) [VarFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                    NoPrintVar(
+                    ) [NoPrintVar]
+                  ) [PrintStmt]
+                ) [Statements]
+              ) [ComplexStm]
+            ) [ForLoopBody]
+          ) [ForLoop]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:52:10,455 - Deklarisana promenljiva x na liniji 2
+INFO  16:52:10,455 - Deklarisana promenljiva y na liniji 2
+INFO  16:52:10,455 - Deklarisana promenljiva uslov na liniji 3
+INFO  16:52:10,455 - Deklarisana promenljiva c na liniji 4
+INFO  16:52:10,455 - Deklarisana promenljiva a na liniji 5
+INFO  16:52:10,456 - Deklarisana promenljiva b na liniji 6
+INFO  16:52:10,456 - Deklarisana promenljiva d na liniji 7
+INFO  16:52:10,456 - Deklarisana promenljiva i na liniji 8
+INFO  16:52:10,456 - Obradjuje se funkcija main na liniji 10
+INFO  16:52:10,459 - Obradjuje se for petlja na liniji: 12 na liniji 12
+INFO  16:52:10,459 -  Print count calls = 0
+INFO  16:52:10,459 -  Deklarisanih promenljivih ima = 0
+INFO  16:52:10,470 - Uspesna semanticka analiza!!

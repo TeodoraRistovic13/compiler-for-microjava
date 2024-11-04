@@ -1,0 +1,40 @@
+INFO  19:29:22,289 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:29:22,356 - #2 program
+INFO  19:29:22,356 - #49 Program
+INFO  19:29:22,356 - #6 const
+INFO  19:29:22,359 - #49 int
+INFO  19:29:22,359 - #49 pi
+INFO  19:29:22,359 - #31 =
+INFO  19:29:22,360 - #48 3
+INFO  19:29:22,360 - #36 ,
+INFO  19:29:22,362 - #49 e
+INFO  19:29:22,362 - #31 =
+INFO  19:29:22,362 - #48 2
+INFO  19:29:22,362 - #34 ;
+INFO  19:29:22,363 - #49 int
+INFO  19:29:22,363 - #49 a
+INFO  19:29:22,363 - #36 ,
+INFO  19:29:22,364 - #49 b
+INFO  19:29:22,364 - #34 ;
+INFO  19:29:22,364 - #42 {
+INFO  19:29:22,364 - #12 void
+INFO  19:29:22,365 - #49 main
+INFO  19:29:22,368 - #38 (
+INFO  19:29:22,368 - #39 )
+INFO  19:29:22,370 - #42 {
+INFO  19:29:22,371 - #49 while
+INFO  19:29:22,372 - #38 (
+INFO  19:29:22,373 - #49 i
+INFO  19:29:22,373 - #27 <
+ERROR 19:29:22,373 - 
+Sintaksna greska na liniji 7
+INFO  19:29:22,373 - #48 5
+INFO  19:29:22,373 - #39 )
+INFO  19:29:22,373 - #42 {
+INFO  19:29:22,375 - #49 i
+INFO  19:29:22,375 - #32 ++
+INFO  19:29:22,375 - #34 ;
+INFO  19:29:22,375 - #43 }
+INFO  19:29:22,375 - #43 }
+INFO  19:29:22,375 - #43 }
+ERROR 19:29:22,376 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12

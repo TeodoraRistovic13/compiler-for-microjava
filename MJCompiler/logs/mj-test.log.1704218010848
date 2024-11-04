@@ -1,0 +1,149 @@
+INFO  18:34:06,536 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:34:06,558 - #2 program
+INFO  18:34:06,558 - #48 MJProgram
+INFO  18:34:06,559 - #17 namespace
+INFO  18:34:06,559 - #48 A
+INFO  18:34:06,559 - #42 {
+INFO  18:34:06,560 - #48 int
+INFO  18:34:06,561 - #48 a
+INFO  18:34:06,563 - #36 ,
+INFO  18:34:06,565 - #48 b
+INFO  18:34:06,566 - #36 ,
+INFO  18:34:06,566 - #48 c
+INFO  18:34:06,566 - #34 ;
+INFO  18:34:06,566 - #6 const
+INFO  18:34:06,567 - #48 int
+INFO  18:34:06,567 - #48 d
+INFO  18:34:06,567 - #31 =
+INFO  18:34:06,568 - #47 0
+INFO  18:34:06,568 - #34 ;
+INFO  18:34:06,570 - #6 const
+INFO  18:34:06,572 - #48 bool
+INFO  18:34:06,572 - #48 ok
+INFO  18:34:06,576 - #31 =
+INFO  18:34:06,576 - #46 true
+INFO  18:34:06,577 - #34 ;
+INFO  18:34:06,578 - #42 {
+INFO  18:34:06,579 - #43 }
+INFO  18:34:06,579 - #43 }
+INFO  18:34:06,580 - #48 int
+INFO  18:34:06,582 - #48 e
+INFO  18:34:06,582 - #36 ,
+INFO  18:34:06,582 - #48 f
+INFO  18:34:06,582 - #34 ;
+INFO  18:34:06,583 - #6 const
+INFO  18:34:06,583 - #48 int
+INFO  18:34:06,583 - #48 d
+INFO  18:34:06,584 - #31 =
+INFO  18:34:06,584 - #47 3
+INFO  18:34:06,584 - #36 ,
+INFO  18:34:06,584 - #48 e
+INFO  18:34:06,584 - #31 =
+INFO  18:34:06,584 - #47 7
+INFO  18:34:06,584 - #34 ;
+INFO  18:34:06,585 - #42 {
+INFO  18:34:06,585 - #43 }
+INFO  18:34:06,588 - Program(
+ MJProgram
+  Namespace(
+   A
+    NamespaceDecls(
+      NamespaceDecls(
+        NamespaceDecls(
+          NoNamespaceDecls(
+          ) [NoNamespaceDecls]
+          NamespaceVarDecl(
+            Type(
+             int
+            ) [Type]
+            MultipleVarDecls(
+              MultipleVarDecls(
+                SingleVarDecl(
+                  VarDecl(
+                   a
+                  ) [VarDecl]
+                ) [SingleVarDecl]
+                VarDecl(
+                 b
+                ) [VarDecl]
+              ) [MultipleVarDecls]
+              VarDecl(
+               c
+              ) [VarDecl]
+            ) [MultipleVarDecls]
+          ) [NamespaceVarDecl]
+        ) [NamespaceDecls]
+        NamespaceConstDecl(
+          Type(
+           int
+          ) [Type]
+          SingleConstDecl(
+            ConstDecl(
+             d
+              NumConst(
+               0
+              ) [NumConst]
+            ) [ConstDecl]
+          ) [SingleConstDecl]
+        ) [NamespaceConstDecl]
+      ) [NamespaceDecls]
+      NamespaceConstDecl(
+        Type(
+         bool
+        ) [Type]
+        SingleConstDecl(
+          ConstDecl(
+           ok
+            BoolConst(
+            ) [BoolConst]
+          ) [ConstDecl]
+        ) [SingleConstDecl]
+      ) [NamespaceConstDecl]
+    ) [NamespaceDecls]
+  ) [Namespace]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        MultipleVarDecls(
+          SingleVarDecl(
+            VarDecl(
+             e
+            ) [VarDecl]
+          ) [SingleVarDecl]
+          VarDecl(
+           f
+          ) [VarDecl]
+        ) [MultipleVarDecls]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramConstDecl(
+      Type(
+       int
+      ) [Type]
+      MultipleConstDecls(
+        SingleConstDecl(
+          ConstDecl(
+           d
+            NumConst(
+             3
+            ) [NumConst]
+          ) [ConstDecl]
+        ) [SingleConstDecl]
+        ConstDecl(
+         e
+          NumConst(
+           7
+          ) [NumConst]
+        ) [ConstDecl]
+      ) [MultipleConstDecls]
+    ) [ProgramConstDecl]
+  ) [ProgramDecls]
+) [Program]
+INFO  18:34:06,588 - ===================================
+INFO  18:34:06,592 -  Print count calls = 0
+INFO  18:34:06,592 -  Deklarisanih promenljivih ima = 0

@@ -1,0 +1,100 @@
+INFO  22:18:46,853 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:18:46,922 - #2 program
+INFO  22:18:46,923 - #47 test2
+INFO  22:18:46,923 - #42 {
+INFO  22:18:46,927 - #47 int
+INFO  22:18:46,929 - #47 test
+INFO  22:18:46,933 - #38 (
+INFO  22:18:46,935 - #39 )
+INFO  22:18:46,936 - #42 {
+INFO  22:18:46,938 - #11 return
+INFO  22:18:46,939 - #46 5
+INFO  22:18:46,939 - #34 ;
+INFO  22:18:46,940 - #43 }
+INFO  22:18:46,941 - #12 void
+INFO  22:18:46,943 - #47 main
+INFO  22:18:46,945 - #38 (
+INFO  22:18:46,946 - #39 )
+INFO  22:18:46,946 - #42 {
+INFO  22:18:46,946 - #47 test
+INFO  22:18:46,947 - #38 (
+INFO  22:18:46,949 - #39 )
+INFO  22:18:46,952 - #34 ;
+INFO  22:18:46,953 - #11 return
+INFO  22:18:46,953 - #34 ;
+INFO  22:18:46,954 - #43 }
+INFO  22:18:46,955 - #43 }
+INFO  22:18:46,967 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         test
+        ) [MethodTypeName]
+        NoFormParam(
+        ) [NoFormParam]
+        NoMethVar(
+        ) [NoMethVar]
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          ReturnExpr(
+            PosTermExpr(
+              FactorTerm(
+                NumFactor(
+                 5
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+          ) [ReturnExpr]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               test
+              ) [DesigVar]
+              DesigFuncCall(
+                NoActPars(
+                ) [NoActPars]
+              ) [DesigFuncCall]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:18:46,975 - Obradjuje se funkcija test na liniji 4
+INFO  22:18:46,975 - Obradjuje se funkcija main na liniji 8

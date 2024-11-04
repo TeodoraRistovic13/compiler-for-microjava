@@ -1,0 +1,124 @@
+INFO  22:19:35,920 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:19:35,986 - #2 program
+INFO  22:19:35,987 - #47 test2
+INFO  22:19:35,987 - #42 {
+INFO  22:19:35,989 - #47 int
+INFO  22:19:35,990 - #47 test
+INFO  22:19:35,992 - #38 (
+INFO  22:19:35,993 - #47 int
+INFO  22:19:35,994 - #47 a
+INFO  22:19:35,994 - #39 )
+INFO  22:19:35,995 - #42 {
+INFO  22:19:35,996 - #11 return
+INFO  22:19:35,997 - #46 5
+INFO  22:19:35,998 - #34 ;
+INFO  22:19:35,998 - #43 }
+INFO  22:19:35,999 - #12 void
+INFO  22:19:36,001 - #47 main
+INFO  22:19:36,003 - #38 (
+INFO  22:19:36,003 - #39 )
+INFO  22:19:36,005 - #42 {
+INFO  22:19:36,005 - #47 test
+INFO  22:19:36,005 - #38 (
+INFO  22:19:36,006 - #46 5
+INFO  22:19:36,006 - #39 )
+INFO  22:19:36,007 - #34 ;
+INFO  22:19:36,007 - #11 return
+INFO  22:19:36,008 - #34 ;
+INFO  22:19:36,008 - #43 }
+INFO  22:19:36,009 - #43 }
+INFO  22:19:36,021 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         test
+        ) [MethodTypeName]
+        FormParams(
+          FormParamDecl(
+            FormParamVar(
+              Type(
+               int
+              ) [Type]
+             a
+            ) [FormParamVar]
+          ) [FormParamDecl]
+        ) [FormParams]
+        NoMethVar(
+        ) [NoMethVar]
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          ReturnExpr(
+            PosTermExpr(
+              FactorTerm(
+                NumFactor(
+                 5
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+          ) [ReturnExpr]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               test
+              ) [DesigVar]
+              DesigFuncCall(
+                ActPars(
+                  ActualParam(
+                    PosTermExpr(
+                      FactorTerm(
+                        NumFactor(
+                         5
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                  ) [ActualParam]
+                ) [ActPars]
+              ) [DesigFuncCall]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:19:36,029 - Obradjuje se funkcija test na liniji 4
+INFO  22:19:36,029 - Deklarisan parametar a metode: test. na liniji 4
+INFO  22:19:36,029 - Obradjuje se funkcija main na liniji 8
+INFO  22:19:36,038 -  Print count calls = 0
+INFO  22:19:36,038 -  Deklarisanih promenljivih ima = 0
+INFO  22:19:36,045 - Uspesna semanticka analiza!!

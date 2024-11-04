@@ -1,0 +1,226 @@
+INFO  20:11:12,119 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:11:12,194 - #2 program
+INFO  20:11:12,195 - #47 MJProgram
+INFO  20:11:12,195 - #47 int
+INFO  20:11:12,199 - #47 x
+INFO  20:11:12,200 - #34 ;
+INFO  20:11:12,201 - #47 int
+INFO  20:11:12,202 - #47 y
+INFO  20:11:12,202 - #34 ;
+INFO  20:11:12,202 - #42 {
+INFO  20:11:12,203 - #47 int
+INFO  20:11:12,205 - #47 k
+INFO  20:11:12,206 - #38 (
+INFO  20:11:12,208 - #47 int
+INFO  20:11:12,208 - #47 b
+INFO  20:11:12,209 - #36 ,
+INFO  20:11:12,210 - #47 int
+INFO  20:11:12,210 - #47 d
+INFO  20:11:12,210 - #39 )
+INFO  20:11:12,211 - #47 int
+INFO  20:11:12,214 - #47 c
+INFO  20:11:12,214 - #34 ;
+INFO  20:11:12,214 - #42 {
+INFO  20:11:12,219 - #47 c
+INFO  20:11:12,220 - #31 =
+INFO  20:11:12,220 - #46 2
+INFO  20:11:12,220 - #34 ;
+INFO  20:11:12,221 - #11 return
+INFO  20:11:12,222 - #47 c
+INFO  20:11:12,222 - #18 +
+INFO  20:11:12,223 - #46 2
+INFO  20:11:12,224 - #34 ;
+INFO  20:11:12,225 - #43 }
+INFO  20:11:12,225 - #12 void
+INFO  20:11:12,227 - #47 main
+INFO  20:11:12,228 - #38 (
+INFO  20:11:12,228 - #39 )
+INFO  20:11:12,230 - #42 {
+INFO  20:11:12,230 - #9 print
+INFO  20:11:12,230 - #38 (
+INFO  20:11:12,230 - #46 1
+INFO  20:11:12,230 - #39 )
+INFO  20:11:12,231 - #34 ;
+INFO  20:11:12,232 - #9 print
+INFO  20:11:12,232 - #38 (
+INFO  20:11:12,232 - #46 2
+INFO  20:11:12,232 - #39 )
+INFO  20:11:12,233 - #34 ;
+INFO  20:11:12,233 - #11 return
+INFO  20:11:12,233 - #34 ;
+INFO  20:11:12,233 - #43 }
+INFO  20:11:12,234 - #43 }
+INFO  20:11:12,241 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           x
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         y
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         k
+        ) [MethodTypeName]
+        FormParams(
+          FormCommaParamDecl(
+            FormParamDecl(
+              FormParamVar(
+                Type(
+                 int
+                ) [Type]
+               b
+              ) [FormParamVar]
+            ) [FormParamDecl]
+            FormParamVar(
+              Type(
+               int
+              ) [Type]
+             d
+            ) [FormParamVar]
+          ) [FormCommaParamDecl]
+        ) [FormParams]
+        MethodVars(
+          NoMethVar(
+          ) [NoMethVar]
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             c
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [MethodVars]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            DesignatorStmt(
+              DesigStmtActions(
+                DesigVar(
+                 c
+                ) [DesigVar]
+                AssignExpr(
+                  PosTermExpr(
+                    FactorTerm(
+                      NumFactor(
+                       2
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                ) [AssignExpr]
+              ) [DesigStmtActions]
+            ) [DesignatorStmt]
+          ) [Statements]
+          ReturnExpr(
+            AddExpr(
+              PosTermExpr(
+                FactorTerm(
+                  VarFactor(
+                    DesigVar(
+                     c
+                    ) [DesigVar]
+                  ) [VarFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              Add(
+              ) [Add]
+              FactorTerm(
+                NumFactor(
+                 2
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [AddExpr]
+          ) [ReturnExpr]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  NumFactor(
+                   1
+                  ) [NumFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                NumFactor(
+                 2
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:11:12,248 - Deklarisana promenljiva x na liniji 2
+INFO  20:11:12,249 - Deklarisana promenljiva y na liniji 2
+INFO  20:11:12,249 - Obradjuje se funkcija k na liniji 4
+INFO  20:11:12,250 - Deklarisan parametar b metode: k. na liniji 4
+INFO  20:11:12,250 - Deklarisan parametar d metode: k. na liniji 4
+INFO  20:11:12,250 - Deklarisana promenljiva c na liniji 4
+INFO  20:11:12,252 - Obradjuje se funkcija main na liniji 9
+INFO  20:11:12,252 -  Print count calls = 0
+INFO  20:11:12,252 -  Deklarisanih promenljivih ima = 0
+INFO  20:11:12,261 - Uspesna semanticka analiza!!

@@ -1,0 +1,1162 @@
+INFO  00:23:05,854 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:23:05,920 - #2 program
+INFO  00:23:05,920 - #48 test301
+INFO  00:23:05,921 - #17 namespace
+INFO  00:23:05,923 - #48 Konstante
+INFO  00:23:05,924 - #42 {
+INFO  00:23:05,925 - #6 const
+INFO  00:23:05,926 - #48 int
+INFO  00:23:05,926 - #48 nula
+INFO  00:23:05,928 - #31 =
+INFO  00:23:05,928 - #47 0
+INFO  00:23:05,928 - #34 ;
+INFO  00:23:05,930 - #6 const
+INFO  00:23:05,930 - #48 int
+INFO  00:23:05,931 - #48 jedan
+INFO  00:23:05,931 - #31 =
+INFO  00:23:05,931 - #47 1
+INFO  00:23:05,931 - #34 ;
+INFO  00:23:05,931 - #6 const
+INFO  00:23:05,931 - #48 int
+INFO  00:23:05,931 - #48 pet
+INFO  00:23:05,932 - #31 =
+INFO  00:23:05,932 - #47 5
+INFO  00:23:05,932 - #34 ;
+INFO  00:23:05,932 - #42 {
+INFO  00:23:05,932 - #43 }
+INFO  00:23:05,933 - #43 }
+INFO  00:23:05,933 - #17 namespace
+INFO  00:23:05,937 - #48 Nizovi
+INFO  00:23:05,937 - #42 {
+INFO  00:23:05,937 - #48 int
+INFO  00:23:05,937 - #48 niz
+INFO  00:23:05,938 - #40 [
+INFO  00:23:05,938 - #41 ]
+INFO  00:23:05,938 - #34 ;
+INFO  00:23:05,938 - #48 char
+INFO  00:23:05,939 - #48 nizch
+INFO  00:23:05,939 - #40 [
+INFO  00:23:05,939 - #41 ]
+INFO  00:23:05,939 - #34 ;
+INFO  00:23:05,939 - #42 {
+INFO  00:23:05,940 - #43 }
+INFO  00:23:05,940 - #43 }
+INFO  00:23:05,940 - #48 int
+INFO  00:23:05,942 - #48 a
+INFO  00:23:05,942 - #34 ;
+INFO  00:23:05,942 - #42 {
+INFO  00:23:05,943 - #12 void
+INFO  00:23:05,943 - #48 main
+INFO  00:23:05,945 - #38 (
+INFO  00:23:05,947 - #39 )
+INFO  00:23:05,949 - #48 int
+INFO  00:23:05,951 - #48 bodovi
+INFO  00:23:05,952 - #34 ;
+INFO  00:23:05,952 - #48 bool
+INFO  00:23:05,952 - #48 bt
+INFO  00:23:05,952 - #34 ;
+INFO  00:23:05,952 - #42 {
+INFO  00:23:05,953 - #48 bodovi
+INFO  00:23:05,954 - #31 =
+INFO  00:23:05,954 - #47 0
+INFO  00:23:05,954 - #34 ;
+INFO  00:23:05,955 - #48 bodovi
+INFO  00:23:05,956 - #32 ++
+INFO  00:23:05,956 - #34 ;
+INFO  00:23:05,957 - #48 bodovi
+INFO  00:23:05,957 - #31 =
+INFO  00:23:05,957 - #48 bodovi
+INFO  00:23:05,958 - #18 +
+INFO  00:23:05,958 - #48 Konstante
+INFO  00:23:05,959 - #45 ::
+INFO  00:23:05,959 - #48 jedan
+INFO  00:23:05,959 - #34 ;
+INFO  00:23:05,960 - #48 bodovi
+INFO  00:23:05,960 - #31 =
+INFO  00:23:05,960 - #48 bodovi
+INFO  00:23:05,960 - #20 *
+INFO  00:23:05,960 - #48 Konstante
+INFO  00:23:05,962 - #45 ::
+INFO  00:23:05,962 - #48 pet
+INFO  00:23:05,962 - #34 ;
+INFO  00:23:05,963 - #48 bodovi
+INFO  00:23:05,963 - #33 --
+INFO  00:23:05,963 - #34 ;
+INFO  00:23:05,964 - #9 print
+INFO  00:23:05,964 - #38 (
+INFO  00:23:05,964 - #48 bodovi
+INFO  00:23:05,965 - #39 )
+INFO  00:23:05,965 - #34 ;
+INFO  00:23:05,965 - #48 Nizovi
+INFO  00:23:05,966 - #45 ::
+INFO  00:23:05,968 - #48 niz
+INFO  00:23:05,968 - #31 =
+INFO  00:23:05,968 - #8 new
+INFO  00:23:05,968 - #48 int
+INFO  00:23:05,969 - #40 [
+INFO  00:23:05,969 - #47 3
+INFO  00:23:05,969 - #41 ]
+INFO  00:23:05,969 - #34 ;
+INFO  00:23:05,969 - #48 Nizovi
+INFO  00:23:05,969 - #45 ::
+INFO  00:23:05,970 - #48 niz
+INFO  00:23:05,970 - #40 [
+INFO  00:23:05,970 - #48 Konstante
+INFO  00:23:05,970 - #45 ::
+INFO  00:23:05,970 - #48 nula
+INFO  00:23:05,970 - #41 ]
+INFO  00:23:05,970 - #31 =
+INFO  00:23:05,971 - #48 Konstante
+INFO  00:23:05,971 - #45 ::
+INFO  00:23:05,971 - #48 jedan
+INFO  00:23:05,971 - #34 ;
+INFO  00:23:05,972 - #48 Nizovi
+INFO  00:23:05,972 - #45 ::
+INFO  00:23:05,972 - #48 niz
+INFO  00:23:05,972 - #40 [
+INFO  00:23:05,972 - #47 1
+INFO  00:23:05,972 - #41 ]
+INFO  00:23:05,972 - #31 =
+INFO  00:23:05,973 - #47 2
+INFO  00:23:05,973 - #34 ;
+INFO  00:23:05,973 - #48 Nizovi
+INFO  00:23:05,973 - #45 ::
+INFO  00:23:05,973 - #48 niz
+INFO  00:23:05,973 - #40 [
+INFO  00:23:05,974 - #48 Nizovi
+INFO  00:23:05,974 - #45 ::
+INFO  00:23:05,974 - #48 niz
+INFO  00:23:05,974 - #40 [
+INFO  00:23:05,974 - #48 Konstante
+INFO  00:23:05,975 - #45 ::
+INFO  00:23:05,975 - #48 jedan
+INFO  00:23:05,975 - #41 ]
+INFO  00:23:05,975 - #41 ]
+INFO  00:23:05,975 - #31 =
+INFO  00:23:05,976 - #48 Nizovi
+INFO  00:23:05,976 - #45 ::
+INFO  00:23:05,976 - #48 niz
+INFO  00:23:05,976 - #40 [
+INFO  00:23:05,976 - #48 Nizovi
+INFO  00:23:05,976 - #45 ::
+INFO  00:23:05,976 - #48 niz
+INFO  00:23:05,976 - #40 [
+INFO  00:23:05,976 - #47 0
+INFO  00:23:05,977 - #41 ]
+INFO  00:23:05,977 - #41 ]
+INFO  00:23:05,977 - #20 *
+INFO  00:23:05,977 - #47 3
+INFO  00:23:05,977 - #34 ;
+INFO  00:23:05,977 - #48 bodovi
+INFO  00:23:05,977 - #31 =
+INFO  00:23:05,978 - #48 Nizovi
+INFO  00:23:05,978 - #45 ::
+INFO  00:23:05,978 - #48 niz
+INFO  00:23:05,978 - #40 [
+INFO  00:23:05,978 - #47 2
+INFO  00:23:05,978 - #41 ]
+INFO  00:23:05,978 - #21 /
+INFO  00:23:05,978 - #48 Nizovi
+INFO  00:23:05,979 - #45 ::
+INFO  00:23:05,979 - #48 niz
+INFO  00:23:05,979 - #40 [
+INFO  00:23:05,980 - #47 0
+INFO  00:23:05,980 - #41 ]
+INFO  00:23:05,980 - #34 ;
+INFO  00:23:05,980 - #9 print
+INFO  00:23:05,980 - #38 (
+INFO  00:23:05,980 - #48 bodovi
+INFO  00:23:05,980 - #39 )
+INFO  00:23:05,980 - #34 ;
+INFO  00:23:05,980 - #9 print
+INFO  00:23:05,981 - #38 (
+INFO  00:23:05,981 - #48 Nizovi
+INFO  00:23:05,981 - #45 ::
+INFO  00:23:05,981 - #48 niz
+INFO  00:23:05,981 - #40 [
+INFO  00:23:05,981 - #47 2
+INFO  00:23:05,981 - #41 ]
+INFO  00:23:05,981 - #39 )
+INFO  00:23:05,981 - #34 ;
+INFO  00:23:05,982 - #48 Nizovi
+INFO  00:23:05,982 - #45 ::
+INFO  00:23:05,982 - #48 nizch
+INFO  00:23:05,982 - #31 =
+INFO  00:23:05,982 - #8 new
+INFO  00:23:05,982 - #48 char
+INFO  00:23:05,982 - #40 [
+INFO  00:23:05,982 - #47 3
+INFO  00:23:05,982 - #41 ]
+INFO  00:23:05,983 - #34 ;
+INFO  00:23:05,983 - #48 Nizovi
+INFO  00:23:05,983 - #45 ::
+INFO  00:23:05,983 - #48 nizch
+INFO  00:23:05,983 - #40 [
+INFO  00:23:05,983 - #47 0
+INFO  00:23:05,983 - #41 ]
+INFO  00:23:05,983 - #31 =
+INFO  00:23:05,984 - #50 a
+INFO  00:23:05,984 - #34 ;
+INFO  00:23:05,985 - #48 Nizovi
+INFO  00:23:05,985 - #45 ::
+INFO  00:23:05,986 - #48 nizch
+INFO  00:23:05,986 - #40 [
+INFO  00:23:05,986 - #48 Konstante
+INFO  00:23:05,986 - #45 ::
+INFO  00:23:05,986 - #48 jedan
+INFO  00:23:05,986 - #41 ]
+INFO  00:23:05,986 - #31 =
+INFO  00:23:05,986 - #50 b
+INFO  00:23:05,986 - #34 ;
+INFO  00:23:05,986 - #48 Nizovi
+INFO  00:23:05,986 - #45 ::
+INFO  00:23:05,986 - #48 nizch
+INFO  00:23:05,986 - #40 [
+INFO  00:23:05,987 - #48 Konstante
+INFO  00:23:05,987 - #45 ::
+INFO  00:23:05,987 - #48 pet
+INFO  00:23:05,987 - #19 -
+INFO  00:23:05,987 - #47 3
+INFO  00:23:05,988 - #41 ]
+INFO  00:23:05,988 - #31 =
+INFO  00:23:05,988 - #50 c
+INFO  00:23:05,988 - #34 ;
+INFO  00:23:05,988 - #9 print
+INFO  00:23:05,988 - #38 (
+INFO  00:23:05,989 - #48 Nizovi
+INFO  00:23:05,989 - #45 ::
+INFO  00:23:05,989 - #48 nizch
+INFO  00:23:05,989 - #40 [
+INFO  00:23:05,989 - #47 1
+INFO  00:23:05,989 - #41 ]
+INFO  00:23:05,989 - #39 )
+INFO  00:23:05,989 - #34 ;
+INFO  00:23:05,989 - #9 print
+INFO  00:23:05,989 - #38 (
+INFO  00:23:05,989 - #48 Nizovi
+INFO  00:23:05,989 - #45 ::
+INFO  00:23:05,990 - #48 nizch
+INFO  00:23:05,990 - #40 [
+INFO  00:23:05,990 - #48 Konstante
+INFO  00:23:05,990 - #45 ::
+INFO  00:23:05,990 - #48 jedan
+INFO  00:23:05,990 - #20 *
+INFO  00:23:05,990 - #47 2
+INFO  00:23:05,990 - #41 ]
+INFO  00:23:05,991 - #39 )
+INFO  00:23:05,991 - #34 ;
+INFO  00:23:05,991 - #48 a
+INFO  00:23:05,991 - #31 =
+INFO  00:23:05,991 - #47 1
+INFO  00:23:05,991 - #34 ;
+INFO  00:23:05,991 - #10 read
+INFO  00:23:05,991 - #38 (
+INFO  00:23:05,991 - #48 bodovi
+INFO  00:23:05,991 - #39 )
+INFO  00:23:05,992 - #34 ;
+INFO  00:23:05,993 - #48 bodovi
+INFO  00:23:05,993 - #31 =
+INFO  00:23:05,993 - #19 -
+INFO  00:23:05,994 - #48 bodovi
+INFO  00:23:05,994 - #18 +
+INFO  00:23:05,994 - #38 (
+INFO  00:23:05,994 - #48 Konstante
+INFO  00:23:05,994 - #45 ::
+INFO  00:23:05,995 - #48 pet
+INFO  00:23:05,995 - #20 *
+INFO  00:23:05,995 - #48 a
+INFO  00:23:05,995 - #21 /
+INFO  00:23:05,995 - #47 2
+INFO  00:23:05,995 - #19 -
+INFO  00:23:05,995 - #48 Konstante
+INFO  00:23:05,995 - #45 ::
+INFO  00:23:05,996 - #48 jedan
+INFO  00:23:05,996 - #39 )
+INFO  00:23:05,996 - #20 *
+INFO  00:23:05,996 - #48 bodovi
+INFO  00:23:05,996 - #19 -
+INFO  00:23:05,997 - #38 (
+INFO  00:23:05,997 - #47 3
+INFO  00:23:05,997 - #22 %
+INFO  00:23:05,997 - #47 2
+INFO  00:23:05,998 - #18 +
+INFO  00:23:05,998 - #47 3
+INFO  00:23:05,998 - #20 *
+INFO  00:23:05,998 - #47 2
+INFO  00:23:05,999 - #19 -
+INFO  00:23:05,999 - #47 3
+INFO  00:23:05,999 - #39 )
+INFO  00:23:05,999 - #34 ;
+INFO  00:23:05,999 - #9 print
+INFO  00:23:05,999 - #38 (
+INFO  00:23:05,999 - #48 bodovi
+INFO  00:23:06,000 - #39 )
+INFO  00:23:06,000 - #34 ;
+INFO  00:23:06,000 - #43 }
+INFO  00:23:06,000 - #43 }
+INFO  00:23:06,013 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceList(
+    NamespaceList(
+      NoNamespaceList(
+      ) [NoNamespaceList]
+      Namespace(
+        NamespaceName(
+         Konstante
+        ) [NamespaceName]
+        NamespaceDecls(
+          NamespaceDecls(
+            NamespaceDecls(
+              NoNamespaceDecls(
+              ) [NoNamespaceDecls]
+              NamespaceConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleConstDecl(
+                  ConstDecl(
+                   nula
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstDecl]
+                ) [SingleConstDecl]
+              ) [NamespaceConstDecl]
+            ) [NamespaceDecls]
+            NamespaceConstDecl(
+              Type(
+               int
+              ) [Type]
+              SingleConstDecl(
+                ConstDecl(
+                 jedan
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstDecl]
+              ) [SingleConstDecl]
+            ) [NamespaceConstDecl]
+          ) [NamespaceDecls]
+          NamespaceConstDecl(
+            Type(
+             int
+            ) [Type]
+            SingleConstDecl(
+              ConstDecl(
+               pet
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [ConstDecl]
+            ) [SingleConstDecl]
+          ) [NamespaceConstDecl]
+        ) [NamespaceDecls]
+        NoMethodDecl(
+        ) [NoMethodDecl]
+      ) [Namespace]
+    ) [NamespaceList]
+    Namespace(
+      NamespaceName(
+       Nizovi
+      ) [NamespaceName]
+      NamespaceDecls(
+        NamespaceDecls(
+          NoNamespaceDecls(
+          ) [NoNamespaceDecls]
+          NamespaceVarDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDecl(
+              VarArrayNameDecl(
+               niz
+              ) [VarArrayNameDecl]
+            ) [SingleVarDecl]
+          ) [NamespaceVarDecl]
+        ) [NamespaceDecls]
+        NamespaceVarDecl(
+          Type(
+           char
+          ) [Type]
+          SingleVarDecl(
+            VarArrayNameDecl(
+             nizch
+            ) [VarArrayNameDecl]
+          ) [SingleVarDecl]
+        ) [NamespaceVarDecl]
+      ) [NamespaceDecls]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+    ) [Namespace]
+  ) [NamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         a
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      MethodVars(
+        MethodVars(
+          NoMethVar(
+          ) [NoMethVar]
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             bodovi
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [MethodVars]
+        Type(
+         bool
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           bt
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [MethodVars]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            Statements(
+                              Statements(
+                                Statements(
+                                  Statements(
+                                    Statements(
+                                      Statements(
+                                        Statements(
+                                          Statements(
+                                            Statements(
+                                              Statements(
+                                                Statements(
+                                                  Statements(
+                                                    NoStmt(
+                                                    ) [NoStmt]
+                                                    DesignatorStmt(
+                                                      DesigStmtActions(
+                                                        DesigVar(
+                                                         bodovi
+                                                        ) [DesigVar]
+                                                        AssignExpr(
+                                                          PosTermExpr(
+                                                            FactorTerm(
+                                                              NumFactor(
+                                                               0
+                                                              ) [NumFactor]
+                                                            ) [FactorTerm]
+                                                          ) [PosTermExpr]
+                                                        ) [AssignExpr]
+                                                      ) [DesigStmtActions]
+                                                    ) [DesignatorStmt]
+                                                  ) [Statements]
+                                                  DesignatorStmt(
+                                                    DesigStmtActions(
+                                                      DesigVar(
+                                                       bodovi
+                                                      ) [DesigVar]
+                                                      DesigInc(
+                                                      ) [DesigInc]
+                                                    ) [DesigStmtActions]
+                                                  ) [DesignatorStmt]
+                                                ) [Statements]
+                                                DesignatorStmt(
+                                                  DesigStmtActions(
+                                                    DesigVar(
+                                                     bodovi
+                                                    ) [DesigVar]
+                                                    AssignExpr(
+                                                      AddExpr(
+                                                        PosTermExpr(
+                                                          FactorTerm(
+                                                            VarFactor(
+                                                              DesigVar(
+                                                               bodovi
+                                                              ) [DesigVar]
+                                                            ) [VarFactor]
+                                                          ) [FactorTerm]
+                                                        ) [PosTermExpr]
+                                                        Add(
+                                                        ) [Add]
+                                                        FactorTerm(
+                                                          VarFactor(
+                                                            ScopeDesigVar(
+                                                             Konstante
+                                                             jedan
+                                                            ) [ScopeDesigVar]
+                                                          ) [VarFactor]
+                                                        ) [FactorTerm]
+                                                      ) [AddExpr]
+                                                    ) [AssignExpr]
+                                                  ) [DesigStmtActions]
+                                                ) [DesignatorStmt]
+                                              ) [Statements]
+                                              DesignatorStmt(
+                                                DesigStmtActions(
+                                                  DesigVar(
+                                                   bodovi
+                                                  ) [DesigVar]
+                                                  AssignExpr(
+                                                    PosTermExpr(
+                                                      MulTerm(
+                                                        FactorTerm(
+                                                          VarFactor(
+                                                            DesigVar(
+                                                             bodovi
+                                                            ) [DesigVar]
+                                                          ) [VarFactor]
+                                                        ) [FactorTerm]
+                                                        Mul(
+                                                        ) [Mul]
+                                                        VarFactor(
+                                                          ScopeDesigVar(
+                                                           Konstante
+                                                           pet
+                                                          ) [ScopeDesigVar]
+                                                        ) [VarFactor]
+                                                      ) [MulTerm]
+                                                    ) [PosTermExpr]
+                                                  ) [AssignExpr]
+                                                ) [DesigStmtActions]
+                                              ) [DesignatorStmt]
+                                            ) [Statements]
+                                            DesignatorStmt(
+                                              DesigStmtActions(
+                                                DesigVar(
+                                                 bodovi
+                                                ) [DesigVar]
+                                                DesigDec(
+                                                ) [DesigDec]
+                                              ) [DesigStmtActions]
+                                            ) [DesignatorStmt]
+                                          ) [Statements]
+                                          PrintStmt(
+                                            PosTermExpr(
+                                              FactorTerm(
+                                                VarFactor(
+                                                  DesigVar(
+                                                   bodovi
+                                                  ) [DesigVar]
+                                                ) [VarFactor]
+                                              ) [FactorTerm]
+                                            ) [PosTermExpr]
+                                            NoPrintVar(
+                                            ) [NoPrintVar]
+                                          ) [PrintStmt]
+                                        ) [Statements]
+                                        DesignatorStmt(
+                                          DesigStmtActions(
+                                            ScopeDesigVar(
+                                             Nizovi
+                                             niz
+                                            ) [ScopeDesigVar]
+                                            AssignExpr(
+                                              PosTermExpr(
+                                                FactorTerm(
+                                                  NewFactor(
+                                                    Type(
+                                                     int
+                                                    ) [Type]
+                                                    PosTermExpr(
+                                                      FactorTerm(
+                                                        NumFactor(
+                                                         3
+                                                        ) [NumFactor]
+                                                      ) [FactorTerm]
+                                                    ) [PosTermExpr]
+                                                  ) [NewFactor]
+                                                ) [FactorTerm]
+                                              ) [PosTermExpr]
+                                            ) [AssignExpr]
+                                          ) [DesigStmtActions]
+                                        ) [DesignatorStmt]
+                                      ) [Statements]
+                                      DesignatorStmt(
+                                        DesigStmtActions(
+                                          ScopeArrayElem(
+                                           Nizovi
+                                           niz
+                                            PosTermExpr(
+                                              FactorTerm(
+                                                VarFactor(
+                                                  ScopeDesigVar(
+                                                   Konstante
+                                                   nula
+                                                  ) [ScopeDesigVar]
+                                                ) [VarFactor]
+                                              ) [FactorTerm]
+                                            ) [PosTermExpr]
+                                          ) [ScopeArrayElem]
+                                          AssignExpr(
+                                            PosTermExpr(
+                                              FactorTerm(
+                                                VarFactor(
+                                                  ScopeDesigVar(
+                                                   Konstante
+                                                   jedan
+                                                  ) [ScopeDesigVar]
+                                                ) [VarFactor]
+                                              ) [FactorTerm]
+                                            ) [PosTermExpr]
+                                          ) [AssignExpr]
+                                        ) [DesigStmtActions]
+                                      ) [DesignatorStmt]
+                                    ) [Statements]
+                                    DesignatorStmt(
+                                      DesigStmtActions(
+                                        ScopeArrayElem(
+                                         Nizovi
+                                         niz
+                                          PosTermExpr(
+                                            FactorTerm(
+                                              NumFactor(
+                                               1
+                                              ) [NumFactor]
+                                            ) [FactorTerm]
+                                          ) [PosTermExpr]
+                                        ) [ScopeArrayElem]
+                                        AssignExpr(
+                                          PosTermExpr(
+                                            FactorTerm(
+                                              NumFactor(
+                                               2
+                                              ) [NumFactor]
+                                            ) [FactorTerm]
+                                          ) [PosTermExpr]
+                                        ) [AssignExpr]
+                                      ) [DesigStmtActions]
+                                    ) [DesignatorStmt]
+                                  ) [Statements]
+                                  DesignatorStmt(
+                                    DesigStmtActions(
+                                      ScopeArrayElem(
+                                       Nizovi
+                                       niz
+                                        PosTermExpr(
+                                          FactorTerm(
+                                            VarFactor(
+                                              ScopeArrayElem(
+                                               Nizovi
+                                               niz
+                                                PosTermExpr(
+                                                  FactorTerm(
+                                                    VarFactor(
+                                                      ScopeDesigVar(
+                                                       Konstante
+                                                       jedan
+                                                      ) [ScopeDesigVar]
+                                                    ) [VarFactor]
+                                                  ) [FactorTerm]
+                                                ) [PosTermExpr]
+                                              ) [ScopeArrayElem]
+                                            ) [VarFactor]
+                                          ) [FactorTerm]
+                                        ) [PosTermExpr]
+                                      ) [ScopeArrayElem]
+                                      AssignExpr(
+                                        PosTermExpr(
+                                          MulTerm(
+                                            FactorTerm(
+                                              VarFactor(
+                                                ScopeArrayElem(
+                                                 Nizovi
+                                                 niz
+                                                  PosTermExpr(
+                                                    FactorTerm(
+                                                      VarFactor(
+                                                        ScopeArrayElem(
+                                                         Nizovi
+                                                         niz
+                                                          PosTermExpr(
+                                                            FactorTerm(
+                                                              NumFactor(
+                                                               0
+                                                              ) [NumFactor]
+                                                            ) [FactorTerm]
+                                                          ) [PosTermExpr]
+                                                        ) [ScopeArrayElem]
+                                                      ) [VarFactor]
+                                                    ) [FactorTerm]
+                                                  ) [PosTermExpr]
+                                                ) [ScopeArrayElem]
+                                              ) [VarFactor]
+                                            ) [FactorTerm]
+                                            Mul(
+                                            ) [Mul]
+                                            NumFactor(
+                                             3
+                                            ) [NumFactor]
+                                          ) [MulTerm]
+                                        ) [PosTermExpr]
+                                      ) [AssignExpr]
+                                    ) [DesigStmtActions]
+                                  ) [DesignatorStmt]
+                                ) [Statements]
+                                DesignatorStmt(
+                                  DesigStmtActions(
+                                    DesigVar(
+                                     bodovi
+                                    ) [DesigVar]
+                                    AssignExpr(
+                                      PosTermExpr(
+                                        MulTerm(
+                                          FactorTerm(
+                                            VarFactor(
+                                              ScopeArrayElem(
+                                               Nizovi
+                                               niz
+                                                PosTermExpr(
+                                                  FactorTerm(
+                                                    NumFactor(
+                                                     2
+                                                    ) [NumFactor]
+                                                  ) [FactorTerm]
+                                                ) [PosTermExpr]
+                                              ) [ScopeArrayElem]
+                                            ) [VarFactor]
+                                          ) [FactorTerm]
+                                          Div(
+                                          ) [Div]
+                                          VarFactor(
+                                            ScopeArrayElem(
+                                             Nizovi
+                                             niz
+                                              PosTermExpr(
+                                                FactorTerm(
+                                                  NumFactor(
+                                                   0
+                                                  ) [NumFactor]
+                                                ) [FactorTerm]
+                                              ) [PosTermExpr]
+                                            ) [ScopeArrayElem]
+                                          ) [VarFactor]
+                                        ) [MulTerm]
+                                      ) [PosTermExpr]
+                                    ) [AssignExpr]
+                                  ) [DesigStmtActions]
+                                ) [DesignatorStmt]
+                              ) [Statements]
+                              PrintStmt(
+                                PosTermExpr(
+                                  FactorTerm(
+                                    VarFactor(
+                                      DesigVar(
+                                       bodovi
+                                      ) [DesigVar]
+                                    ) [VarFactor]
+                                  ) [FactorTerm]
+                                ) [PosTermExpr]
+                                NoPrintVar(
+                                ) [NoPrintVar]
+                              ) [PrintStmt]
+                            ) [Statements]
+                            PrintStmt(
+                              PosTermExpr(
+                                FactorTerm(
+                                  VarFactor(
+                                    ScopeArrayElem(
+                                     Nizovi
+                                     niz
+                                      PosTermExpr(
+                                        FactorTerm(
+                                          NumFactor(
+                                           2
+                                          ) [NumFactor]
+                                        ) [FactorTerm]
+                                      ) [PosTermExpr]
+                                    ) [ScopeArrayElem]
+                                  ) [VarFactor]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                              NoPrintVar(
+                              ) [NoPrintVar]
+                            ) [PrintStmt]
+                          ) [Statements]
+                          DesignatorStmt(
+                            DesigStmtActions(
+                              ScopeDesigVar(
+                               Nizovi
+                               nizch
+                              ) [ScopeDesigVar]
+                              AssignExpr(
+                                PosTermExpr(
+                                  FactorTerm(
+                                    NewFactor(
+                                      Type(
+                                       char
+                                      ) [Type]
+                                      PosTermExpr(
+                                        FactorTerm(
+                                          NumFactor(
+                                           3
+                                          ) [NumFactor]
+                                        ) [FactorTerm]
+                                      ) [PosTermExpr]
+                                    ) [NewFactor]
+                                  ) [FactorTerm]
+                                ) [PosTermExpr]
+                              ) [AssignExpr]
+                            ) [DesigStmtActions]
+                          ) [DesignatorStmt]
+                        ) [Statements]
+                        DesignatorStmt(
+                          DesigStmtActions(
+                            ScopeArrayElem(
+                             Nizovi
+                             nizch
+                              PosTermExpr(
+                                FactorTerm(
+                                  NumFactor(
+                                   0
+                                  ) [NumFactor]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                            ) [ScopeArrayElem]
+                            AssignExpr(
+                              PosTermExpr(
+                                FactorTerm(
+                                  CharFactor(
+                                   a
+                                  ) [CharFactor]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                            ) [AssignExpr]
+                          ) [DesigStmtActions]
+                        ) [DesignatorStmt]
+                      ) [Statements]
+                      DesignatorStmt(
+                        DesigStmtActions(
+                          ScopeArrayElem(
+                           Nizovi
+                           nizch
+                            PosTermExpr(
+                              FactorTerm(
+                                VarFactor(
+                                  ScopeDesigVar(
+                                   Konstante
+                                   jedan
+                                  ) [ScopeDesigVar]
+                                ) [VarFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                          ) [ScopeArrayElem]
+                          AssignExpr(
+                            PosTermExpr(
+                              FactorTerm(
+                                CharFactor(
+                                 b
+                                ) [CharFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                          ) [AssignExpr]
+                        ) [DesigStmtActions]
+                      ) [DesignatorStmt]
+                    ) [Statements]
+                    DesignatorStmt(
+                      DesigStmtActions(
+                        ScopeArrayElem(
+                         Nizovi
+                         nizch
+                          AddExpr(
+                            PosTermExpr(
+                              FactorTerm(
+                                VarFactor(
+                                  ScopeDesigVar(
+                                   Konstante
+                                   pet
+                                  ) [ScopeDesigVar]
+                                ) [VarFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                            Sub(
+                            ) [Sub]
+                            FactorTerm(
+                              NumFactor(
+                               3
+                              ) [NumFactor]
+                            ) [FactorTerm]
+                          ) [AddExpr]
+                        ) [ScopeArrayElem]
+                        AssignExpr(
+                          PosTermExpr(
+                            FactorTerm(
+                              CharFactor(
+                               c
+                              ) [CharFactor]
+                            ) [FactorTerm]
+                          ) [PosTermExpr]
+                        ) [AssignExpr]
+                      ) [DesigStmtActions]
+                    ) [DesignatorStmt]
+                  ) [Statements]
+                  PrintStmt(
+                    PosTermExpr(
+                      FactorTerm(
+                        VarFactor(
+                          ScopeArrayElem(
+                           Nizovi
+                           nizch
+                            PosTermExpr(
+                              FactorTerm(
+                                NumFactor(
+                                 1
+                                ) [NumFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                          ) [ScopeArrayElem]
+                        ) [VarFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                    NoPrintVar(
+                    ) [NoPrintVar]
+                  ) [PrintStmt]
+                ) [Statements]
+                PrintStmt(
+                  PosTermExpr(
+                    FactorTerm(
+                      VarFactor(
+                        ScopeArrayElem(
+                         Nizovi
+                         nizch
+                          PosTermExpr(
+                            MulTerm(
+                              FactorTerm(
+                                VarFactor(
+                                  ScopeDesigVar(
+                                   Konstante
+                                   jedan
+                                  ) [ScopeDesigVar]
+                                ) [VarFactor]
+                              ) [FactorTerm]
+                              Mul(
+                              ) [Mul]
+                              NumFactor(
+                               2
+                              ) [NumFactor]
+                            ) [MulTerm]
+                          ) [PosTermExpr]
+                        ) [ScopeArrayElem]
+                      ) [VarFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                  NoPrintVar(
+                  ) [NoPrintVar]
+                ) [PrintStmt]
+              ) [Statements]
+              DesignatorStmt(
+                DesigStmtActions(
+                  DesigVar(
+                   a
+                  ) [DesigVar]
+                  AssignExpr(
+                    PosTermExpr(
+                      FactorTerm(
+                        NumFactor(
+                         1
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                  ) [AssignExpr]
+                ) [DesigStmtActions]
+              ) [DesignatorStmt]
+            ) [Statements]
+            ReadExpr(
+              DesigVar(
+               bodovi
+              ) [DesigVar]
+            ) [ReadExpr]
+          ) [Statements]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               bodovi
+              ) [DesigVar]
+              AssignExpr(
+                AddExpr(
+                  AddExpr(
+                    NegTermExpr(
+                      FactorTerm(
+                        VarFactor(
+                          DesigVar(
+                           bodovi
+                          ) [DesigVar]
+                        ) [VarFactor]
+                      ) [FactorTerm]
+                    ) [NegTermExpr]
+                    Add(
+                    ) [Add]
+                    MulTerm(
+                      FactorTerm(
+                        FactorExpr(
+                          AddExpr(
+                            PosTermExpr(
+                              MulTerm(
+                                MulTerm(
+                                  FactorTerm(
+                                    VarFactor(
+                                      ScopeDesigVar(
+                                       Konstante
+                                       pet
+                                      ) [ScopeDesigVar]
+                                    ) [VarFactor]
+                                  ) [FactorTerm]
+                                  Mul(
+                                  ) [Mul]
+                                  VarFactor(
+                                    DesigVar(
+                                     a
+                                    ) [DesigVar]
+                                  ) [VarFactor]
+                                ) [MulTerm]
+                                Div(
+                                ) [Div]
+                                NumFactor(
+                                 2
+                                ) [NumFactor]
+                              ) [MulTerm]
+                            ) [PosTermExpr]
+                            Sub(
+                            ) [Sub]
+                            FactorTerm(
+                              VarFactor(
+                                ScopeDesigVar(
+                                 Konstante
+                                 jedan
+                                ) [ScopeDesigVar]
+                              ) [VarFactor]
+                            ) [FactorTerm]
+                          ) [AddExpr]
+                        ) [FactorExpr]
+                      ) [FactorTerm]
+                      Mul(
+                      ) [Mul]
+                      VarFactor(
+                        DesigVar(
+                         bodovi
+                        ) [DesigVar]
+                      ) [VarFactor]
+                    ) [MulTerm]
+                  ) [AddExpr]
+                  Sub(
+                  ) [Sub]
+                  FactorTerm(
+                    FactorExpr(
+                      AddExpr(
+                        AddExpr(
+                          PosTermExpr(
+                            MulTerm(
+                              FactorTerm(
+                                NumFactor(
+                                 3
+                                ) [NumFactor]
+                              ) [FactorTerm]
+                              Mod(
+                              ) [Mod]
+                              NumFactor(
+                               2
+                              ) [NumFactor]
+                            ) [MulTerm]
+                          ) [PosTermExpr]
+                          Add(
+                          ) [Add]
+                          MulTerm(
+                            FactorTerm(
+                              NumFactor(
+                               3
+                              ) [NumFactor]
+                            ) [FactorTerm]
+                            Mul(
+                            ) [Mul]
+                            NumFactor(
+                             2
+                            ) [NumFactor]
+                          ) [MulTerm]
+                        ) [AddExpr]
+                        Sub(
+                        ) [Sub]
+                        FactorTerm(
+                          NumFactor(
+                           3
+                          ) [NumFactor]
+                        ) [FactorTerm]
+                      ) [AddExpr]
+                    ) [FactorExpr]
+                  ) [FactorTerm]
+                ) [AddExpr]
+              ) [AssignExpr]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        PrintStmt(
+          PosTermExpr(
+            FactorTerm(
+              VarFactor(
+                DesigVar(
+                 bodovi
+                ) [DesigVar]
+              ) [VarFactor]
+            ) [FactorTerm]
+          ) [PosTermExpr]
+          NoPrintVar(
+          ) [NoPrintVar]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:23:06,027 - Deklarisana konstanta Konstante::nula na liniji 6
+INFO  00:23:06,027 - Deklarisana konstanta Konstante::jedan na liniji 7
+INFO  00:23:06,028 - Deklarisana konstanta Konstante::pet na liniji 8
+INFO  00:23:06,028 - Deklarisana promenljiva Nizovi::niz na liniji 14
+INFO  00:23:06,028 - Deklarisana promenljiva Nizovi::nizch na liniji 15
+INFO  00:23:06,028 - Deklarisana promenljiva a na liniji 20
+INFO  00:23:06,028 - Obradjuje se funkcija main na liniji 23
+INFO  00:23:06,028 - Deklarisana promenljiva bodovi na liniji 24
+INFO  00:23:06,028 - Deklarisana promenljiva bt na liniji 25
+INFO  00:23:06,030 - Pretraga na 35(Nizovi::niz), nadjeno Var Nizovi::niz: Arr of int, 0, 0  na liniji 35
+INFO  00:23:06,031 - Pretraga na 36(Nizovi::niz), nadjeno Var Nizovi::niz: Arr of int, 0, 0  na liniji 36
+INFO  00:23:06,031 - Pretraga na 37(Nizovi::niz), nadjeno Var Nizovi::niz: Arr of int, 0, 0  na liniji 37
+INFO  00:23:06,031 - Pretraga na 37(Nizovi::niz), nadjeno Var Nizovi::niz: Arr of int, 0, 0  na liniji 37
+INFO  00:23:06,031 - Pretraga na 37(Nizovi::niz), nadjeno Var Nizovi::niz: Arr of int, 0, 0  na liniji 37
+INFO  00:23:06,031 - Pretraga na 37(Nizovi::niz), nadjeno Var Nizovi::niz: Arr of int, 0, 0  na liniji 37
+INFO  00:23:06,032 - Pretraga na 38(Nizovi::niz), nadjeno Var Nizovi::niz: Arr of int, 0, 0  na liniji 38
+INFO  00:23:06,032 - Pretraga na 38(Nizovi::niz), nadjeno Var Nizovi::niz: Arr of int, 0, 0  na liniji 38
+INFO  00:23:06,032 - Pretraga na 40(Nizovi::niz), nadjeno Var Nizovi::niz: Arr of int, 0, 0  na liniji 40
+INFO  00:23:06,033 - Pretraga na 44(Nizovi::nizch), nadjeno Var Nizovi::nizch: Arr of char, 1, 0  na liniji 44
+INFO  00:23:06,033 - Pretraga na 45(Nizovi::nizch), nadjeno Var Nizovi::nizch: Arr of char, 1, 0  na liniji 45
+INFO  00:23:06,035 - Pretraga na 46(Nizovi::nizch), nadjeno Var Nizovi::nizch: Arr of char, 1, 0  na liniji 46
+INFO  00:23:06,036 - Pretraga na 47(Nizovi::nizch), nadjeno Var Nizovi::nizch: Arr of char, 1, 0  na liniji 47
+INFO  00:23:06,036 - Pretraga na 48(Nizovi::nizch), nadjeno Var Nizovi::nizch: Arr of char, 1, 0  na liniji 48
+INFO  00:23:06,037 -  Print count calls = 0
+INFO  00:23:06,037 -  Deklarisanih promenljivih ima = 0
+INFO  00:23:06,048 - Uspesna semanticka analiza!!

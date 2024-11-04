@@ -1,0 +1,348 @@
+INFO  23:41:23,176 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:41:23,250 - #2 program
+INFO  23:41:23,250 - #47 MJProgram
+INFO  23:41:23,251 - #47 int
+INFO  23:41:23,254 - #47 x
+INFO  23:41:23,255 - #34 ;
+INFO  23:41:23,256 - #47 int
+INFO  23:41:23,257 - #47 y
+INFO  23:41:23,257 - #34 ;
+INFO  23:41:23,257 - #42 {
+INFO  23:41:23,258 - #47 int
+INFO  23:41:23,258 - #47 calc
+INFO  23:41:23,259 - #38 (
+INFO  23:41:23,260 - #47 int
+INFO  23:41:23,260 - #47 a
+INFO  23:41:23,260 - #36 ,
+INFO  23:41:23,261 - #47 int
+INFO  23:41:23,261 - #47 b
+INFO  23:41:23,262 - #39 )
+INFO  23:41:23,262 - #42 {
+INFO  23:41:23,263 - #47 a
+INFO  23:41:23,265 - #31 =
+INFO  23:41:23,266 - #47 a
+INFO  23:41:23,267 - #18 +
+INFO  23:41:23,267 - #47 a
+INFO  23:41:23,269 - #21 /
+INFO  23:41:23,269 - #38 (
+INFO  23:41:23,271 - #46 1
+INFO  23:41:23,271 - #18 +
+INFO  23:41:23,272 - #46 1
+INFO  23:41:23,272 - #39 )
+INFO  23:41:23,272 - #34 ;
+INFO  23:41:23,273 - #47 b
+INFO  23:41:23,273 - #31 =
+INFO  23:41:23,273 - #47 b
+INFO  23:41:23,273 - #18 +
+INFO  23:41:23,273 - #47 b
+INFO  23:41:23,273 - #21 /
+INFO  23:41:23,274 - #46 1
+INFO  23:41:23,274 - #18 +
+INFO  23:41:23,274 - #46 1
+INFO  23:41:23,274 - #34 ;
+INFO  23:41:23,274 - #11 return
+INFO  23:41:23,274 - #47 a
+INFO  23:41:23,275 - #18 +
+INFO  23:41:23,275 - #47 b
+INFO  23:41:23,275 - #34 ;
+INFO  23:41:23,275 - #43 }
+INFO  23:41:23,276 - #12 void
+INFO  23:41:23,277 - #47 main
+INFO  23:41:23,278 - #38 (
+INFO  23:41:23,278 - #39 )
+INFO  23:41:23,279 - #42 {
+INFO  23:41:23,279 - #47 x
+INFO  23:41:23,280 - #31 =
+INFO  23:41:23,280 - #46 2
+INFO  23:41:23,280 - #20 *
+INFO  23:41:23,280 - #38 (
+INFO  23:41:23,281 - #46 3
+INFO  23:41:23,281 - #18 +
+INFO  23:41:23,281 - #46 4
+INFO  23:41:23,282 - #39 )
+INFO  23:41:23,282 - #34 ;
+INFO  23:41:23,283 - #9 print
+INFO  23:41:23,283 - #38 (
+INFO  23:41:23,283 - #47 x
+INFO  23:41:23,283 - #39 )
+INFO  23:41:23,284 - #34 ;
+INFO  23:41:23,285 - #11 return
+INFO  23:41:23,285 - #34 ;
+INFO  23:41:23,285 - #43 }
+INFO  23:41:23,286 - #43 }
+INFO  23:41:23,297 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           x
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         y
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         calc
+        ) [MethodTypeName]
+        FormParams(
+          FormCommaParamDecl(
+            FormParamDecl(
+              FormParamVar(
+                Type(
+                 int
+                ) [Type]
+               a
+              ) [FormParamVar]
+            ) [FormParamDecl]
+            FormParamVar(
+              Type(
+               int
+              ) [Type]
+             b
+            ) [FormParamVar]
+          ) [FormCommaParamDecl]
+        ) [FormParams]
+        NoMethVar(
+        ) [NoMethVar]
+        Statements(
+          Statements(
+            Statements(
+              NoStmt(
+              ) [NoStmt]
+              DesignatorStmt(
+                DesigStmtActions(
+                  DesigVar(
+                   a
+                  ) [DesigVar]
+                  AssignExpr(
+                    AddExpr(
+                      PosTermExpr(
+                        FactorTerm(
+                          VarFactor(
+                            DesigVar(
+                             a
+                            ) [DesigVar]
+                          ) [VarFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                      Add(
+                      ) [Add]
+                      MulTerm(
+                        FactorTerm(
+                          VarFactor(
+                            DesigVar(
+                             a
+                            ) [DesigVar]
+                          ) [VarFactor]
+                        ) [FactorTerm]
+                        Div(
+                        ) [Div]
+                        FactorExpr(
+                          AddExpr(
+                            PosTermExpr(
+                              FactorTerm(
+                                NumFactor(
+                                 1
+                                ) [NumFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                            Add(
+                            ) [Add]
+                            FactorTerm(
+                              NumFactor(
+                               1
+                              ) [NumFactor]
+                            ) [FactorTerm]
+                          ) [AddExpr]
+                        ) [FactorExpr]
+                      ) [MulTerm]
+                    ) [AddExpr]
+                  ) [AssignExpr]
+                ) [DesigStmtActions]
+              ) [DesignatorStmt]
+            ) [Statements]
+            DesignatorStmt(
+              DesigStmtActions(
+                DesigVar(
+                 b
+                ) [DesigVar]
+                AssignExpr(
+                  AddExpr(
+                    AddExpr(
+                      PosTermExpr(
+                        FactorTerm(
+                          VarFactor(
+                            DesigVar(
+                             b
+                            ) [DesigVar]
+                          ) [VarFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                      Add(
+                      ) [Add]
+                      MulTerm(
+                        FactorTerm(
+                          VarFactor(
+                            DesigVar(
+                             b
+                            ) [DesigVar]
+                          ) [VarFactor]
+                        ) [FactorTerm]
+                        Div(
+                        ) [Div]
+                        NumFactor(
+                         1
+                        ) [NumFactor]
+                      ) [MulTerm]
+                    ) [AddExpr]
+                    Add(
+                    ) [Add]
+                    FactorTerm(
+                      NumFactor(
+                       1
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                  ) [AddExpr]
+                ) [AssignExpr]
+              ) [DesigStmtActions]
+            ) [DesignatorStmt]
+          ) [Statements]
+          ReturnExpr(
+            AddExpr(
+              PosTermExpr(
+                FactorTerm(
+                  VarFactor(
+                    DesigVar(
+                     a
+                    ) [DesigVar]
+                  ) [VarFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              Add(
+              ) [Add]
+              FactorTerm(
+                VarFactor(
+                  DesigVar(
+                   b
+                  ) [DesigVar]
+                ) [VarFactor]
+              ) [FactorTerm]
+            ) [AddExpr]
+          ) [ReturnExpr]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            DesignatorStmt(
+              DesigStmtActions(
+                DesigVar(
+                 x
+                ) [DesigVar]
+                AssignExpr(
+                  PosTermExpr(
+                    MulTerm(
+                      FactorTerm(
+                        NumFactor(
+                         2
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                      Mul(
+                      ) [Mul]
+                      FactorExpr(
+                        AddExpr(
+                          PosTermExpr(
+                            FactorTerm(
+                              NumFactor(
+                               3
+                              ) [NumFactor]
+                            ) [FactorTerm]
+                          ) [PosTermExpr]
+                          Add(
+                          ) [Add]
+                          FactorTerm(
+                            NumFactor(
+                             4
+                            ) [NumFactor]
+                          ) [FactorTerm]
+                        ) [AddExpr]
+                      ) [FactorExpr]
+                    ) [MulTerm]
+                  ) [PosTermExpr]
+                ) [AssignExpr]
+              ) [DesigStmtActions]
+            ) [DesignatorStmt]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                VarFactor(
+                  DesigVar(
+                   x
+                  ) [DesigVar]
+                ) [VarFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:41:23,302 - Deklarisana promenljiva x na liniji 2
+INFO  23:41:23,303 - Deklarisana promenljiva y na liniji 3
+INFO  23:41:23,303 - Obradjuje se funkcija calc na liniji 5
+INFO  23:41:23,303 - Deklarisan parametar a metode: calc. na liniji 5
+INFO  23:41:23,303 - Deklarisan parametar b metode: calc. na liniji 5
+INFO  23:41:23,304 - Obradjuje se funkcija main na liniji 13
+INFO  23:41:23,304 -  Print count calls = 0
+INFO  23:41:23,305 -  Deklarisanih promenljivih ima = 0
+INFO  23:41:23,314 - Uspesna semanticka analiza!!

@@ -1,0 +1,223 @@
+INFO  16:11:19,626 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  16:11:19,700 - #2 program
+INFO  16:11:19,700 - #48 test301
+INFO  16:11:19,700 - #48 int
+INFO  16:11:19,703 - #48 niz
+INFO  16:11:19,704 - #40 [
+INFO  16:11:19,704 - #41 ]
+INFO  16:11:19,704 - #36 ,
+INFO  16:11:19,705 - #48 niz2
+INFO  16:11:19,705 - #40 [
+INFO  16:11:19,706 - #41 ]
+INFO  16:11:19,706 - #34 ;
+INFO  16:11:19,706 - #42 {
+INFO  16:11:19,707 - #12 void
+INFO  16:11:19,707 - #48 main
+INFO  16:11:19,708 - #38 (
+INFO  16:11:19,709 - #39 )
+INFO  16:11:19,710 - #42 {
+INFO  16:11:19,711 - #48 Unpacking
+INFO  16:11:19,713 - #45 ::
+INFO  16:11:19,713 - #48 niz2
+INFO  16:11:19,714 - #31 =
+INFO  16:11:19,715 - #8 new
+INFO  16:11:19,715 - #48 int
+INFO  16:11:19,715 - #40 [
+INFO  16:11:19,715 - #47 1
+INFO  16:11:19,715 - #41 ]
+INFO  16:11:19,716 - #34 ;
+INFO  16:11:19,717 - #40 [
+INFO  16:11:19,718 - #36 ,
+INFO  16:11:19,719 - #48 Unpacking
+INFO  16:11:19,720 - #45 ::
+INFO  16:11:19,720 - #48 a
+INFO  16:11:19,720 - #36 ,
+INFO  16:11:19,720 - #20 *
+INFO  16:11:19,722 - #48 Unpacking
+INFO  16:11:19,722 - #45 ::
+INFO  16:11:19,723 - #48 niz2
+INFO  16:11:19,723 - #41 ]
+INFO  16:11:19,723 - #31 =
+INFO  16:11:19,723 - #48 niz
+INFO  16:11:19,723 - #34 ;
+INFO  16:11:19,723 - #9 print
+INFO  16:11:19,723 - #38 (
+INFO  16:11:19,724 - #48 Unpacking
+INFO  16:11:19,724 - #45 ::
+INFO  16:11:19,724 - #48 a
+INFO  16:11:19,724 - #39 )
+INFO  16:11:19,725 - #34 ;
+INFO  16:11:19,726 - #9 print
+INFO  16:11:19,726 - #38 (
+INFO  16:11:19,726 - #48 Unpacking
+INFO  16:11:19,726 - #45 ::
+INFO  16:11:19,726 - #48 niz2
+INFO  16:11:19,726 - #40 [
+INFO  16:11:19,726 - #47 0
+INFO  16:11:19,726 - #41 ]
+INFO  16:11:19,727 - #39 )
+INFO  16:11:19,727 - #34 ;
+INFO  16:11:19,727 - #9 print
+INFO  16:11:19,727 - #38 (
+INFO  16:11:19,727 - #46 eol
+INFO  16:11:19,727 - #39 )
+INFO  16:11:19,728 - #34 ;
+INFO  16:11:19,728 - #43 }
+INFO  16:11:19,729 - #43 }
+INFO  16:11:19,739 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      MultipleVarDecls(
+        SingleVarDecl(
+          VarArrayNameDecl(
+           niz
+          ) [VarArrayNameDecl]
+        ) [SingleVarDecl]
+        VarArrayNameDecl(
+         niz2
+        ) [VarArrayNameDecl]
+      ) [MultipleVarDecls]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                DesignatorStmt(
+                  DesigStmtActions(
+                    ScopeDesigVar(
+                     Unpacking
+                     niz2
+                    ) [ScopeDesigVar]
+                    AssignExpr(
+                      PosTermExpr(
+                        FactorTerm(
+                          NewFactor(
+                            Type(
+                             int
+                            ) [Type]
+                            PosTermExpr(
+                              FactorTerm(
+                                NumFactor(
+                                 1
+                                ) [NumFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                          ) [NewFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                    ) [AssignExpr]
+                  ) [DesigStmtActions]
+                ) [DesignatorStmt]
+              ) [Statements]
+              DesignatorStmt(
+                DesigStmtArrayAssign(
+                  AddArrElem(
+                    SkipArrElem(
+                      NoDesigArrayList(
+                      ) [NoDesigArrayList]
+                    ) [SkipArrElem]
+                    ScopeDesigVar(
+                     Unpacking
+                     a
+                    ) [ScopeDesigVar]
+                  ) [AddArrElem]
+                  ScopeDesigVar(
+                   Unpacking
+                   niz2
+                  ) [ScopeDesigVar]
+                  DesigVar(
+                   niz
+                  ) [DesigVar]
+                ) [DesigStmtArrayAssign]
+              ) [DesignatorStmt]
+            ) [Statements]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  VarFactor(
+                    ScopeDesigVar(
+                     Unpacking
+                     a
+                    ) [ScopeDesigVar]
+                  ) [VarFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                VarFactor(
+                  ScopeArrayElem(
+                   Unpacking
+                   niz2
+                    PosTermExpr(
+                      FactorTerm(
+                        NumFactor(
+                         0
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                  ) [ScopeArrayElem]
+                ) [VarFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+        PrintStmtEol(
+        ) [PrintStmtEol]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:11:19,744 - Deklarisana promenljiva niz na liniji 5
+INFO  16:11:19,745 - Deklarisana promenljiva niz2 na liniji 5
+INFO  16:11:19,745 - Obradjuje se funkcija main na liniji 8
+ERROR 16:11:19,745 - Greska na liniji 11 : ime Unpacking nije deklarisano! 
+ERROR 16:11:19,745 - Greska na liniji 11 : ime Unpacking::niz2 nije deklarisano! 
+ERROR 16:11:19,747 - Greska na liniji 12 : ime Unpacking nije deklarisano! 
+ERROR 16:11:19,747 - Greska na liniji 12 : ime Unpacking::a nije deklarisano! 
+ERROR 16:11:19,747 - Greska na liniji 12 : ime Unpacking nije deklarisano! 
+ERROR 16:11:19,747 - Greska na liniji 12 : ime Unpacking::niz2 nije deklarisano! 
+ERROR 16:11:19,747 - Greska na liniji 12 : oznaka sa desne strane jednakosti nije kompatibilna pri dodeli sa 1. oznakom sa leve strane jednakosti!
+ERROR 16:11:19,748 - Greska na liniji 12 : oznaka sa leve strane jednakosti posle znaka * mora da bude niz!
+ERROR 16:11:19,748 - Greska na liniji 13 : ime Unpacking nije deklarisano! 
+ERROR 16:11:19,748 - Greska na liniji 13 : ime Unpacking::a nije deklarisano! 
+ERROR 16:11:19,748 - Greska na liniji 13: podatak koji se stampa mora da bude int, char ili bool tipa!
+ERROR 16:11:19,748 - Greska na liniji 14 : ime Unpacking nije deklarisano! 
+ERROR 16:11:19,748 - Greska na liniji 14 : ime Unpacking::niz2 nije deklarisano! 
+ERROR 16:11:19,749 - Greska na liniji 14: podatak koji se stampa mora da bude int, char ili bool tipa!
+INFO  16:11:19,749 -  Print count calls = 0
+INFO  16:11:19,749 -  Deklarisanih promenljivih ima = 0
+INFO  16:11:19,750 - Neuspesna semanticka analiza!!

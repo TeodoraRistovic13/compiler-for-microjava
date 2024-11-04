@@ -1,0 +1,85 @@
+INFO  19:58:36,376 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:58:36,489 - #2 program
+INFO  19:58:36,490 - #47 test302
+INFO  19:58:36,490 - #17 namespace
+INFO  19:58:36,493 - #47 Unpacking
+INFO  19:58:36,493 - #42 {
+INFO  19:58:36,495 - #47 int
+INFO  19:58:36,496 - #47 a
+INFO  19:58:36,496 - #34 ;
+INFO  19:58:36,497 - #42 {
+INFO  19:58:36,498 - #43 }
+INFO  19:58:36,500 - #43 }
+INFO  19:58:36,500 - #47 int
+INFO  19:58:36,503 - #47 i
+INFO  19:58:36,503 - #34 ;
+INFO  19:58:36,503 - #47 bool
+INFO  19:58:36,504 - #47 ibool
+INFO  19:58:36,504 - #34 ;
+INFO  19:58:36,504 - #42 {
+INFO  19:58:36,505 - #43 }
+INFO  19:58:36,519 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Unpacking
+      ) [NamespaceName]
+      NamespaceDecls(
+        NoNamespaceDecls(
+        ) [NoNamespaceDecls]
+        NamespaceVarDecl(
+          NoScopeType(
+           int
+          ) [NoScopeType]
+          SingleVarDecl(
+            VarNameDecl(
+             a
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [NamespaceVarDecl]
+      ) [NamespaceDecls]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+    ) [Namespace]
+  ) [NamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        NoScopeType(
+         int
+        ) [NoScopeType]
+        SingleVarDecl(
+          VarNameDecl(
+           i
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      NoScopeType(
+       bool
+      ) [NoScopeType]
+      SingleVarDecl(
+        VarNameDecl(
+         ibool
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  19:58:36,523 - ===================================
+INFO  19:58:36,528 - Deklarisana promenljiva a na liniji 6
+INFO  19:58:36,529 - Deklarisana promenljiva i na liniji 10
+INFO  19:58:36,529 - Deklarisana promenljiva ibool na liniji 11
+INFO  19:58:36,529 -  Print count calls = 0
+INFO  19:58:36,529 -  Deklarisanih promenljivih ima = 0
+INFO  19:58:36,530 - ===================================

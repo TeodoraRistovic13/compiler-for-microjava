@@ -1,0 +1,65 @@
+INFO  12:55:32,346 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  12:55:32,460 - #2 program
+INFO  12:55:32,460 - #48 test301
+INFO  12:55:32,460 - #48 int
+INFO  12:55:32,464 - #48 a
+INFO  12:55:32,465 - #36 ,
+INFO  12:55:32,465 - #48 i
+INFO  12:55:32,466 - #34 ;
+INFO  12:55:32,466 - #42 {
+INFO  12:55:32,467 - #12 void
+INFO  12:55:32,468 - #48 main
+INFO  12:55:32,470 - #38 (
+INFO  12:55:32,472 - #39 )
+INFO  12:55:32,473 - #48 int
+INFO  12:55:32,474 - #48 bodovi
+INFO  12:55:32,475 - #34 ;
+INFO  12:55:32,475 - #48 bool
+INFO  12:55:32,475 - #48 bt
+INFO  12:55:32,475 - #34 ;
+INFO  12:55:32,476 - #42 {
+INFO  12:55:32,476 - #48 i
+INFO  12:55:32,477 - #31 =
+INFO  12:55:32,481 - #47 0
+INFO  12:55:32,481 - #15 for
+ERROR 12:55:32,481 - 
+Sintaksna greska na liniji 13
+INFO  12:55:32,481 - #38 (
+INFO  12:55:32,482 - #34 ;
+INFO  12:55:32,482 - #34 ;
+INFO  12:55:32,483 - #39 )
+INFO  12:55:32,483 - #42 {
+INFO  12:55:32,483 - #7 if
+INFO  12:55:32,484 - #38 (
+INFO  12:55:32,484 - #48 i
+INFO  12:55:32,484 - #23 ==
+INFO  12:55:32,484 - #47 5
+INFO  12:55:32,485 - #39 )
+INFO  12:55:32,485 - #42 {
+INFO  12:55:32,485 - #3 break
+INFO  12:55:32,485 - #34 ;
+INFO  12:55:32,485 - #43 }
+INFO  12:55:32,485 - #5 else
+INFO  12:55:32,486 - #42 {
+INFO  12:55:32,486 - #9 print
+INFO  12:55:32,486 - #38 (
+INFO  12:55:32,486 - #48 i
+INFO  12:55:32,486 - #39 )
+INFO  12:55:32,487 - #34 ;
+INFO  12:55:32,487 - #9 print
+INFO  12:55:32,487 - #38 (
+INFO  12:55:32,489 - #46 eol
+ERROR 12:55:32,490 - Izvrsen oporavak do ; u liniji: 12, oznaka: 6
+INFO  12:55:32,492 - #39 )
+INFO  12:55:32,492 - #34 ;
+INFO  12:55:32,492 - #48 i
+INFO  12:55:32,494 - #32 ++
+INFO  12:55:32,494 - #34 ;
+INFO  12:55:32,496 - #43 }
+INFO  12:55:32,496 - #43 }
+INFO  12:55:32,498 - #43 }
+ERROR 12:55:32,498 - 
+Sintaksna greska na liniji 24
+INFO  12:55:32,498 - #43 }
+ERROR 12:55:32,499 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 28
+INFO  12:55:32,499 - Neuspesna sintaksna analiza!!

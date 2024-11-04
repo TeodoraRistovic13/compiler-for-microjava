@@ -1,0 +1,42 @@
+INFO  16:42:55,819 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  16:42:55,841 - #2 program
+INFO  16:42:55,841 - #48 MJProgram
+INFO  16:42:55,842 - #48 int
+INFO  16:42:55,844 - #48 a
+INFO  16:42:55,847 - #36 ,
+INFO  16:42:55,848 - #48 b
+INFO  16:42:55,849 - #36 ,
+INFO  16:42:55,849 - #48 c
+INFO  16:42:55,850 - #34 ;
+INFO  16:42:55,850 - #42 {
+INFO  16:42:55,851 - #43 }
+INFO  16:42:55,852 - Program(
+ MJProgram
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      MultipleVarDecls(
+        MultipleVarDecls(
+          SingleVarDecl(
+            VarDecl(
+             a
+            ) [VarDecl]
+          ) [SingleVarDecl]
+          VarDecl(
+           b
+          ) [VarDecl]
+        ) [MultipleVarDecls]
+        VarDecl(
+         c
+        ) [VarDecl]
+      ) [MultipleVarDecls]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+) [Program]
+INFO  16:42:55,853 - ===================================
+INFO  16:42:55,856 -  Print count calls = 0
+INFO  16:42:55,857 -  Deklarisanih promenljivih ima = 0

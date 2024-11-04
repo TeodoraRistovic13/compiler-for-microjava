@@ -1,0 +1,70 @@
+INFO  16:39:16,746 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  16:39:16,779 - #2 program
+INFO  16:39:16,779 - #48 MJProgram
+INFO  16:39:16,780 - #42 {
+INFO  16:39:16,781 - #48 int
+INFO  16:39:16,783 - #48 main
+INFO  16:39:16,784 - #38 (
+INFO  16:39:16,784 - #39 )
+INFO  16:39:16,786 - #42 {
+INFO  16:39:16,787 - #9 print
+INFO  16:39:16,788 - #38 (
+INFO  16:39:16,788 - #47 1
+INFO  16:39:16,788 - #39 )
+INFO  16:39:16,790 - #34 ;
+INFO  16:39:16,790 - #9 print
+INFO  16:39:16,791 - #38 (
+INFO  16:39:16,792 - #47 2
+INFO  16:39:16,792 - #39 )
+INFO  16:39:16,793 - #34 ;
+INFO  16:39:16,794 - #6 const
+ERROR 16:39:16,795 - 
+Sintaksna greska na liniji 6
+INFO  16:39:16,795 - #48 int
+INFO  16:39:16,800 - #48 a
+INFO  16:39:16,800 - #31 =
+INFO  16:39:16,802 - #47 5
+INFO  16:39:16,802 - #34 ;
+INFO  16:39:16,802 - #43 }
+INFO  16:39:16,803 - #43 }
+ERROR 16:39:16,803 - Izvrsen oporavak do ; u liniji 5
+INFO  16:39:16,807 - Program(
+ MJProgram
+  NoProgramDecl(
+  ) [NoProgramDecl]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      Type(
+       int
+      ) [Type]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          PrintStmt(
+            TermExpr(
+              Term(
+                Const(
+                 1
+                ) [Const]
+              ) [Term]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [Statements]
+        StatementDerived1(
+        ) [StatementDerived1]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:39:16,808 - ===================================
+INFO  16:39:16,811 - Prepoznata naredba print!
+INFO  16:39:16,812 -  Print count calls = 1
+INFO  16:39:16,812 -  Deklarisanih promenljivih ima = 0

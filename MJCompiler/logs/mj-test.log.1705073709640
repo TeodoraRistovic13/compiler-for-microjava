@@ -1,0 +1,358 @@
+INFO  16:34:05,964 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  16:34:06,044 - #2 program
+INFO  16:34:06,044 - #47 MJProgram
+INFO  16:34:06,044 - #47 int
+INFO  16:34:06,049 - #47 x
+INFO  16:34:06,050 - #34 ;
+INFO  16:34:06,051 - #47 int
+INFO  16:34:06,051 - #47 y
+INFO  16:34:06,051 - #34 ;
+INFO  16:34:06,052 - #47 char
+INFO  16:34:06,052 - #47 slovo
+INFO  16:34:06,052 - #34 ;
+INFO  16:34:06,052 - #47 bool
+INFO  16:34:06,052 - #47 uslov
+INFO  16:34:06,053 - #34 ;
+INFO  16:34:06,053 - #47 int
+INFO  16:34:06,053 - #47 brojevi
+INFO  16:34:06,053 - #40 [
+INFO  16:34:06,053 - #41 ]
+INFO  16:34:06,054 - #34 ;
+INFO  16:34:06,054 - #47 char
+INFO  16:34:06,054 - #47 slova
+INFO  16:34:06,058 - #40 [
+INFO  16:34:06,058 - #41 ]
+INFO  16:34:06,058 - #34 ;
+INFO  16:34:06,059 - #42 {
+INFO  16:34:06,059 - #12 void
+INFO  16:34:06,060 - #47 main
+INFO  16:34:06,062 - #38 (
+INFO  16:34:06,063 - #39 )
+INFO  16:34:06,064 - #42 {
+INFO  16:34:06,065 - #47 brojevi
+INFO  16:34:06,067 - #31 =
+INFO  16:34:06,067 - #8 new
+INFO  16:34:06,067 - #47 int
+INFO  16:34:06,067 - #40 [
+INFO  16:34:06,068 - #46 5
+INFO  16:34:06,068 - #41 ]
+INFO  16:34:06,068 - #34 ;
+INFO  16:34:06,069 - #47 slova
+INFO  16:34:06,070 - #31 =
+INFO  16:34:06,070 - #8 new
+INFO  16:34:06,070 - #47 char
+INFO  16:34:06,070 - #40 [
+INFO  16:34:06,070 - #46 5
+INFO  16:34:06,071 - #41 ]
+INFO  16:34:06,071 - #34 ;
+INFO  16:34:06,071 - #47 slova
+INFO  16:34:06,071 - #40 [
+INFO  16:34:06,071 - #46 2
+INFO  16:34:06,072 - #41 ]
+INFO  16:34:06,072 - #31 =
+INFO  16:34:06,073 - #49 m
+INFO  16:34:06,073 - #34 ;
+INFO  16:34:06,073 - #47 slova
+INFO  16:34:06,073 - #40 [
+INFO  16:34:06,074 - #46 4
+INFO  16:34:06,074 - #41 ]
+INFO  16:34:06,074 - #31 =
+INFO  16:34:06,074 - #47 slova
+INFO  16:34:06,074 - #40 [
+INFO  16:34:06,075 - #46 2
+INFO  16:34:06,075 - #41 ]
+INFO  16:34:06,076 - #34 ;
+INFO  16:34:06,077 - #9 print
+INFO  16:34:06,077 - #38 (
+INFO  16:34:06,077 - #47 slova
+INFO  16:34:06,077 - #40 [
+INFO  16:34:06,077 - #46 2
+INFO  16:34:06,078 - #41 ]
+INFO  16:34:06,078 - #39 )
+INFO  16:34:06,079 - #34 ;
+INFO  16:34:06,080 - #9 print
+INFO  16:34:06,080 - #38 (
+INFO  16:34:06,080 - #47 slova
+INFO  16:34:06,080 - #40 [
+INFO  16:34:06,080 - #46 4
+INFO  16:34:06,081 - #41 ]
+INFO  16:34:06,081 - #39 )
+INFO  16:34:06,081 - #34 ;
+INFO  16:34:06,081 - #11 return
+INFO  16:34:06,081 - #34 ;
+INFO  16:34:06,081 - #43 }
+INFO  16:34:06,083 - #43 }
+INFO  16:34:06,097 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          ProgramDecls(
+            ProgramDecls(
+              NoProgramDecls(
+              ) [NoProgramDecls]
+              ProgramVarDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleVarDecl(
+                  VarNameDecl(
+                   x
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+              ) [ProgramVarDecl]
+            ) [ProgramDecls]
+            ProgramVarDecl(
+              Type(
+               int
+              ) [Type]
+              SingleVarDecl(
+                VarNameDecl(
+                 y
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+            ) [ProgramVarDecl]
+          ) [ProgramDecls]
+          ProgramVarDecl(
+            Type(
+             char
+            ) [Type]
+            SingleVarDecl(
+              VarNameDecl(
+               slovo
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+          ) [ProgramVarDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          Type(
+           bool
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             uslov
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarArrayNameDecl(
+           brojevi
+          ) [VarArrayNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       char
+      ) [Type]
+      SingleVarDecl(
+        VarArrayNameDecl(
+         slova
+        ) [VarArrayNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    NoStmt(
+                    ) [NoStmt]
+                    DesignatorStmt(
+                      DesigStmtActions(
+                        DesigVar(
+                         brojevi
+                        ) [DesigVar]
+                        AssignExpr(
+                          PosTermExpr(
+                            FactorTerm(
+                              NewFactor(
+                                Type(
+                                 int
+                                ) [Type]
+                                PosTermExpr(
+                                  FactorTerm(
+                                    NumFactor(
+                                     5
+                                    ) [NumFactor]
+                                  ) [FactorTerm]
+                                ) [PosTermExpr]
+                              ) [NewFactor]
+                            ) [FactorTerm]
+                          ) [PosTermExpr]
+                        ) [AssignExpr]
+                      ) [DesigStmtActions]
+                    ) [DesignatorStmt]
+                  ) [Statements]
+                  DesignatorStmt(
+                    DesigStmtActions(
+                      DesigVar(
+                       slova
+                      ) [DesigVar]
+                      AssignExpr(
+                        PosTermExpr(
+                          FactorTerm(
+                            NewFactor(
+                              Type(
+                               char
+                              ) [Type]
+                              PosTermExpr(
+                                FactorTerm(
+                                  NumFactor(
+                                   5
+                                  ) [NumFactor]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                            ) [NewFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                      ) [AssignExpr]
+                    ) [DesigStmtActions]
+                  ) [DesignatorStmt]
+                ) [Statements]
+                DesignatorStmt(
+                  DesigStmtActions(
+                    DesigArray(
+                     slova
+                      PosTermExpr(
+                        FactorTerm(
+                          NumFactor(
+                           2
+                          ) [NumFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                    ) [DesigArray]
+                    AssignExpr(
+                      PosTermExpr(
+                        FactorTerm(
+                          CharFactor(
+                           m
+                          ) [CharFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                    ) [AssignExpr]
+                  ) [DesigStmtActions]
+                ) [DesignatorStmt]
+              ) [Statements]
+              DesignatorStmt(
+                DesigStmtActions(
+                  DesigArray(
+                   slova
+                    PosTermExpr(
+                      FactorTerm(
+                        NumFactor(
+                         4
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                  ) [DesigArray]
+                  AssignExpr(
+                    PosTermExpr(
+                      FactorTerm(
+                        VarFactor(
+                          DesigArray(
+                           slova
+                            PosTermExpr(
+                              FactorTerm(
+                                NumFactor(
+                                 2
+                                ) [NumFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                          ) [DesigArray]
+                        ) [VarFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                  ) [AssignExpr]
+                ) [DesigStmtActions]
+              ) [DesignatorStmt]
+            ) [Statements]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  VarFactor(
+                    DesigArray(
+                     slova
+                      PosTermExpr(
+                        FactorTerm(
+                          NumFactor(
+                           2
+                          ) [NumFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                    ) [DesigArray]
+                  ) [VarFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                VarFactor(
+                  DesigArray(
+                   slova
+                    PosTermExpr(
+                      FactorTerm(
+                        NumFactor(
+                         4
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                  ) [DesigArray]
+                ) [VarFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  16:34:06,106 - Deklarisana promenljiva x na liniji 2
+INFO  16:34:06,106 - Deklarisana promenljiva y na liniji 3
+INFO  16:34:06,106 - Deklarisana promenljiva slovo na liniji 4
+INFO  16:34:06,106 - Deklarisana promenljiva uslov na liniji 5
+INFO  16:34:06,106 - Deklarisana promenljiva brojevi na liniji 6
+INFO  16:34:06,107 - Deklarisana promenljiva slova na liniji 7
+INFO  16:34:06,109 - Obradjuje se funkcija main na liniji 10
+INFO  16:34:06,112 - Pretraga na 15(slova), nadjeno Var slova: Arr of char, 5, 0  na liniji 15
+INFO  16:34:06,112 - Pretraga na 16(slova), nadjeno Var slova: Arr of char, 5, 0  na liniji 16
+INFO  16:34:06,112 - Pretraga na 16(slova), nadjeno Var slova: Arr of char, 5, 0  na liniji 16
+INFO  16:34:06,113 - Pretraga na 17(slova), nadjeno Var slova: Arr of char, 5, 0  na liniji 17
+INFO  16:34:06,115 - Pretraga na 18(slova), nadjeno Var slova: Arr of char, 5, 0  na liniji 18
+INFO  16:34:06,115 -  Print count calls = 0
+INFO  16:34:06,115 -  Deklarisanih promenljivih ima = 0
+INFO  16:34:06,123 - Uspesna semanticka analiza!!

@@ -1,0 +1,120 @@
+INFO  22:40:09,913 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:40:09,980 - #2 program
+INFO  22:40:09,980 - #47 test2
+INFO  22:40:09,980 - #42 {
+INFO  22:40:09,983 - #47 int
+INFO  22:40:09,984 - #47 m4
+INFO  22:40:09,986 - #38 (
+INFO  22:40:09,988 - #39 )
+INFO  22:40:09,989 - #42 {
+INFO  22:40:09,990 - #9 print
+INFO  22:40:09,991 - #38 (
+INFO  22:40:09,992 - #49 m
+INFO  22:40:09,992 - #39 )
+INFO  22:40:09,993 - #34 ;
+INFO  22:40:09,993 - #9 print
+INFO  22:40:09,994 - #38 (
+INFO  22:40:09,994 - #46 4
+INFO  22:40:09,994 - #39 )
+INFO  22:40:09,994 - #34 ;
+INFO  22:40:09,995 - #43 }
+INFO  22:40:09,995 - #12 void
+INFO  22:40:09,997 - #47 main
+INFO  22:40:09,998 - #38 (
+INFO  22:40:09,999 - #39 )
+INFO  22:40:09,999 - #42 {
+INFO  22:40:09,999 - #47 m4
+INFO  22:40:09,999 - #38 (
+INFO  22:40:09,999 - #39 )
+INFO  22:40:10,000 - #34 ;
+INFO  22:40:10,001 - #43 }
+INFO  22:40:10,002 - #43 }
+INFO  22:40:10,014 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         m4
+        ) [MethodTypeName]
+        NoFormParam(
+        ) [NoFormParam]
+        NoMethVar(
+        ) [NoMethVar]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  CharFactor(
+                   m
+                  ) [CharFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                NumFactor(
+                 4
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        DesignatorStmt(
+          DesigStmtActions(
+            DesigVar(
+             m4
+            ) [DesigVar]
+            DesigFuncCall(
+              NoActPars(
+              ) [NoActPars]
+            ) [DesigFuncCall]
+          ) [DesigStmtActions]
+        ) [DesignatorStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:40:10,021 - Obradjuje se funkcija m4 na liniji 6
+ERROR 22:40:10,022 - Greska na liniji 6 : metoda m4 nije void tipa, a return ne vraca povratnu vrednost! 
+INFO  22:40:10,022 - Obradjuje se funkcija main na liniji 12
+INFO  22:40:10,031 -  Print count calls = 0
+INFO  22:40:10,032 -  Deklarisanih promenljivih ima = 0
+INFO  22:40:10,032 - Neuspesna semanticka analiza!!

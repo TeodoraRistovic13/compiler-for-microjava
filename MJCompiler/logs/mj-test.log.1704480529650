@@ -1,0 +1,53 @@
+INFO  19:47:47,382 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:47:47,514 - #2 program
+INFO  19:47:47,514 - #47 test302
+INFO  19:47:47,515 - #17 namespace
+INFO  19:47:47,518 - #47 Unpacking
+INFO  19:47:47,518 - #42 {
+INFO  19:47:47,519 - #47 int
+INFO  19:47:47,521 - #47 a
+INFO  19:47:47,522 - #34 ;
+INFO  19:47:47,523 - #42 {
+INFO  19:47:47,523 - #43 }
+INFO  19:47:47,525 - #43 }
+INFO  19:47:47,525 - #42 {
+INFO  19:47:47,527 - #43 }
+INFO  19:47:47,540 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Unpacking
+      ) [NamespaceName]
+      NamespaceDecls(
+        NoNamespaceDecls(
+        ) [NoNamespaceDecls]
+        NamespaceVarDecl(
+          NoScopeType(
+           int
+          ) [NoScopeType]
+          SingleVarDecl(
+            VarNameDecl(
+             a
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [NamespaceVarDecl]
+      ) [NamespaceDecls]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+    ) [Namespace]
+  ) [NamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  19:47:47,545 - ===================================
+INFO  19:47:47,549 - Deklarisana promenljiva a na liniji 6
+INFO  19:47:47,550 -  Print count calls = 0
+INFO  19:47:47,550 -  Deklarisanih promenljivih ima = 0
+INFO  19:47:47,550 - ===================================

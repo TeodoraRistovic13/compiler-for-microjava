@@ -1,0 +1,92 @@
+INFO  01:19:00,791 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:19:00,817 - #2 program
+INFO  01:19:00,817 - #48 MJProgram
+INFO  01:19:00,818 - #48 int
+INFO  01:19:00,819 - #48 x
+INFO  01:19:00,820 - #34 ;
+INFO  01:19:00,821 - #48 int
+INFO  01:19:00,822 - #48 y
+INFO  01:19:00,823 - #34 ;
+INFO  01:19:00,823 - #42 {
+INFO  01:19:00,823 - #48 int
+INFO  01:19:00,824 - #48 main
+INFO  01:19:00,824 - #38 (
+INFO  01:19:00,825 - #39 )
+INFO  01:19:00,826 - #42 {
+INFO  01:19:00,826 - #9 print
+INFO  01:19:00,827 - #38 (
+INFO  01:19:00,827 - #47 1
+INFO  01:19:00,828 - #39 )
+INFO  01:19:00,829 - #34 ;
+INFO  01:19:00,830 - #9 print
+INFO  01:19:00,830 - #38 (
+INFO  01:19:00,831 - #48 Tea
+INFO  01:19:00,832 - #39 )
+INFO  01:19:00,832 - #34 ;
+INFO  01:19:00,832 - #43 }
+INFO  01:19:00,833 - #43 }
+INFO  01:19:00,836 - Program(
+ MJProgram
+  VarDeclarations(
+    VarDeclarations(
+      NoVarDecl(
+      ) [NoVarDecl]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+       x
+      ) [VarDecl]
+    ) [VarDeclarations]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+     y
+    ) [VarDecl]
+  ) [VarDeclarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      Type(
+       int
+      ) [Type]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          PrintStmt(
+            TermExpr(
+              Term(
+                Const(
+                 1
+                ) [Const]
+              ) [Term]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [Statements]
+        PrintStmt(
+          TermExpr(
+            Term(
+              Var(
+                DesignatorDerived1(
+                 Tea
+                ) [DesignatorDerived1]
+              ) [Var]
+            ) [Term]
+          ) [TermExpr]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:19:00,837 - ===================================
+INFO  01:19:00,842 - Prepoznata naredba print!
+INFO  01:19:00,843 - Prepoznata naredba print!
+INFO  01:19:00,843 -  Print count calls = 2

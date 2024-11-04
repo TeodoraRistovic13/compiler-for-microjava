@@ -1,0 +1,191 @@
+INFO  19:09:14,193 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:09:14,221 - #2 program
+INFO  19:09:14,221 - #48 MJProgram
+INFO  19:09:14,221 - #17 namespace
+INFO  19:09:14,222 - #48 A
+INFO  19:09:14,222 - #42 {
+INFO  19:09:14,222 - #48 int
+INFO  19:09:14,223 - #48 a
+INFO  19:09:14,224 - #36 ,
+INFO  19:09:14,226 - #48 b
+INFO  19:09:14,226 - #36 ,
+INFO  19:09:14,227 - #48 c
+INFO  19:09:14,227 - #34 ;
+INFO  19:09:14,227 - #6 const
+INFO  19:09:14,228 - #48 int
+INFO  19:09:14,229 - #48 d
+INFO  19:09:14,229 - #31 =
+INFO  19:09:14,230 - #47 0
+INFO  19:09:14,230 - #34 ;
+INFO  19:09:14,235 - #6 const
+INFO  19:09:14,237 - #48 bool
+INFO  19:09:14,239 - #48 ok
+INFO  19:09:14,243 - #31 =
+INFO  19:09:14,244 - #46 true
+INFO  19:09:14,244 - #34 ;
+INFO  19:09:14,246 - #42 {
+INFO  19:09:14,247 - #12 void
+INFO  19:09:14,248 - #48 main
+INFO  19:09:14,251 - #38 (
+INFO  19:09:14,251 - #48 int
+INFO  19:09:14,252 - #48 a
+INFO  19:09:14,252 - #36 ,
+INFO  19:09:14,253 - #48 int
+INFO  19:09:14,253 - #48 b
+INFO  19:09:14,253 - #39 )
+INFO  19:09:14,254 - #42 {
+INFO  19:09:14,255 - #43 }
+INFO  19:09:14,256 - #43 }
+INFO  19:09:14,257 - #43 }
+INFO  19:09:14,257 - #48 int
+INFO  19:09:14,260 - #48 e
+INFO  19:09:14,260 - #36 ,
+INFO  19:09:14,261 - #48 f
+INFO  19:09:14,261 - #34 ;
+INFO  19:09:14,261 - #6 const
+INFO  19:09:14,261 - #48 int
+INFO  19:09:14,261 - #48 d
+INFO  19:09:14,262 - #31 =
+INFO  19:09:14,262 - #47 3
+INFO  19:09:14,262 - #36 ,
+INFO  19:09:14,262 - #48 e
+INFO  19:09:14,262 - #31 =
+INFO  19:09:14,262 - #47 7
+INFO  19:09:14,262 - #34 ;
+INFO  19:09:14,263 - #42 {
+INFO  19:09:14,264 - #43 }
+INFO  19:09:14,268 - Program(
+ MJProgram
+  Namespace(
+   A
+    NamespaceDecls(
+      NamespaceDecls(
+        NamespaceDecls(
+          NoNamespaceDecls(
+          ) [NoNamespaceDecls]
+          NamespaceVarDecl(
+            Type(
+             int
+            ) [Type]
+            MultipleVarDecls(
+              MultipleVarDecls(
+                SingleVarDecl(
+                  VarDecl(
+                   a
+                  ) [VarDecl]
+                ) [SingleVarDecl]
+                VarDecl(
+                 b
+                ) [VarDecl]
+              ) [MultipleVarDecls]
+              VarDecl(
+               c
+              ) [VarDecl]
+            ) [MultipleVarDecls]
+          ) [NamespaceVarDecl]
+        ) [NamespaceDecls]
+        NamespaceConstDecl(
+          Type(
+           int
+          ) [Type]
+          SingleConstDecl(
+            ConstDecl(
+             d
+              NumConst(
+               0
+              ) [NumConst]
+            ) [ConstDecl]
+          ) [SingleConstDecl]
+        ) [NamespaceConstDecl]
+      ) [NamespaceDecls]
+      NamespaceConstDecl(
+        Type(
+         bool
+        ) [Type]
+        SingleConstDecl(
+          ConstDecl(
+           ok
+            BoolConst(
+            ) [BoolConst]
+          ) [ConstDecl]
+        ) [SingleConstDecl]
+      ) [NamespaceConstDecl]
+    ) [NamespaceDecls]
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        VoidRet(
+        ) [VoidRet]
+       main
+        FormParams(
+          FormalParamDecls(
+            SingleFormalParamDecl(
+              FormalParamDeclDerived1(
+                Type(
+                 int
+                ) [Type]
+               a
+              ) [FormalParamDeclDerived1]
+            ) [SingleFormalParamDecl]
+            FormalParamDeclDerived1(
+              Type(
+               int
+              ) [Type]
+             b
+            ) [FormalParamDeclDerived1]
+          ) [FormalParamDecls]
+        ) [FormParams]
+        NoMethVar(
+        ) [NoMethVar]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+  ) [Namespace]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        MultipleVarDecls(
+          SingleVarDecl(
+            VarDecl(
+             e
+            ) [VarDecl]
+          ) [SingleVarDecl]
+          VarDecl(
+           f
+          ) [VarDecl]
+        ) [MultipleVarDecls]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramConstDecl(
+      Type(
+       int
+      ) [Type]
+      MultipleConstDecls(
+        SingleConstDecl(
+          ConstDecl(
+           d
+            NumConst(
+             3
+            ) [NumConst]
+          ) [ConstDecl]
+        ) [SingleConstDecl]
+        ConstDecl(
+         e
+          NumConst(
+           7
+          ) [NumConst]
+        ) [ConstDecl]
+      ) [MultipleConstDecls]
+    ) [ProgramConstDecl]
+  ) [ProgramDecls]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  19:09:14,268 - ===================================
+INFO  19:09:14,272 -  Print count calls = 0
+INFO  19:09:14,272 -  Deklarisanih promenljivih ima = 0

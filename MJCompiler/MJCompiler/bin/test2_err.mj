@@ -1,0 +1,37 @@
+//Test DesignatorStatement smene test..
+//assign, inc, dec, funcCall, i ono cudilo sa nizom 
+
+program test2
+
+int a, b;
+int niz[];
+int testNiz[];
+char slovo;
+bool boolOk;
+const int N = 10;
+{
+	int test(){
+		return 5;
+	}
+	
+	int main(){
+		a = 3; 
+		b = false; //treba da izazove error
+		a = b;
+		b = test();
+		boolOk = test();//treba da izazove erroe jer je boolOk oznaka bool tipa
+		a++;
+		b--;
+		niz[3]++;
+		niz[3]--;
+		a = a + 1;
+		a = a + 3*2;
+		[a, b,,niz[2], *niz]= testNiz;
+		[a, boolOk,,niz[2], *niz]= testNiz;//treba da izazove error jer je druga oznaka sa leve str = bool tipa
+		[a, boolOk,,niz[2], *niz]= a;//treba da izazove error jer je sa desne str = promenljiva a ne niz
+		
+		return 5;
+	}
+	
+}
+

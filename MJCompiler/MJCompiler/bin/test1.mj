@@ -1,0 +1,32 @@
+//Test dodavanje u tabelu simbola..kontekstni uslovi za deklaracije
+
+program test1
+
+namespace Podaci{
+	const int a = 3;
+	int b;
+	char c;
+	bool fleg;
+	int niz[];
+	{
+		int m1() int a1, b1;{
+			return 2;
+		}
+		void m2(int param) int a1;{
+			return;
+		}
+		void m3(){
+			return;
+		}
+	}
+}
+
+const int N = 10;
+int i, j;
+{
+	void main(){
+		
+	}
+	
+}
+

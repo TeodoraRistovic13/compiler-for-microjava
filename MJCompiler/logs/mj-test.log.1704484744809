@@ -1,0 +1,243 @@
+INFO  20:58:02,889 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:58:03,000 - #2 program
+INFO  20:58:03,001 - #47 test302
+INFO  20:58:03,001 - #17 namespace
+INFO  20:58:03,004 - #47 Unpacking
+INFO  20:58:03,004 - #42 {
+INFO  20:58:03,005 - #47 int
+INFO  20:58:03,007 - #47 a
+INFO  20:58:03,007 - #36 ,
+INFO  20:58:03,008 - #47 b
+INFO  20:58:03,008 - #36 ,
+INFO  20:58:03,008 - #47 c
+INFO  20:58:03,008 - #34 ;
+INFO  20:58:03,009 - #6 const
+INFO  20:58:03,010 - #47 int
+INFO  20:58:03,010 - #47 i
+INFO  20:58:03,011 - #31 =
+INFO  20:58:03,011 - #46 3
+INFO  20:58:03,011 - #36 ,
+INFO  20:58:03,013 - #47 j
+INFO  20:58:03,013 - #31 =
+INFO  20:58:03,014 - #46 2
+INFO  20:58:03,018 - #34 ;
+INFO  20:58:03,018 - #42 {
+INFO  20:58:03,018 - #47 int
+INFO  20:58:03,020 - #47 main
+INFO  20:58:03,020 - #38 (
+INFO  20:58:03,021 - #39 )
+INFO  20:58:03,023 - #42 {
+INFO  20:58:03,024 - #43 }
+INFO  20:58:03,025 - #43 }
+INFO  20:58:03,028 - #43 }
+INFO  20:58:03,028 - #47 int
+INFO  20:58:03,031 - #47 i
+INFO  20:58:03,031 - #36 ,
+INFO  20:58:03,031 - #47 j
+INFO  20:58:03,031 - #36 ,
+INFO  20:58:03,031 - #47 k
+INFO  20:58:03,031 - #34 ;
+INFO  20:58:03,032 - #47 bool
+INFO  20:58:03,032 - #47 ibool
+INFO  20:58:03,033 - #34 ;
+INFO  20:58:03,033 - #6 const
+INFO  20:58:03,033 - #47 int
+INFO  20:58:03,033 - #47 k
+INFO  20:58:03,033 - #31 =
+INFO  20:58:03,034 - #46 2
+INFO  20:58:03,034 - #34 ;
+INFO  20:58:03,034 - #42 {
+INFO  20:58:03,035 - #47 bool
+INFO  20:58:03,035 - #47 funkcija
+INFO  20:58:03,035 - #38 (
+INFO  20:58:03,035 - #39 )
+INFO  20:58:03,036 - #42 {
+INFO  20:58:03,036 - #9 print
+INFO  20:58:03,036 - #38 (
+INFO  20:58:03,036 - #47 Test
+INFO  20:58:03,037 - #36 ,
+INFO  20:58:03,037 - #46 2
+INFO  20:58:03,038 - #39 )
+INFO  20:58:03,038 - #34 ;
+INFO  20:58:03,038 - #43 }
+INFO  20:58:03,039 - #43 }
+INFO  20:58:03,052 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Unpacking
+      ) [NamespaceName]
+      NamespaceDecls(
+        NamespaceDecls(
+          NoNamespaceDecls(
+          ) [NoNamespaceDecls]
+          NamespaceVarDecl(
+            NoScopeType(
+             int
+            ) [NoScopeType]
+            MultipleVarDecls(
+              MultipleVarDecls(
+                SingleVarDecl(
+                  VarNameDecl(
+                   a
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+                VarNameDecl(
+                 b
+                ) [VarNameDecl]
+              ) [MultipleVarDecls]
+              VarNameDecl(
+               c
+              ) [VarNameDecl]
+            ) [MultipleVarDecls]
+          ) [NamespaceVarDecl]
+        ) [NamespaceDecls]
+        NamespaceConstDecl(
+          NoScopeType(
+           int
+          ) [NoScopeType]
+          MultipleConstDecls(
+            SingleConstDecl(
+              ConstDecl(
+               i
+                NumConst(
+                 3
+                ) [NumConst]
+              ) [ConstDecl]
+            ) [SingleConstDecl]
+            ConstDecl(
+             j
+              NumConst(
+               2
+              ) [NumConst]
+            ) [ConstDecl]
+          ) [MultipleConstDecls]
+        ) [NamespaceConstDecl]
+      ) [NamespaceDecls]
+      MethodDeclarations(
+        NoMethodDecl(
+        ) [NoMethodDecl]
+        MethodDecl(
+          MethodTypeName(
+            NoScopeType(
+             int
+            ) [NoScopeType]
+           main
+          ) [MethodTypeName]
+          NoFormParam(
+          ) [NoFormParam]
+          NoMethVar(
+          ) [NoMethVar]
+          NoStmt(
+          ) [NoStmt]
+        ) [MethodDecl]
+      ) [MethodDeclarations]
+    ) [Namespace]
+  ) [NamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        NoProgramDecls(
+        ) [NoProgramDecls]
+        ProgramVarDecl(
+          NoScopeType(
+           int
+          ) [NoScopeType]
+          MultipleVarDecls(
+            MultipleVarDecls(
+              SingleVarDecl(
+                VarNameDecl(
+                 i
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+              VarNameDecl(
+               j
+              ) [VarNameDecl]
+            ) [MultipleVarDecls]
+            VarNameDecl(
+             k
+            ) [VarNameDecl]
+          ) [MultipleVarDecls]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        NoScopeType(
+         bool
+        ) [NoScopeType]
+        SingleVarDecl(
+          VarNameDecl(
+           ibool
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramConstDecl(
+      NoScopeType(
+       int
+      ) [NoScopeType]
+      SingleConstDecl(
+        ConstDecl(
+         k
+          NumConst(
+           2
+          ) [NumConst]
+        ) [ConstDecl]
+      ) [SingleConstDecl]
+    ) [ProgramConstDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        NoScopeType(
+         bool
+        ) [NoScopeType]
+       funkcija
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        PrintStmt(
+          PositiveExpr(
+            SimpleTerm(
+              VarFactor(
+                DesigVar(
+                 Test
+                ) [DesigVar]
+              ) [VarFactor]
+            ) [SimpleTerm]
+          ) [PositiveExpr]
+          PrintVar(
+           2
+          ) [PrintVar]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:58:03,053 - ===================================
+INFO  20:58:03,057 - Deklarisana promenljiva a na liniji 6
+INFO  20:58:03,058 - Deklarisana promenljiva b na liniji 6
+INFO  20:58:03,058 - Deklarisana promenljiva c na liniji 6
+INFO  20:58:03,058 - Deklarisana konstanta i na liniji 7
+INFO  20:58:03,059 - Deklarisana konstanta j na liniji 7
+INFO  20:58:03,059 - Obradjuje se funkcija main na liniji 10
+INFO  20:58:03,059 - Deklarisana promenljiva i na liniji 15
+INFO  20:58:03,060 - Deklarisana promenljiva j na liniji 15
+INFO  20:58:03,060 - Deklarisana promenljiva k na liniji 15
+INFO  20:58:03,061 - Deklarisana promenljiva ibool na liniji 16
+INFO  20:58:03,061 - Deklarisana konstanta k na liniji 17
+INFO  20:58:03,061 - Obradjuje se funkcija funkcija na liniji 20
+INFO  20:58:03,062 -  Print count calls = 0
+INFO  20:58:03,062 -  Deklarisanih promenljivih ima = 0
+INFO  20:58:03,062 - ===================================

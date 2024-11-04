@@ -1,0 +1,114 @@
+INFO  19:59:53,063 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:59:53,134 - #2 program
+INFO  19:59:53,135 - #47 MJProgram
+INFO  19:59:53,135 - #47 int
+INFO  19:59:53,138 - #47 x
+INFO  19:59:53,140 - #34 ;
+INFO  19:59:53,147 - #47 int
+INFO  19:59:53,149 - #47 y
+INFO  19:59:53,150 - #34 ;
+INFO  19:59:53,150 - #42 {
+INFO  19:59:53,150 - #12 void
+INFO  19:59:53,152 - #47 main
+INFO  19:59:53,154 - #38 (
+INFO  19:59:53,157 - #39 )
+INFO  19:59:53,160 - #42 {
+INFO  19:59:53,163 - #9 print
+INFO  19:59:53,165 - #38 (
+INFO  19:59:53,166 - #46 1
+INFO  19:59:53,166 - #39 )
+INFO  19:59:53,168 - #34 ;
+INFO  19:59:53,168 - #9 print
+INFO  19:59:53,169 - #38 (
+INFO  19:59:53,170 - #46 2
+INFO  19:59:53,171 - #39 )
+INFO  19:59:53,171 - #34 ;
+INFO  19:59:53,171 - #11 return
+INFO  19:59:53,172 - #34 ;
+INFO  19:59:53,172 - #43 }
+INFO  19:59:53,173 - #43 }
+INFO  19:59:53,187 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           x
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         y
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  NumFactor(
+                   1
+                  ) [NumFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                NumFactor(
+                 2
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:59:53,200 - Deklarisana promenljiva x na liniji 2
+INFO  19:59:53,200 - Deklarisana promenljiva y na liniji 2
+INFO  19:59:53,201 - Obradjuje se funkcija main na liniji 4
+INFO  19:59:53,201 -  Print count calls = 0
+INFO  19:59:53,201 -  Deklarisanih promenljivih ima = 0

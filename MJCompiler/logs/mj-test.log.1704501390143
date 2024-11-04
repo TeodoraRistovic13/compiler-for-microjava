@@ -1,0 +1,285 @@
+INFO  00:11:40,451 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:11:40,524 - #2 program
+INFO  00:11:40,524 - #47 test302
+INFO  00:11:40,524 - #17 namespace
+INFO  00:11:40,526 - #47 Unpacking
+INFO  00:11:40,527 - #42 {
+INFO  00:11:40,528 - #47 int
+INFO  00:11:40,529 - #47 a
+INFO  00:11:40,530 - #36 ,
+INFO  00:11:40,530 - #47 b
+INFO  00:11:40,531 - #36 ,
+INFO  00:11:40,531 - #47 c
+INFO  00:11:40,531 - #34 ;
+INFO  00:11:40,532 - #6 const
+INFO  00:11:40,532 - #47 int
+INFO  00:11:40,532 - #47 i
+INFO  00:11:40,533 - #31 =
+INFO  00:11:40,533 - #46 3
+INFO  00:11:40,533 - #36 ,
+INFO  00:11:40,535 - #47 j
+INFO  00:11:40,535 - #31 =
+INFO  00:11:40,535 - #46 2
+INFO  00:11:40,536 - #34 ;
+INFO  00:11:40,536 - #42 {
+INFO  00:11:40,536 - #47 int
+INFO  00:11:40,537 - #47 main
+INFO  00:11:40,538 - #38 (
+INFO  00:11:40,538 - #39 )
+INFO  00:11:40,539 - #42 {
+INFO  00:11:40,540 - #43 }
+INFO  00:11:40,542 - #43 }
+INFO  00:11:40,543 - #43 }
+INFO  00:11:40,543 - #47 int
+INFO  00:11:40,546 - #47 i
+INFO  00:11:40,546 - #36 ,
+INFO  00:11:40,546 - #47 j
+INFO  00:11:40,546 - #36 ,
+INFO  00:11:40,546 - #47 k
+INFO  00:11:40,546 - #34 ;
+INFO  00:11:40,546 - #47 bool
+INFO  00:11:40,547 - #47 ibool
+INFO  00:11:40,547 - #34 ;
+INFO  00:11:40,547 - #6 const
+INFO  00:11:40,547 - #47 int
+INFO  00:11:40,548 - #47 k
+INFO  00:11:40,548 - #31 =
+INFO  00:11:40,548 - #46 2
+INFO  00:11:40,548 - #34 ;
+INFO  00:11:40,548 - #6 const
+INFO  00:11:40,549 - #47 bool
+INFO  00:11:40,549 - #47 ok
+INFO  00:11:40,549 - #31 =
+INFO  00:11:40,549 - #48 true
+INFO  00:11:40,549 - #34 ;
+INFO  00:11:40,549 - #42 {
+INFO  00:11:40,550 - #47 bool
+INFO  00:11:40,550 - #47 funkcija
+INFO  00:11:40,550 - #38 (
+INFO  00:11:40,550 - #39 )
+INFO  00:11:40,550 - #47 int
+INFO  00:11:40,550 - #47 a
+INFO  00:11:40,550 - #36 ,
+INFO  00:11:40,551 - #47 b
+INFO  00:11:40,551 - #34 ;
+INFO  00:11:40,551 - #42 {
+INFO  00:11:40,551 - #9 print
+INFO  00:11:40,552 - #38 (
+INFO  00:11:40,552 - #46 3
+INFO  00:11:40,552 - #36 ,
+INFO  00:11:40,552 - #46 2
+INFO  00:11:40,553 - #39 )
+INFO  00:11:40,553 - #34 ;
+INFO  00:11:40,553 - #43 }
+INFO  00:11:40,554 - #43 }
+INFO  00:11:40,561 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Unpacking
+      ) [NamespaceName]
+      NamespaceDecls(
+        NamespaceDecls(
+          NoNamespaceDecls(
+          ) [NoNamespaceDecls]
+          NamespaceVarDecl(
+            NoScopeType(
+             int
+            ) [NoScopeType]
+            MultipleVarDecls(
+              MultipleVarDecls(
+                SingleVarDecl(
+                  VarNameDecl(
+                   a
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+                VarNameDecl(
+                 b
+                ) [VarNameDecl]
+              ) [MultipleVarDecls]
+              VarNameDecl(
+               c
+              ) [VarNameDecl]
+            ) [MultipleVarDecls]
+          ) [NamespaceVarDecl]
+        ) [NamespaceDecls]
+        NamespaceConstDecl(
+          NoScopeType(
+           int
+          ) [NoScopeType]
+          MultipleConstDecls(
+            SingleConstDecl(
+              ConstDecl(
+               i
+                NumConst(
+                 3
+                ) [NumConst]
+              ) [ConstDecl]
+            ) [SingleConstDecl]
+            ConstDecl(
+             j
+              NumConst(
+               2
+              ) [NumConst]
+            ) [ConstDecl]
+          ) [MultipleConstDecls]
+        ) [NamespaceConstDecl]
+      ) [NamespaceDecls]
+      MethodDeclarations(
+        NoMethodDecl(
+        ) [NoMethodDecl]
+        MethodDecl(
+          MethodTypeName(
+            NoScopeType(
+             int
+            ) [NoScopeType]
+           main
+          ) [MethodTypeName]
+          NoFormParam(
+          ) [NoFormParam]
+          NoMethVar(
+          ) [NoMethVar]
+          NoStmt(
+          ) [NoStmt]
+        ) [MethodDecl]
+      ) [MethodDeclarations]
+    ) [Namespace]
+  ) [NamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          NoProgramDecls(
+          ) [NoProgramDecls]
+          ProgramVarDecl(
+            NoScopeType(
+             int
+            ) [NoScopeType]
+            MultipleVarDecls(
+              MultipleVarDecls(
+                SingleVarDecl(
+                  VarNameDecl(
+                   i
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+                VarNameDecl(
+                 j
+                ) [VarNameDecl]
+              ) [MultipleVarDecls]
+              VarNameDecl(
+               k
+              ) [VarNameDecl]
+            ) [MultipleVarDecls]
+          ) [ProgramVarDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          NoScopeType(
+           bool
+          ) [NoScopeType]
+          SingleVarDecl(
+            VarNameDecl(
+             ibool
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramConstDecl(
+        NoScopeType(
+         int
+        ) [NoScopeType]
+        SingleConstDecl(
+          ConstDecl(
+           k
+            NumConst(
+             2
+            ) [NumConst]
+          ) [ConstDecl]
+        ) [SingleConstDecl]
+      ) [ProgramConstDecl]
+    ) [ProgramDecls]
+    ProgramConstDecl(
+      NoScopeType(
+       bool
+      ) [NoScopeType]
+      SingleConstDecl(
+        ConstDecl(
+         ok
+          BoolConst(
+           true
+          ) [BoolConst]
+        ) [ConstDecl]
+      ) [SingleConstDecl]
+    ) [ProgramConstDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        NoScopeType(
+         bool
+        ) [NoScopeType]
+       funkcija
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      MethodVars(
+        NoMethVar(
+        ) [NoMethVar]
+        NoScopeType(
+         int
+        ) [NoScopeType]
+        MultipleVarDecls(
+          SingleVarDecl(
+            VarNameDecl(
+             a
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+          VarNameDecl(
+           b
+          ) [VarNameDecl]
+        ) [MultipleVarDecls]
+      ) [MethodVars]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        PrintStmt(
+          PositiveExpr(
+            SimpleTerm(
+              NumFactor(
+               3
+              ) [NumFactor]
+            ) [SimpleTerm]
+          ) [PositiveExpr]
+          PrintVar(
+           2
+          ) [PrintVar]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:11:40,561 - ===================================
+INFO  00:11:40,564 - Deklarisana promenljiva a na liniji 6
+INFO  00:11:40,565 - Deklarisana promenljiva b na liniji 6
+INFO  00:11:40,565 - Deklarisana promenljiva c na liniji 6
+INFO  00:11:40,565 - Deklarisana konstanta i na liniji 7
+INFO  00:11:40,565 - Deklarisana konstanta j na liniji 7
+INFO  00:11:40,565 - Obradjuje se funkcija main na liniji 10
+INFO  00:11:40,566 - Deklarisana promenljiva i na liniji 15
+INFO  00:11:40,566 - Deklarisana promenljiva j na liniji 15
+INFO  00:11:40,566 - Deklarisana promenljiva k na liniji 15
+INFO  00:11:40,566 - Deklarisana promenljiva ibool na liniji 16
+INFO  00:11:40,566 - Deklarisana konstanta k na liniji 17
+INFO  00:11:40,567 - Deklarisana konstanta ok na liniji 18
+INFO  00:11:40,567 - Obradjuje se funkcija funkcija na liniji 21
+INFO  00:11:40,567 - Deklarisana promenljiva a na liniji 21
+INFO  00:11:40,567 - Deklarisana promenljiva b na liniji 21
+INFO  00:11:40,567 -  Print count calls = 0
+INFO  00:11:40,569 -  Deklarisanih promenljivih ima = 0
+INFO  00:11:40,569 - ===================================

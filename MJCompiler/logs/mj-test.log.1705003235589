@@ -1,0 +1,168 @@
+INFO  20:30:18,561 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:30:18,633 - #2 program
+INFO  20:30:18,633 - #47 MJProgram
+INFO  20:30:18,633 - #47 int
+INFO  20:30:18,636 - #47 x
+INFO  20:30:18,637 - #34 ;
+INFO  20:30:18,637 - #47 int
+INFO  20:30:18,638 - #47 y
+INFO  20:30:18,639 - #34 ;
+INFO  20:30:18,639 - #42 {
+INFO  20:30:18,639 - #47 int
+INFO  20:30:18,640 - #47 k
+INFO  20:30:18,641 - #38 (
+INFO  20:30:18,642 - #47 int
+INFO  20:30:18,642 - #47 b
+INFO  20:30:18,642 - #36 ,
+INFO  20:30:18,643 - #47 int
+INFO  20:30:18,643 - #47 d
+INFO  20:30:18,643 - #39 )
+INFO  20:30:18,644 - #47 int
+INFO  20:30:18,645 - #47 c
+INFO  20:30:18,645 - #34 ;
+INFO  20:30:18,646 - #42 {
+INFO  20:30:18,650 - #11 return
+INFO  20:30:18,651 - #47 c
+INFO  20:30:18,651 - #18 +
+INFO  20:30:18,652 - #46 2
+INFO  20:30:18,654 - #34 ;
+INFO  20:30:18,654 - #43 }
+INFO  20:30:18,655 - #12 void
+INFO  20:30:18,657 - #47 main
+INFO  20:30:18,658 - #38 (
+INFO  20:30:18,658 - #39 )
+INFO  20:30:18,660 - #42 {
+INFO  20:30:18,660 - #11 return
+INFO  20:30:18,661 - #34 ;
+INFO  20:30:18,661 - #43 }
+INFO  20:30:18,662 - #43 }
+INFO  20:30:18,669 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        Type(
+         int
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           x
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      SingleVarDecl(
+        VarNameDecl(
+         y
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         k
+        ) [MethodTypeName]
+        FormParams(
+          FormCommaParamDecl(
+            FormParamDecl(
+              FormParamVar(
+                Type(
+                 int
+                ) [Type]
+               b
+              ) [FormParamVar]
+            ) [FormParamDecl]
+            FormParamVar(
+              Type(
+               int
+              ) [Type]
+             d
+            ) [FormParamVar]
+          ) [FormCommaParamDecl]
+        ) [FormParams]
+        MethodVars(
+          NoMethVar(
+          ) [NoMethVar]
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             c
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [MethodVars]
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          ReturnExpr(
+            AddExpr(
+              PosTermExpr(
+                FactorTerm(
+                  VarFactor(
+                    DesigVar(
+                     c
+                    ) [DesigVar]
+                  ) [VarFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              Add(
+              ) [Add]
+              FactorTerm(
+                NumFactor(
+                 2
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [AddExpr]
+          ) [ReturnExpr]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:30:18,674 - Deklarisana promenljiva x na liniji 2
+INFO  20:30:18,674 - Deklarisana promenljiva y na liniji 2
+INFO  20:30:18,675 - Obradjuje se funkcija k na liniji 4
+INFO  20:30:18,675 - Deklarisan parametar b metode: k. na liniji 4
+INFO  20:30:18,675 - Deklarisan parametar d metode: k. na liniji 4
+INFO  20:30:18,675 - Deklarisana promenljiva c na liniji 4
+INFO  20:30:18,676 - Obradjuje se funkcija main na liniji 9
+INFO  20:30:18,676 -  Print count calls = 0
+INFO  20:30:18,677 -  Deklarisanih promenljivih ima = 0
+INFO  20:30:18,685 - Uspesna semanticka analiza!!

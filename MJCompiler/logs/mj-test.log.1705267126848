@@ -1,0 +1,375 @@
+INFO  22:18:31,575 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:18:31,647 - #2 program
+INFO  22:18:31,648 - #47 test2
+INFO  22:18:31,648 - #42 {
+INFO  22:18:31,651 - #47 int
+INFO  22:18:31,652 - #47 test
+INFO  22:18:31,654 - #38 (
+INFO  22:18:31,655 - #39 )
+INFO  22:18:31,657 - #42 {
+INFO  22:18:31,658 - #11 return
+INFO  22:18:31,659 - #46 5
+INFO  22:18:31,659 - #34 ;
+INFO  22:18:31,660 - #43 }
+INFO  22:18:31,660 - #12 void
+INFO  22:18:31,662 - #47 main
+INFO  22:18:31,664 - #38 (
+INFO  22:18:31,664 - #39 )
+INFO  22:18:31,664 - #42 {
+INFO  22:18:31,665 - #47 a
+INFO  22:18:31,665 - #31 =
+INFO  22:18:31,666 - #46 3
+INFO  22:18:31,666 - #34 ;
+INFO  22:18:31,667 - #47 a
+INFO  22:18:31,672 - #31 =
+INFO  22:18:31,672 - #47 b
+INFO  22:18:31,672 - #34 ;
+INFO  22:18:31,672 - #47 b
+INFO  22:18:31,672 - #31 =
+INFO  22:18:31,672 - #47 test
+INFO  22:18:31,673 - #38 (
+INFO  22:18:31,673 - #39 )
+INFO  22:18:31,674 - #34 ;
+INFO  22:18:31,674 - #47 a
+INFO  22:18:31,675 - #32 ++
+INFO  22:18:31,675 - #34 ;
+INFO  22:18:31,676 - #47 b
+INFO  22:18:31,676 - #33 --
+INFO  22:18:31,676 - #34 ;
+INFO  22:18:31,677 - #47 niz
+INFO  22:18:31,677 - #40 [
+INFO  22:18:31,677 - #46 3
+INFO  22:18:31,678 - #41 ]
+INFO  22:18:31,678 - #32 ++
+INFO  22:18:31,678 - #34 ;
+INFO  22:18:31,678 - #47 niz
+INFO  22:18:31,678 - #40 [
+INFO  22:18:31,678 - #46 3
+INFO  22:18:31,679 - #41 ]
+INFO  22:18:31,679 - #33 --
+INFO  22:18:31,679 - #34 ;
+INFO  22:18:31,679 - #47 a
+INFO  22:18:31,679 - #31 =
+INFO  22:18:31,679 - #47 a
+INFO  22:18:31,680 - #18 +
+INFO  22:18:31,680 - #46 1
+INFO  22:18:31,683 - #34 ;
+INFO  22:18:31,684 - #47 a
+INFO  22:18:31,684 - #31 =
+INFO  22:18:31,685 - #47 a
+INFO  22:18:31,685 - #18 +
+INFO  22:18:31,685 - #46 3
+INFO  22:18:31,686 - #20 *
+INFO  22:18:31,686 - #46 2
+INFO  22:18:31,688 - #34 ;
+INFO  22:18:31,689 - #40 [
+INFO  22:18:31,689 - #47 a
+INFO  22:18:31,691 - #36 ,
+INFO  22:18:31,691 - #47 b
+INFO  22:18:31,691 - #36 ,
+INFO  22:18:31,691 - #36 ,
+INFO  22:18:31,692 - #47 niz
+INFO  22:18:31,692 - #40 [
+INFO  22:18:31,692 - #46 2
+INFO  22:18:31,692 - #41 ]
+INFO  22:18:31,692 - #36 ,
+INFO  22:18:31,692 - #20 *
+INFO  22:18:31,692 - #47 niz
+INFO  22:18:31,692 - #41 ]
+INFO  22:18:31,693 - #31 =
+INFO  22:18:31,693 - #47 testNiz
+INFO  22:18:31,693 - #34 ;
+INFO  22:18:31,693 - #11 return
+INFO  22:18:31,693 - #34 ;
+INFO  22:18:31,693 - #43 }
+INFO  22:18:31,694 - #43 }
+INFO  22:18:31,703 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         test
+        ) [MethodTypeName]
+        NoFormParam(
+        ) [NoFormParam]
+        NoMethVar(
+        ) [NoMethVar]
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          ReturnExpr(
+            PosTermExpr(
+              FactorTerm(
+                NumFactor(
+                 5
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+          ) [ReturnExpr]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          Statements(
+                            NoStmt(
+                            ) [NoStmt]
+                            DesignatorStmt(
+                              DesigStmtActions(
+                                DesigVar(
+                                 a
+                                ) [DesigVar]
+                                AssignExpr(
+                                  PosTermExpr(
+                                    FactorTerm(
+                                      NumFactor(
+                                       3
+                                      ) [NumFactor]
+                                    ) [FactorTerm]
+                                  ) [PosTermExpr]
+                                ) [AssignExpr]
+                              ) [DesigStmtActions]
+                            ) [DesignatorStmt]
+                          ) [Statements]
+                          DesignatorStmt(
+                            DesigStmtActions(
+                              DesigVar(
+                               a
+                              ) [DesigVar]
+                              AssignExpr(
+                                PosTermExpr(
+                                  FactorTerm(
+                                    VarFactor(
+                                      DesigVar(
+                                       b
+                                      ) [DesigVar]
+                                    ) [VarFactor]
+                                  ) [FactorTerm]
+                                ) [PosTermExpr]
+                              ) [AssignExpr]
+                            ) [DesigStmtActions]
+                          ) [DesignatorStmt]
+                        ) [Statements]
+                        DesignatorStmt(
+                          DesigStmtActions(
+                            DesigVar(
+                             b
+                            ) [DesigVar]
+                            AssignExpr(
+                              PosTermExpr(
+                                FactorTerm(
+                                  FactorFuncCall(
+                                    DesigVar(
+                                     test
+                                    ) [DesigVar]
+                                    NoActPars(
+                                    ) [NoActPars]
+                                  ) [FactorFuncCall]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                            ) [AssignExpr]
+                          ) [DesigStmtActions]
+                        ) [DesignatorStmt]
+                      ) [Statements]
+                      DesignatorStmt(
+                        DesigStmtActions(
+                          DesigVar(
+                           a
+                          ) [DesigVar]
+                          DesigInc(
+                          ) [DesigInc]
+                        ) [DesigStmtActions]
+                      ) [DesignatorStmt]
+                    ) [Statements]
+                    DesignatorStmt(
+                      DesigStmtActions(
+                        DesigVar(
+                         b
+                        ) [DesigVar]
+                        DesigDec(
+                        ) [DesigDec]
+                      ) [DesigStmtActions]
+                    ) [DesignatorStmt]
+                  ) [Statements]
+                  DesignatorStmt(
+                    DesigStmtActions(
+                      DesigArrayElem(
+                       niz
+                        PosTermExpr(
+                          FactorTerm(
+                            NumFactor(
+                             3
+                            ) [NumFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                      ) [DesigArrayElem]
+                      DesigInc(
+                      ) [DesigInc]
+                    ) [DesigStmtActions]
+                  ) [DesignatorStmt]
+                ) [Statements]
+                DesignatorStmt(
+                  DesigStmtActions(
+                    DesigArrayElem(
+                     niz
+                      PosTermExpr(
+                        FactorTerm(
+                          NumFactor(
+                           3
+                          ) [NumFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                    ) [DesigArrayElem]
+                    DesigDec(
+                    ) [DesigDec]
+                  ) [DesigStmtActions]
+                ) [DesignatorStmt]
+              ) [Statements]
+              DesignatorStmt(
+                DesigStmtActions(
+                  DesigVar(
+                   a
+                  ) [DesigVar]
+                  AssignExpr(
+                    AddExpr(
+                      PosTermExpr(
+                        FactorTerm(
+                          VarFactor(
+                            DesigVar(
+                             a
+                            ) [DesigVar]
+                          ) [VarFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                      Add(
+                      ) [Add]
+                      FactorTerm(
+                        NumFactor(
+                         1
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                    ) [AddExpr]
+                  ) [AssignExpr]
+                ) [DesigStmtActions]
+              ) [DesignatorStmt]
+            ) [Statements]
+            DesignatorStmt(
+              DesigStmtActions(
+                DesigVar(
+                 a
+                ) [DesigVar]
+                AssignExpr(
+                  AddExpr(
+                    PosTermExpr(
+                      FactorTerm(
+                        VarFactor(
+                          DesigVar(
+                           a
+                          ) [DesigVar]
+                        ) [VarFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                    Add(
+                    ) [Add]
+                    MulTerm(
+                      FactorTerm(
+                        NumFactor(
+                         3
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                      Mul(
+                      ) [Mul]
+                      NumFactor(
+                       2
+                      ) [NumFactor]
+                    ) [MulTerm]
+                  ) [AddExpr]
+                ) [AssignExpr]
+              ) [DesigStmtActions]
+            ) [DesignatorStmt]
+          ) [Statements]
+          DesignatorStmt(
+            DesigStmtArray(
+              AddArrElem(
+                SkipArrElem(
+                  AddArrElem(
+                    AddArrElem(
+                      NoDesigArrayList(
+                      ) [NoDesigArrayList]
+                      DesigVar(
+                       a
+                      ) [DesigVar]
+                    ) [AddArrElem]
+                    DesigVar(
+                     b
+                    ) [DesigVar]
+                  ) [AddArrElem]
+                ) [SkipArrElem]
+                DesigArrayElem(
+                 niz
+                  PosTermExpr(
+                    FactorTerm(
+                      NumFactor(
+                       2
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                ) [DesigArrayElem]
+              ) [AddArrElem]
+              DesigVar(
+               niz
+              ) [DesigVar]
+              DesigVar(
+               testNiz
+              ) [DesigVar]
+            ) [DesigStmtArray]
+          ) [DesignatorStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:18:31,710 - Obradjuje se funkcija test na liniji 4
+INFO  22:18:31,710 - Obradjuje se funkcija main na liniji 8
+ERROR 22:18:31,711 - Greska na liniji 9 : ime a nije deklarisano! 
+ERROR 22:18:31,711 - Greska na liniji 9 : ime a nije deklarisano! 
+ERROR 22:18:31,712 - Greska na liniji 10 : ime a nije deklarisano! 
+ERROR 22:18:31,714 - Greska na liniji 10 : ime a nije deklarisano! 
+ERROR 22:18:31,715 - Greska na liniji 10 : ime b nije deklarisano! 
+ERROR 22:18:31,715 - Greska na liniji 10 : ime b nije deklarisano! 
+ERROR 22:18:31,715 - Greska na liniji 11 : ime b nije deklarisano! 
+ERROR 22:18:31,715 - Greska na liniji 11 : ime b nije deklarisano! 

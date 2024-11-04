@@ -1,0 +1,142 @@
+INFO  23:29:50,173 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:29:50,244 - #2 program
+INFO  23:29:50,245 - #48 test2
+INFO  23:29:50,245 - #42 {
+INFO  23:29:50,248 - #48 int
+INFO  23:29:50,249 - #48 m4
+INFO  23:29:50,250 - #38 (
+INFO  23:29:50,251 - #39 )
+INFO  23:29:50,252 - #42 {
+INFO  23:29:50,253 - #9 print
+INFO  23:29:50,254 - #38 (
+INFO  23:29:50,254 - #50 m
+INFO  23:29:50,255 - #39 )
+INFO  23:29:50,256 - #34 ;
+INFO  23:29:50,256 - #9 print
+INFO  23:29:50,257 - #38 (
+INFO  23:29:50,257 - #47 4
+INFO  23:29:50,258 - #39 )
+INFO  23:29:50,259 - #34 ;
+INFO  23:29:50,259 - #43 }
+INFO  23:29:50,260 - #12 void
+INFO  23:29:50,261 - #48 main
+INFO  23:29:50,263 - #38 (
+INFO  23:29:50,263 - #39 )
+INFO  23:29:50,264 - #42 {
+INFO  23:29:50,264 - #48 m4
+INFO  23:29:50,264 - #38 (
+INFO  23:29:50,264 - #39 )
+INFO  23:29:50,266 - #34 ;
+INFO  23:29:50,266 - #9 print
+INFO  23:29:50,267 - #38 (
+INFO  23:29:50,267 - #48 eof
+INFO  23:29:50,267 - #39 )
+INFO  23:29:50,267 - #34 ;
+INFO  23:29:50,267 - #43 }
+INFO  23:29:50,268 - #43 }
+INFO  23:29:50,278 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         m4
+        ) [MethodTypeName]
+        NoFormParam(
+        ) [NoFormParam]
+        NoMethVar(
+        ) [NoMethVar]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  CharFactor(
+                   m
+                  ) [CharFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                NumFactor(
+                 4
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               m4
+              ) [DesigVar]
+              DesigFuncCall(
+                NoActPars(
+                ) [NoActPars]
+              ) [DesigFuncCall]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        PrintStmt(
+          PosTermExpr(
+            FactorTerm(
+              VarFactor(
+                DesigVar(
+                 eof
+                ) [DesigVar]
+              ) [VarFactor]
+            ) [FactorTerm]
+          ) [PosTermExpr]
+          NoPrintVar(
+          ) [NoPrintVar]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:29:50,283 - Obradjuje se funkcija m4 na liniji 6
+INFO  23:29:50,283 - Obradjuje se funkcija main na liniji 12
+ERROR 23:29:50,290 - Greska na liniji 16 : ime eof nije deklarisano! 
+ERROR 23:29:50,290 - Greska na liniji 16 : ime eof nije deklarisano! 
+ERROR 23:29:50,290 - Greska na liniji 16: podatak koji se stampa mora da bude int, char ili bool tipa!
+INFO  23:29:50,290 -  Print count calls = 0
+INFO  23:29:50,291 -  Deklarisanih promenljivih ima = 0
+INFO  23:29:50,292 - Neuspesna semanticka analiza!!

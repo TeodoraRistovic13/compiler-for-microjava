@@ -1,0 +1,179 @@
+INFO  22:28:57,738 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:28:57,816 - #2 program
+INFO  22:28:57,817 - #47 test2
+INFO  22:28:57,817 - #42 {
+INFO  22:28:57,819 - #47 int
+INFO  22:28:57,821 - #47 m4
+INFO  22:28:57,821 - #38 (
+INFO  22:28:57,822 - #39 )
+INFO  22:28:57,825 - #42 {
+INFO  22:28:57,825 - #9 print
+INFO  22:28:57,826 - #38 (
+INFO  22:28:57,826 - #49 m
+INFO  22:28:57,826 - #39 )
+INFO  22:28:57,827 - #34 ;
+INFO  22:28:57,829 - #9 print
+INFO  22:28:57,829 - #38 (
+INFO  22:28:57,829 - #46 4
+INFO  22:28:57,829 - #39 )
+INFO  22:28:57,829 - #34 ;
+INFO  22:28:57,829 - #43 }
+INFO  22:28:57,830 - #12 void
+INFO  22:28:57,833 - #47 main
+INFO  22:28:57,834 - #38 (
+INFO  22:28:57,836 - #39 )
+INFO  22:28:57,836 - #42 {
+INFO  22:28:57,836 - #47 m1
+INFO  22:28:57,836 - #38 (
+INFO  22:28:57,836 - #39 )
+INFO  22:28:57,838 - #34 ;
+INFO  22:28:57,838 - #47 m2
+INFO  22:28:57,838 - #38 (
+INFO  22:28:57,838 - #39 )
+INFO  22:28:57,838 - #34 ;
+INFO  22:28:57,838 - #47 m3
+INFO  22:28:57,838 - #38 (
+INFO  22:28:57,838 - #39 )
+INFO  22:28:57,840 - #34 ;
+INFO  22:28:57,840 - #47 m4
+INFO  22:28:57,840 - #38 (
+INFO  22:28:57,840 - #39 )
+INFO  22:28:57,840 - #34 ;
+INFO  22:28:57,840 - #43 }
+INFO  22:28:57,840 - #43 }
+INFO  22:28:57,850 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          MethRetType(
+            Type(
+             int
+            ) [Type]
+          ) [MethRetType]
+         m4
+        ) [MethodTypeName]
+        NoFormParam(
+        ) [NoFormParam]
+        NoMethVar(
+        ) [NoMethVar]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  CharFactor(
+                   m
+                  ) [CharFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmt(
+            PosTermExpr(
+              FactorTerm(
+                NumFactor(
+                 4
+                ) [NumFactor]
+              ) [FactorTerm]
+            ) [PosTermExpr]
+            NoPrintVar(
+            ) [NoPrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              NoStmt(
+              ) [NoStmt]
+              DesignatorStmt(
+                DesigStmtActions(
+                  DesigVar(
+                   m1
+                  ) [DesigVar]
+                  DesigFuncCall(
+                    NoActPars(
+                    ) [NoActPars]
+                  ) [DesigFuncCall]
+                ) [DesigStmtActions]
+              ) [DesignatorStmt]
+            ) [Statements]
+            DesignatorStmt(
+              DesigStmtActions(
+                DesigVar(
+                 m2
+                ) [DesigVar]
+                DesigFuncCall(
+                  NoActPars(
+                  ) [NoActPars]
+                ) [DesigFuncCall]
+              ) [DesigStmtActions]
+            ) [DesignatorStmt]
+          ) [Statements]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               m3
+              ) [DesigVar]
+              DesigFuncCall(
+                NoActPars(
+                ) [NoActPars]
+              ) [DesigFuncCall]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        DesignatorStmt(
+          DesigStmtActions(
+            DesigVar(
+             m4
+            ) [DesigVar]
+            DesigFuncCall(
+              NoActPars(
+              ) [NoActPars]
+            ) [DesigFuncCall]
+          ) [DesigStmtActions]
+        ) [DesignatorStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  22:28:57,854 - Obradjuje se funkcija m4 na liniji 6
+INFO  22:28:57,856 - Obradjuje se funkcija main na liniji 12
+ERROR 22:28:57,856 - Greska na liniji 13 : ime m1 nije deklarisano! 
+ERROR 22:28:57,856 - Greska na liniji 13 : ime m1 nije deklarisano! 
+ERROR 22:28:57,856 - Greska na liniji 13 : ime noObj nije globalna fja gl programa!
+ERROR 22:28:57,858 - Greska na liniji 14 : ime m2 nije deklarisano! 
+ERROR 22:28:57,858 - Greska na liniji 14 : ime m2 nije deklarisano! 
+ERROR 22:28:57,858 - Greska na liniji 14 : ime noObj nije globalna fja gl programa!
+ERROR 22:28:57,858 - Greska na liniji 15 : ime m3 nije deklarisano! 
+ERROR 22:28:57,858 - Greska na liniji 15 : ime m3 nije deklarisano! 
+ERROR 22:28:57,858 - Greska na liniji 15 : ime noObj nije globalna fja gl programa!
+INFO  22:28:57,864 -  Print count calls = 0
+INFO  22:28:57,864 -  Deklarisanih promenljivih ima = 0
+INFO  22:28:57,865 - Neuspesna semanticka analiza!!

@@ -1,0 +1,437 @@
+INFO  20:00:14,056 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:00:14,125 - #2 program
+INFO  20:00:14,126 - #48 test301
+INFO  20:00:14,127 - #48 int
+INFO  20:00:14,131 - #48 niz
+INFO  20:00:14,132 - #40 [
+INFO  20:00:14,133 - #41 ]
+INFO  20:00:14,133 - #36 ,
+INFO  20:00:14,133 - #48 niz2
+INFO  20:00:14,134 - #40 [
+INFO  20:00:14,134 - #41 ]
+INFO  20:00:14,134 - #34 ;
+INFO  20:00:14,134 - #48 int
+INFO  20:00:14,135 - #48 a
+INFO  20:00:14,135 - #34 ;
+INFO  20:00:14,135 - #48 int
+INFO  20:00:14,135 - #48 d
+INFO  20:00:14,136 - #34 ;
+INFO  20:00:14,136 - #48 char
+INFO  20:00:14,136 - #48 c
+INFO  20:00:14,136 - #34 ;
+INFO  20:00:14,136 - #48 char
+INFO  20:00:14,137 - #48 b
+INFO  20:00:14,137 - #40 [
+INFO  20:00:14,137 - #41 ]
+INFO  20:00:14,137 - #34 ;
+INFO  20:00:14,138 - #42 {
+INFO  20:00:14,138 - #12 void
+INFO  20:00:14,139 - #48 main
+INFO  20:00:14,140 - #38 (
+INFO  20:00:14,143 - #39 )
+INFO  20:00:14,144 - #42 {
+INFO  20:00:14,145 - #48 niz
+INFO  20:00:14,146 - #31 =
+INFO  20:00:14,146 - #8 new
+INFO  20:00:14,147 - #48 int
+INFO  20:00:14,147 - #40 [
+INFO  20:00:14,147 - #47 4
+INFO  20:00:14,147 - #41 ]
+INFO  20:00:14,147 - #34 ;
+INFO  20:00:14,148 - #48 niz
+INFO  20:00:14,148 - #40 [
+INFO  20:00:14,148 - #47 0
+INFO  20:00:14,148 - #41 ]
+INFO  20:00:14,149 - #31 =
+INFO  20:00:14,149 - #47 1
+INFO  20:00:14,149 - #34 ;
+INFO  20:00:14,149 - #48 niz
+INFO  20:00:14,149 - #40 [
+INFO  20:00:14,149 - #47 1
+INFO  20:00:14,150 - #41 ]
+INFO  20:00:14,150 - #31 =
+INFO  20:00:14,150 - #47 2
+INFO  20:00:14,150 - #34 ;
+INFO  20:00:14,150 - #48 niz
+INFO  20:00:14,150 - #40 [
+INFO  20:00:14,150 - #47 2
+INFO  20:00:14,151 - #41 ]
+INFO  20:00:14,151 - #31 =
+INFO  20:00:14,151 - #47 3
+INFO  20:00:14,151 - #34 ;
+INFO  20:00:14,151 - #48 niz
+INFO  20:00:14,151 - #40 [
+INFO  20:00:14,151 - #47 3
+INFO  20:00:14,152 - #41 ]
+INFO  20:00:14,152 - #31 =
+INFO  20:00:14,152 - #47 4
+INFO  20:00:14,152 - #34 ;
+INFO  20:00:14,152 - #48 niz2
+INFO  20:00:14,152 - #31 =
+INFO  20:00:14,152 - #8 new
+INFO  20:00:14,153 - #48 int
+INFO  20:00:14,153 - #40 [
+INFO  20:00:14,153 - #47 1
+INFO  20:00:14,153 - #41 ]
+INFO  20:00:14,154 - #34 ;
+INFO  20:00:14,154 - #40 [
+INFO  20:00:14,154 - #36 ,
+INFO  20:00:14,155 - #48 a
+INFO  20:00:14,156 - #36 ,
+INFO  20:00:14,156 - #48 d
+INFO  20:00:14,156 - #36 ,
+INFO  20:00:14,156 - #20 *
+INFO  20:00:14,156 - #48 niz2
+INFO  20:00:14,156 - #41 ]
+INFO  20:00:14,157 - #31 =
+INFO  20:00:14,157 - #48 niz
+INFO  20:00:14,158 - #34 ;
+INFO  20:00:14,158 - #9 print
+INFO  20:00:14,159 - #38 (
+INFO  20:00:14,159 - #48 a
+INFO  20:00:14,160 - #39 )
+INFO  20:00:14,162 - #34 ;
+INFO  20:00:14,162 - #9 print
+INFO  20:00:14,162 - #38 (
+INFO  20:00:14,163 - #46 eol
+INFO  20:00:14,163 - #39 )
+INFO  20:00:14,163 - #34 ;
+INFO  20:00:14,163 - #9 print
+INFO  20:00:14,164 - #38 (
+INFO  20:00:14,164 - #48 niz2
+INFO  20:00:14,165 - #40 [
+INFO  20:00:14,165 - #47 1
+INFO  20:00:14,165 - #41 ]
+INFO  20:00:14,165 - #39 )
+INFO  20:00:14,165 - #34 ;
+INFO  20:00:14,165 - #43 }
+INFO  20:00:14,165 - #43 }
+INFO  20:00:14,173 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          ProgramDecls(
+            NoProgramDecls(
+            ) [NoProgramDecls]
+            ProgramVarDecl(
+              Type(
+               int
+              ) [Type]
+              MultipleVarDecls(
+                SingleVarDecl(
+                  VarArrayNameDecl(
+                   niz
+                  ) [VarArrayNameDecl]
+                ) [SingleVarDecl]
+                VarArrayNameDecl(
+                 niz2
+                ) [VarArrayNameDecl]
+              ) [MultipleVarDecls]
+            ) [ProgramVarDecl]
+          ) [ProgramDecls]
+          ProgramVarDecl(
+            Type(
+             int
+            ) [Type]
+            SingleVarDecl(
+              VarNameDecl(
+               a
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+          ) [ProgramVarDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             d
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        Type(
+         char
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           c
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       char
+      ) [Type]
+      SingleVarDecl(
+        VarArrayNameDecl(
+         b
+        ) [VarArrayNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      Statements(
+                        Statements(
+                          NoStmt(
+                          ) [NoStmt]
+                          DesignatorStmt(
+                            DesigStmtActions(
+                              DesigVar(
+                               niz
+                              ) [DesigVar]
+                              AssignExpr(
+                                PosTermExpr(
+                                  FactorTerm(
+                                    NewFactor(
+                                      Type(
+                                       int
+                                      ) [Type]
+                                      PosTermExpr(
+                                        FactorTerm(
+                                          NumFactor(
+                                           4
+                                          ) [NumFactor]
+                                        ) [FactorTerm]
+                                      ) [PosTermExpr]
+                                    ) [NewFactor]
+                                  ) [FactorTerm]
+                                ) [PosTermExpr]
+                              ) [AssignExpr]
+                            ) [DesigStmtActions]
+                          ) [DesignatorStmt]
+                        ) [Statements]
+                        DesignatorStmt(
+                          DesigStmtActions(
+                            DesigArrayElem(
+                             niz
+                              PosTermExpr(
+                                FactorTerm(
+                                  NumFactor(
+                                   0
+                                  ) [NumFactor]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                            ) [DesigArrayElem]
+                            AssignExpr(
+                              PosTermExpr(
+                                FactorTerm(
+                                  NumFactor(
+                                   1
+                                  ) [NumFactor]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                            ) [AssignExpr]
+                          ) [DesigStmtActions]
+                        ) [DesignatorStmt]
+                      ) [Statements]
+                      DesignatorStmt(
+                        DesigStmtActions(
+                          DesigArrayElem(
+                           niz
+                            PosTermExpr(
+                              FactorTerm(
+                                NumFactor(
+                                 1
+                                ) [NumFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                          ) [DesigArrayElem]
+                          AssignExpr(
+                            PosTermExpr(
+                              FactorTerm(
+                                NumFactor(
+                                 2
+                                ) [NumFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                          ) [AssignExpr]
+                        ) [DesigStmtActions]
+                      ) [DesignatorStmt]
+                    ) [Statements]
+                    DesignatorStmt(
+                      DesigStmtActions(
+                        DesigArrayElem(
+                         niz
+                          PosTermExpr(
+                            FactorTerm(
+                              NumFactor(
+                               2
+                              ) [NumFactor]
+                            ) [FactorTerm]
+                          ) [PosTermExpr]
+                        ) [DesigArrayElem]
+                        AssignExpr(
+                          PosTermExpr(
+                            FactorTerm(
+                              NumFactor(
+                               3
+                              ) [NumFactor]
+                            ) [FactorTerm]
+                          ) [PosTermExpr]
+                        ) [AssignExpr]
+                      ) [DesigStmtActions]
+                    ) [DesignatorStmt]
+                  ) [Statements]
+                  DesignatorStmt(
+                    DesigStmtActions(
+                      DesigArrayElem(
+                       niz
+                        PosTermExpr(
+                          FactorTerm(
+                            NumFactor(
+                             3
+                            ) [NumFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                      ) [DesigArrayElem]
+                      AssignExpr(
+                        PosTermExpr(
+                          FactorTerm(
+                            NumFactor(
+                             4
+                            ) [NumFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                      ) [AssignExpr]
+                    ) [DesigStmtActions]
+                  ) [DesignatorStmt]
+                ) [Statements]
+                DesignatorStmt(
+                  DesigStmtActions(
+                    DesigVar(
+                     niz2
+                    ) [DesigVar]
+                    AssignExpr(
+                      PosTermExpr(
+                        FactorTerm(
+                          NewFactor(
+                            Type(
+                             int
+                            ) [Type]
+                            PosTermExpr(
+                              FactorTerm(
+                                NumFactor(
+                                 1
+                                ) [NumFactor]
+                              ) [FactorTerm]
+                            ) [PosTermExpr]
+                          ) [NewFactor]
+                        ) [FactorTerm]
+                      ) [PosTermExpr]
+                    ) [AssignExpr]
+                  ) [DesigStmtActions]
+                ) [DesignatorStmt]
+              ) [Statements]
+              DesignatorStmt(
+                DesigStmtArrayAssign(
+                  AddArrElem(
+                    AddArrElem(
+                      SkipArrElem(
+                        NoDesigArrayList(
+                        ) [NoDesigArrayList]
+                      ) [SkipArrElem]
+                      DesigVar(
+                       a
+                      ) [DesigVar]
+                    ) [AddArrElem]
+                    DesigVar(
+                     d
+                    ) [DesigVar]
+                  ) [AddArrElem]
+                  ArrAfterStar(
+                    DesigVar(
+                     niz2
+                    ) [DesigVar]
+                  ) [ArrAfterStar]
+                  DesigVar(
+                   niz
+                  ) [DesigVar]
+                ) [DesigStmtArrayAssign]
+              ) [DesignatorStmt]
+            ) [Statements]
+            PrintStmt(
+              PosTermExpr(
+                FactorTerm(
+                  VarFactor(
+                    DesigVar(
+                     a
+                    ) [DesigVar]
+                  ) [VarFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              NoPrintVar(
+              ) [NoPrintVar]
+            ) [PrintStmt]
+          ) [Statements]
+          PrintStmtEol(
+          ) [PrintStmtEol]
+        ) [Statements]
+        PrintStmt(
+          PosTermExpr(
+            FactorTerm(
+              VarFactor(
+                DesigArrayElem(
+                 niz2
+                  PosTermExpr(
+                    FactorTerm(
+                      NumFactor(
+                       1
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                ) [DesigArrayElem]
+              ) [VarFactor]
+            ) [FactorTerm]
+          ) [PosTermExpr]
+          NoPrintVar(
+          ) [NoPrintVar]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:00:14,179 - Deklarisana promenljiva niz na liniji 5
+INFO  20:00:14,179 - Deklarisana promenljiva niz2 na liniji 5
+INFO  20:00:14,180 - Deklarisana promenljiva a na liniji 6
+INFO  20:00:14,180 - Deklarisana promenljiva d na liniji 7
+INFO  20:00:14,180 - Deklarisana promenljiva c na liniji 8
+INFO  20:00:14,181 - Deklarisana promenljiva b na liniji 9
+INFO  20:00:14,181 - Obradjuje se funkcija main na liniji 11
+INFO  20:00:14,182 - Pretraga na 14(niz), nadjeno Var niz: Arr of int, 0, 0  na liniji 14
+INFO  20:00:14,182 - Pretraga na 15(niz), nadjeno Var niz: Arr of int, 0, 0  na liniji 15
+INFO  20:00:14,182 - Pretraga na 16(niz), nadjeno Var niz: Arr of int, 0, 0  na liniji 16
+INFO  20:00:14,182 - Pretraga na 17(niz), nadjeno Var niz: Arr of int, 0, 0  na liniji 17
+INFO  20:00:14,183 - Pretraga na 23(niz2), nadjeno Var niz2: Arr of int, 1, 0  na liniji 23
+INFO  20:00:14,183 -  Print count calls = 0
+INFO  20:00:14,183 -  Deklarisanih promenljivih ima = 0
+INFO  20:00:14,194 - Uspesna semanticka analiza!!

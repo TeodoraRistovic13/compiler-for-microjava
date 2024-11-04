@@ -1,0 +1,145 @@
+INFO  19:34:47,473 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:34:47,533 - #2 program
+INFO  19:34:47,533 - #49 Program
+INFO  19:34:47,534 - #6 const
+INFO  19:34:47,536 - #49 int
+INFO  19:34:47,536 - #49 pi
+INFO  19:34:47,537 - #31 =
+INFO  19:34:47,537 - #48 3
+INFO  19:34:47,537 - #36 ,
+INFO  19:34:47,539 - #49 e
+INFO  19:34:47,539 - #31 =
+INFO  19:34:47,539 - #48 2
+INFO  19:34:47,539 - #34 ;
+INFO  19:34:47,540 - #49 int
+INFO  19:34:47,540 - #49 a
+INFO  19:34:47,540 - #36 ,
+INFO  19:34:47,541 - #49 b
+INFO  19:34:47,541 - #34 ;
+INFO  19:34:47,541 - #42 {
+INFO  19:34:47,541 - #12 void
+INFO  19:34:47,542 - #49 main
+INFO  19:34:47,544 - #38 (
+INFO  19:34:47,544 - #39 )
+INFO  19:34:47,546 - #42 {
+INFO  19:34:47,547 - #9 print
+INFO  19:34:47,548 - #38 (
+INFO  19:34:47,548 - #49 a
+INFO  19:34:47,549 - #39 )
+INFO  19:34:47,550 - #34 ;
+INFO  19:34:47,550 - #3 break
+INFO  19:34:47,551 - #34 ;
+INFO  19:34:47,552 - #14 continue
+INFO  19:34:47,553 - #34 ;
+INFO  19:34:47,553 - #11 return
+INFO  19:34:47,554 - #49 a
+INFO  19:34:47,554 - #34 ;
+INFO  19:34:47,554 - #11 return
+INFO  19:34:47,555 - #34 ;
+INFO  19:34:47,555 - #43 }
+INFO  19:34:47,556 - #43 }
+INFO  19:34:47,559 - Program(
+ Program
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramConstDecl(
+        InnerScopeType(
+         int
+        ) [InnerScopeType]
+        MultipleConstDecls(
+          SingleConstDecl(
+            ConstDecl(
+             pi
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDecl]
+          ) [SingleConstDecl]
+          ConstDecl(
+           e
+            NumConst(
+             2
+            ) [NumConst]
+          ) [ConstDecl]
+        ) [MultipleConstDecls]
+      ) [ProgramConstDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      InnerScopeType(
+       int
+      ) [InnerScopeType]
+      MultipleVarDecls(
+        SingleVarDecl(
+          VariableDecl(
+           a
+          ) [VariableDecl]
+        ) [SingleVarDecl]
+        VariableDecl(
+         b
+        ) [VariableDecl]
+      ) [MultipleVarDecls]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidRet(
+      ) [VoidRet]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                PrintStmt(
+                  SingleTerm(
+                    SimpleTerm(
+                      VarFactor(
+                        InnerScopeDesigVar(
+                         a
+                        ) [InnerScopeDesigVar]
+                      ) [VarFactor]
+                    ) [SimpleTerm]
+                  ) [SingleTerm]
+                  NoPrintVar(
+                  ) [NoPrintVar]
+                ) [PrintStmt]
+              ) [Statements]
+              BreakStmt(
+              ) [BreakStmt]
+            ) [Statements]
+            ContinueStmt(
+            ) [ContinueStmt]
+          ) [Statements]
+          ReturnExpr(
+            SingleTerm(
+              SimpleTerm(
+                VarFactor(
+                  InnerScopeDesigVar(
+                   a
+                  ) [InnerScopeDesigVar]
+                ) [VarFactor]
+              ) [SimpleTerm]
+            ) [SingleTerm]
+          ) [ReturnExpr]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:34:47,560 - ===================================
+INFO  19:34:47,563 -  Print count calls = 0
+INFO  19:34:47,564 -  Deklarisanih promenljivih ima = 0

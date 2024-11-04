@@ -1,0 +1,69 @@
+INFO  19:48:49,658 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:48:49,767 - #2 program
+INFO  19:48:49,767 - #47 test302
+INFO  19:48:49,767 - #17 namespace
+INFO  19:48:49,770 - #47 Unpacking
+INFO  19:48:49,770 - #42 {
+INFO  19:48:49,771 - #47 int
+INFO  19:48:49,773 - #47 a
+INFO  19:48:49,773 - #36 ,
+INFO  19:48:49,774 - #47 b
+INFO  19:48:49,774 - #36 ,
+INFO  19:48:49,775 - #47 c
+INFO  19:48:49,775 - #34 ;
+INFO  19:48:49,775 - #42 {
+INFO  19:48:49,776 - #43 }
+INFO  19:48:49,777 - #43 }
+INFO  19:48:49,777 - #42 {
+INFO  19:48:49,780 - #43 }
+INFO  19:48:49,793 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Unpacking
+      ) [NamespaceName]
+      NamespaceDecls(
+        NoNamespaceDecls(
+        ) [NoNamespaceDecls]
+        NamespaceVarDecl(
+          NoScopeType(
+           int
+          ) [NoScopeType]
+          MultipleVarDecls(
+            MultipleVarDecls(
+              SingleVarDecl(
+                VarNameDecl(
+                 a
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+              VarNameDecl(
+               b
+              ) [VarNameDecl]
+            ) [MultipleVarDecls]
+            VarNameDecl(
+             c
+            ) [VarNameDecl]
+          ) [MultipleVarDecls]
+        ) [NamespaceVarDecl]
+      ) [NamespaceDecls]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+    ) [Namespace]
+  ) [NamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  19:48:49,794 - ===================================
+INFO  19:48:49,798 - Deklarisana promenljiva a na liniji 6
+INFO  19:48:49,798 - Deklarisana promenljiva b na liniji 6
+INFO  19:48:49,798 - Deklarisana promenljiva c na liniji 6
+INFO  19:48:49,799 -  Print count calls = 0
+INFO  19:48:49,799 -  Deklarisanih promenljivih ima = 0
+INFO  19:48:49,799 - ===================================

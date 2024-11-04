@@ -1,0 +1,50 @@
+INFO  23:30:15,402 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:30:15,483 - #2 program
+INFO  23:30:15,484 - #48 test2
+INFO  23:30:15,484 - #42 {
+INFO  23:30:15,486 - #12 void
+INFO  23:30:15,487 - #48 main
+INFO  23:30:15,488 - #38 (
+INFO  23:30:15,489 - #39 )
+INFO  23:30:15,490 - #42 {
+INFO  23:30:15,491 - #9 print
+INFO  23:30:15,492 - #38 (
+INFO  23:30:15,492 - #46 eol
+INFO  23:30:15,493 - #39 )
+INFO  23:30:15,493 - #34 ;
+INFO  23:30:15,493 - #43 }
+INFO  23:30:15,495 - #43 }
+INFO  23:30:15,504 - Program(
+  ProgName(
+   test2
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  NoProgramDecls(
+  ) [NoProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        PrintStmtEol(
+        ) [PrintStmtEol]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:30:15,511 - Obradjuje se funkcija main na liniji 5
+INFO  23:30:15,512 -  Print count calls = 0
+INFO  23:30:15,512 -  Deklarisanih promenljivih ima = 0
+INFO  23:30:15,518 - Uspesna semanticka analiza!!

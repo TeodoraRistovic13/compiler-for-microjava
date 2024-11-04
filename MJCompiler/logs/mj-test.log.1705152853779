@@ -1,0 +1,216 @@
+INFO  13:54:11,049 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  13:54:11,120 - #2 program
+INFO  13:54:11,120 - #47 MJProgram
+INFO  13:54:11,121 - #47 int
+INFO  13:54:11,123 - #47 x
+INFO  13:54:11,124 - #34 ;
+INFO  13:54:11,124 - #47 bool
+INFO  13:54:11,125 - #47 uslov
+INFO  13:54:11,125 - #34 ;
+INFO  13:54:11,125 - #47 char
+INFO  13:54:11,126 - #47 c
+INFO  13:54:11,126 - #34 ;
+INFO  13:54:11,126 - #47 int
+INFO  13:54:11,126 - #47 a
+INFO  13:54:11,126 - #40 [
+INFO  13:54:11,126 - #41 ]
+INFO  13:54:11,126 - #34 ;
+INFO  13:54:11,127 - #47 char
+INFO  13:54:11,127 - #47 b
+INFO  13:54:11,127 - #40 [
+INFO  13:54:11,127 - #41 ]
+INFO  13:54:11,127 - #34 ;
+INFO  13:54:11,128 - #47 bool
+INFO  13:54:11,128 - #47 d
+INFO  13:54:11,129 - #40 [
+INFO  13:54:11,129 - #41 ]
+INFO  13:54:11,130 - #34 ;
+INFO  13:54:11,130 - #42 {
+INFO  13:54:11,130 - #12 void
+INFO  13:54:11,131 - #47 main
+INFO  13:54:11,132 - #38 (
+INFO  13:54:11,133 - #39 )
+INFO  13:54:11,134 - #42 {
+INFO  13:54:11,135 - #47 x
+INFO  13:54:11,136 - #31 =
+INFO  13:54:11,136 - #46 3
+INFO  13:54:11,137 - #34 ;
+INFO  13:54:11,138 - #47 x
+INFO  13:54:11,139 - #31 =
+INFO  13:54:11,139 - #46 2
+INFO  13:54:11,139 - #20 *
+INFO  13:54:11,139 - #47 a
+INFO  13:54:11,141 - #40 [
+INFO  13:54:11,141 - #46 3
+INFO  13:54:11,141 - #41 ]
+INFO  13:54:11,142 - #34 ;
+INFO  13:54:11,142 - #11 return
+INFO  13:54:11,142 - #34 ;
+INFO  13:54:11,142 - #43 }
+INFO  13:54:11,144 - #43 }
+INFO  13:54:11,152 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          ProgramDecls(
+            ProgramDecls(
+              NoProgramDecls(
+              ) [NoProgramDecls]
+              ProgramVarDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleVarDecl(
+                  VarNameDecl(
+                   x
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+              ) [ProgramVarDecl]
+            ) [ProgramDecls]
+            ProgramVarDecl(
+              Type(
+               bool
+              ) [Type]
+              SingleVarDecl(
+                VarNameDecl(
+                 uslov
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+            ) [ProgramVarDecl]
+          ) [ProgramDecls]
+          ProgramVarDecl(
+            Type(
+             char
+            ) [Type]
+            SingleVarDecl(
+              VarNameDecl(
+               c
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+          ) [ProgramVarDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarArrayNameDecl(
+             a
+            ) [VarArrayNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        Type(
+         char
+        ) [Type]
+        SingleVarDecl(
+          VarArrayNameDecl(
+           b
+          ) [VarArrayNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       bool
+      ) [Type]
+      SingleVarDecl(
+        VarArrayNameDecl(
+         d
+        ) [VarArrayNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            DesignatorStmt(
+              DesigStmtActions(
+                DesigVar(
+                 x
+                ) [DesigVar]
+                AssignExpr(
+                  PosTermExpr(
+                    FactorTerm(
+                      NumFactor(
+                       3
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                ) [AssignExpr]
+              ) [DesigStmtActions]
+            ) [DesignatorStmt]
+          ) [Statements]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               x
+              ) [DesigVar]
+              AssignExpr(
+                PosTermExpr(
+                  MulTerm(
+                    FactorTerm(
+                      NumFactor(
+                       2
+                      ) [NumFactor]
+                    ) [FactorTerm]
+                    Mul(
+                    ) [Mul]
+                    VarFactor(
+                      DesigArray(
+                       a
+                        PosTermExpr(
+                          FactorTerm(
+                            NumFactor(
+                             3
+                            ) [NumFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                      ) [DesigArray]
+                    ) [VarFactor]
+                  ) [MulTerm]
+                ) [PosTermExpr]
+              ) [AssignExpr]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  13:54:11,159 - Deklarisana promenljiva x na liniji 2
+INFO  13:54:11,160 - Deklarisana promenljiva uslov na liniji 3
+INFO  13:54:11,160 - Deklarisana promenljiva c na liniji 4
+INFO  13:54:11,160 - Deklarisana promenljiva a na liniji 5
+INFO  13:54:11,160 - Deklarisana promenljiva b na liniji 6
+INFO  13:54:11,160 - Deklarisana promenljiva d na liniji 7
+INFO  13:54:11,160 - Obradjuje se funkcija main na liniji 9
+INFO  13:54:11,161 - Pretraga na 14(a), nadjeno Var a: Arr of int, 3, 0  na liniji 14
+ERROR 13:54:11,162 - Greska na liniji 14: operandi nisu tipa int!
+INFO  13:54:11,162 -  Print count calls = 0
+INFO  13:54:11,162 -  Deklarisanih promenljivih ima = 0
+INFO  13:54:11,164 - Neuspesna semanticka analiza!!

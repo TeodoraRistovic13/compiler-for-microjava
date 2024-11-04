@@ -1,0 +1,101 @@
+INFO  19:58:10,180 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:58:10,292 - #2 program
+INFO  19:58:10,292 - #47 test302
+INFO  19:58:10,293 - #17 namespace
+INFO  19:58:10,296 - #47 Unpacking
+INFO  19:58:10,296 - #42 {
+INFO  19:58:10,297 - #47 int
+INFO  19:58:10,299 - #47 a
+INFO  19:58:10,299 - #36 ,
+INFO  19:58:10,300 - #47 b
+INFO  19:58:10,300 - #36 ,
+INFO  19:58:10,301 - #47 c
+INFO  19:58:10,301 - #34 ;
+INFO  19:58:10,301 - #42 {
+INFO  19:58:10,302 - #43 }
+INFO  19:58:10,303 - #43 }
+INFO  19:58:10,303 - #47 int
+INFO  19:58:10,307 - #47 i
+INFO  19:58:10,307 - #34 ;
+INFO  19:58:10,307 - #47 bool
+INFO  19:58:10,308 - #47 ibool
+INFO  19:58:10,309 - #34 ;
+INFO  19:58:10,310 - #42 {
+INFO  19:58:10,310 - #43 }
+INFO  19:58:10,322 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Unpacking
+      ) [NamespaceName]
+      NamespaceDecls(
+        NoNamespaceDecls(
+        ) [NoNamespaceDecls]
+        NamespaceVarDecl(
+          NoScopeType(
+           int
+          ) [NoScopeType]
+          MultipleVarDecls(
+            MultipleVarDecls(
+              SingleVarDecl(
+                VarNameDecl(
+                 a
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+              VarNameDecl(
+               b
+              ) [VarNameDecl]
+            ) [MultipleVarDecls]
+            VarNameDecl(
+             c
+            ) [VarNameDecl]
+          ) [MultipleVarDecls]
+        ) [NamespaceVarDecl]
+      ) [NamespaceDecls]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+    ) [Namespace]
+  ) [NamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      NoProgramDecls(
+      ) [NoProgramDecls]
+      ProgramVarDecl(
+        NoScopeType(
+         int
+        ) [NoScopeType]
+        SingleVarDecl(
+          VarNameDecl(
+           i
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      NoScopeType(
+       bool
+      ) [NoScopeType]
+      SingleVarDecl(
+        VarNameDecl(
+         ibool
+        ) [VarNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  19:58:10,323 - ===================================
+INFO  19:58:10,327 - Deklarisana promenljiva a na liniji 6
+INFO  19:58:10,328 - Deklarisana promenljiva b na liniji 6
+INFO  19:58:10,328 - Deklarisana promenljiva c na liniji 6
+INFO  19:58:10,328 - Deklarisana promenljiva i na liniji 10
+INFO  19:58:10,329 - Deklarisana promenljiva ibool na liniji 11
+INFO  19:58:10,329 -  Print count calls = 0
+INFO  19:58:10,329 -  Deklarisanih promenljivih ima = 0
+INFO  19:58:10,330 - ===================================

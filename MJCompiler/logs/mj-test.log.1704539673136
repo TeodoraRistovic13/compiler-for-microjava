@@ -1,0 +1,237 @@
+INFO  12:12:16,485 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  12:12:16,550 - #2 program
+INFO  12:12:16,550 - #47 test302
+INFO  12:12:16,551 - #17 namespace
+INFO  12:12:16,554 - #47 Unpacking
+INFO  12:12:16,555 - #42 {
+INFO  12:12:16,557 - #47 int
+INFO  12:12:16,558 - #47 a
+INFO  12:12:16,559 - #36 ,
+INFO  12:12:16,559 - #47 b
+INFO  12:12:16,560 - #34 ;
+INFO  12:12:16,560 - #6 const
+INFO  12:12:16,562 - #47 int
+INFO  12:12:16,563 - #47 c
+INFO  12:12:16,563 - #31 =
+INFO  12:12:16,563 - #46 3
+INFO  12:12:16,564 - #34 ;
+INFO  12:12:16,566 - #42 {
+INFO  12:12:16,567 - #47 int
+INFO  12:12:16,568 - #47 main
+INFO  12:12:16,568 - #38 (
+INFO  12:12:16,570 - #39 )
+INFO  12:12:16,575 - #42 {
+INFO  12:12:16,576 - #43 }
+INFO  12:12:16,577 - #43 }
+INFO  12:12:16,579 - #43 }
+INFO  12:12:16,579 - #6 const
+INFO  12:12:16,581 - #47 bool
+INFO  12:12:16,581 - #47 ok
+INFO  12:12:16,581 - #31 =
+INFO  12:12:16,581 - #48 true
+INFO  12:12:16,582 - #34 ;
+INFO  12:12:16,582 - #42 {
+INFO  12:12:16,583 - #47 bool
+INFO  12:12:16,583 - #47 funkcija
+INFO  12:12:16,584 - #38 (
+INFO  12:12:16,584 - #39 )
+INFO  12:12:16,584 - #47 int
+INFO  12:12:16,584 - #47 c
+INFO  12:12:16,584 - #36 ,
+INFO  12:12:16,584 - #47 d
+INFO  12:12:16,584 - #34 ;
+INFO  12:12:16,585 - #42 {
+INFO  12:12:16,585 - #9 print
+INFO  12:12:16,586 - #38 (
+INFO  12:12:16,586 - #46 3
+INFO  12:12:16,586 - #36 ,
+INFO  12:12:16,587 - #46 2
+INFO  12:12:16,587 - #39 )
+INFO  12:12:16,588 - #34 ;
+INFO  12:12:16,588 - #43 }
+INFO  12:12:16,589 - #47 int
+INFO  12:12:16,591 - #47 testtest
+INFO  12:12:16,591 - #38 (
+INFO  12:12:16,592 - #39 )
+INFO  12:12:16,592 - #47 int
+INFO  12:12:16,592 - #47 c
+INFO  12:12:16,592 - #36 ,
+INFO  12:12:16,592 - #47 d
+INFO  12:12:16,592 - #34 ;
+INFO  12:12:16,592 - #42 {
+INFO  12:12:16,592 - #43 }
+INFO  12:12:16,593 - #43 }
+INFO  12:12:16,601 - Program(
+  ProgName(
+   test302
+  ) [ProgName]
+  NamespaceList(
+    NoNamespaceList(
+    ) [NoNamespaceList]
+    Namespace(
+      NamespaceName(
+       Unpacking
+      ) [NamespaceName]
+      NamespaceDecls(
+        NamespaceDecls(
+          NoNamespaceDecls(
+          ) [NoNamespaceDecls]
+          NamespaceVarDecl(
+            NoScopeType(
+             int
+            ) [NoScopeType]
+            MultipleVarDecls(
+              SingleVarDecl(
+                VarNameDecl(
+                 a
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+              VarNameDecl(
+               b
+              ) [VarNameDecl]
+            ) [MultipleVarDecls]
+          ) [NamespaceVarDecl]
+        ) [NamespaceDecls]
+        NamespaceConstDecl(
+          NoScopeType(
+           int
+          ) [NoScopeType]
+          SingleConstDecl(
+            ConstDecl(
+             c
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDecl]
+          ) [SingleConstDecl]
+        ) [NamespaceConstDecl]
+      ) [NamespaceDecls]
+      MethodDeclarations(
+        NoMethodDecl(
+        ) [NoMethodDecl]
+        MethodDecl(
+          MethodTypeName(
+            NoScopeType(
+             int
+            ) [NoScopeType]
+           main
+          ) [MethodTypeName]
+          NoFormParam(
+          ) [NoFormParam]
+          NoMethVar(
+          ) [NoMethVar]
+          NoStmt(
+          ) [NoStmt]
+        ) [MethodDecl]
+      ) [MethodDeclarations]
+    ) [Namespace]
+  ) [NamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramConstDecl(
+      NoScopeType(
+       bool
+      ) [NoScopeType]
+      SingleConstDecl(
+        ConstDecl(
+         ok
+          BoolConst(
+           true
+          ) [BoolConst]
+        ) [ConstDecl]
+      ) [SingleConstDecl]
+    ) [ProgramConstDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          NoScopeType(
+           bool
+          ) [NoScopeType]
+         funkcija
+        ) [MethodTypeName]
+        NoFormParam(
+        ) [NoFormParam]
+        MethodVars(
+          NoMethVar(
+          ) [NoMethVar]
+          NoScopeType(
+           int
+          ) [NoScopeType]
+          MultipleVarDecls(
+            SingleVarDecl(
+              VarNameDecl(
+               c
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+            VarNameDecl(
+             d
+            ) [VarNameDecl]
+          ) [MultipleVarDecls]
+        ) [MethodVars]
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          PrintStmt(
+            PositiveExpr(
+              SimpleTerm(
+                NumFactor(
+                 3
+                ) [NumFactor]
+              ) [SimpleTerm]
+            ) [PositiveExpr]
+            PrintVar(
+             2
+            ) [PrintVar]
+          ) [PrintStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        NoScopeType(
+         int
+        ) [NoScopeType]
+       testtest
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      MethodVars(
+        NoMethVar(
+        ) [NoMethVar]
+        NoScopeType(
+         int
+        ) [NoScopeType]
+        MultipleVarDecls(
+          SingleVarDecl(
+            VarNameDecl(
+             c
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+          VarNameDecl(
+           d
+          ) [VarNameDecl]
+        ) [MultipleVarDecls]
+      ) [MethodVars]
+      NoStmt(
+      ) [NoStmt]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  12:12:16,605 - Deklarisana promenljiva a na liniji 6
+INFO  12:12:16,605 - Deklarisana promenljiva b na liniji 6
+INFO  12:12:16,605 - Deklarisana konstanta c na liniji 7
+INFO  12:12:16,605 - Obradjuje se funkcija main na liniji 9
+INFO  12:12:16,606 - Deklarisana konstanta ok na liniji 14
+INFO  12:12:16,606 - Obradjuje se funkcija funkcija na liniji 17
+ERROR 12:12:16,606 - Greska: Vec je deklarisano ime c u tabeli simbola u tekucem opsegu! 
+INFO  12:12:16,606 - Deklarisana promenljiva d na liniji 17
+INFO  12:12:16,607 - Obradjuje se funkcija testtest na liniji 22
+ERROR 12:12:16,607 - Greska: Vec je deklarisano ime c u tabeli simbola u tekucem opsegu! 
+INFO  12:12:16,607 - Deklarisana promenljiva d na liniji 22
+INFO  12:12:16,608 -  Print count calls = 0
+INFO  12:12:16,608 -  Deklarisanih promenljivih ima = 0

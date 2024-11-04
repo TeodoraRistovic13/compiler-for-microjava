@@ -1,0 +1,89 @@
+//Test 302
+
+program test302
+
+namespace Unpacking{
+	int a, b;
+	int niz[];
+	int arr[];
+	bool buarr[];
+	{
+		int main(){
+			return 2;
+		}
+	}
+}
+int nizic[];
+const bool ok = false;
+bool pokusaj;
+int dd;
+char slovo;
+{
+
+	void funkcija() int c, d;{
+		
+		nizic[3]++;
+		nizic[3]--;
+		dd++;
+		dd--;
+		Unpacking::niz[dd]++;
+		
+		read(pokusaj);
+		read(Unpacking::a);
+		
+		print(3, 2);
+		
+	}
+	
+	bool testtest2(int param1, int param2, char param3) bool c, d;{
+		return c;
+	}
+	
+	bool testtest(int param1, int param2, char param3) bool c, d;{
+		return c;
+	}
+	
+	int test() bool c;{
+		
+		
+		dd = Unpacking::a*dd;
+		Unpacking::a = Unpacking::a + Unpacking::a*dd;
+		Unpacking::a = -dd;
+		dd = 3;
+		dd =-9;
+		return 3;
+		
+		//ifstmtm
+		if(pokusaj==true){
+			dd++;
+		}else{
+			c=true; 
+		}
+		
+	    
+	}
+	int main()
+		int prvi, drugi;
+		char treci;
+		bool cetvrti;
+		int testNiz[];
+	{
+		testtest2(prvi, drugi, treci);
+		testtest(prvi, drugi, treci);
+		test();
+		
+		for(;;){
+			for(;;){
+				continue;
+			}
+			break;
+			
+		}
+		
+		[prvi, drugi,,nizic[2], *nizic]= testNiz;
+		
+		return 2;
+	}
+	
+}
+

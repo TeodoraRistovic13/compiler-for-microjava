@@ -1,0 +1,191 @@
+INFO  21:49:47,921 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:49:47,989 - #2 program
+INFO  21:49:47,989 - #49 test301
+INFO  21:49:47,989 - #17 namespace
+INFO  21:49:47,990 - #49 Konstante
+INFO  21:49:47,991 - #42 {
+INFO  21:49:47,991 - #6 const
+INFO  21:49:47,992 - #49 int
+INFO  21:49:47,992 - #49 nula
+INFO  21:49:47,993 - #31 =
+INFO  21:49:47,993 - #48 0
+INFO  21:49:47,993 - #34 ;
+INFO  21:49:47,995 - #6 const
+INFO  21:49:47,995 - #49 int
+INFO  21:49:47,995 - #49 jedan
+INFO  21:49:47,996 - #31 =
+INFO  21:49:47,996 - #48 1
+INFO  21:49:47,996 - #34 ;
+INFO  21:49:47,996 - #6 const
+INFO  21:49:47,997 - #49 int
+INFO  21:49:47,997 - #49 pet
+INFO  21:49:47,997 - #31 =
+INFO  21:49:47,997 - #48 5
+INFO  21:49:47,997 - #34 ;
+INFO  21:49:47,997 - #42 {
+INFO  21:49:47,998 - #43 }
+INFO  21:49:47,999 - #43 }
+INFO  21:49:47,999 - #17 namespace
+INFO  21:49:48,000 - #49 Nizovi
+INFO  21:49:48,000 - #42 {
+INFO  21:49:48,001 - #49 int
+INFO  21:49:48,001 - #49 niz
+INFO  21:49:48,001 - #40 [
+INFO  21:49:48,001 - #41 ]
+INFO  21:49:48,001 - #34 ;
+INFO  21:49:48,002 - #49 char
+INFO  21:49:48,002 - #49 nizch
+INFO  21:49:48,002 - #40 [
+INFO  21:49:48,002 - #41 ]
+INFO  21:49:48,002 - #34 ;
+INFO  21:49:48,003 - #42 {
+INFO  21:49:48,003 - #43 }
+INFO  21:49:48,003 - #43 }
+INFO  21:49:48,004 - #49 int
+INFO  21:49:48,005 - #49 a
+INFO  21:49:48,006 - #34 ;
+INFO  21:49:48,006 - #42 {
+INFO  21:49:48,007 - #12 void
+INFO  21:49:48,007 - #49 main
+INFO  21:49:48,008 - #38 (
+INFO  21:49:48,008 - #39 )
+INFO  21:49:48,010 - #49 int
+INFO  21:49:48,012 - #49 bodovi
+INFO  21:49:48,012 - #34 ;
+INFO  21:49:48,012 - #42 {
+INFO  21:49:48,013 - #43 }
+INFO  21:49:48,014 - #43 }
+INFO  21:49:48,018 - Program(
+ test301
+  NamespaceList(
+    NamespaceList(
+      NoNamespaceList(
+      ) [NoNamespaceList]
+      Namespace(
+       Konstante
+        NamespaceDecls(
+          NamespaceDecls(
+            NamespaceDecls(
+              NoNamespaceDecls(
+              ) [NoNamespaceDecls]
+              NamespaceConstDecl(
+                NoScopeType(
+                 int
+                ) [NoScopeType]
+                SingleConstDecl(
+                  ConstDecl(
+                   nula
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstDecl]
+                ) [SingleConstDecl]
+              ) [NamespaceConstDecl]
+            ) [NamespaceDecls]
+            NamespaceConstDecl(
+              NoScopeType(
+               int
+              ) [NoScopeType]
+              SingleConstDecl(
+                ConstDecl(
+                 jedan
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstDecl]
+              ) [SingleConstDecl]
+            ) [NamespaceConstDecl]
+          ) [NamespaceDecls]
+          NamespaceConstDecl(
+            NoScopeType(
+             int
+            ) [NoScopeType]
+            SingleConstDecl(
+              ConstDecl(
+               pet
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [ConstDecl]
+            ) [SingleConstDecl]
+          ) [NamespaceConstDecl]
+        ) [NamespaceDecls]
+        NoMethodDecl(
+        ) [NoMethodDecl]
+      ) [Namespace]
+    ) [NamespaceList]
+    Namespace(
+     Nizovi
+      NamespaceDecls(
+        NamespaceDecls(
+          NoNamespaceDecls(
+          ) [NoNamespaceDecls]
+          NamespaceVarDecl(
+            NoScopeType(
+             int
+            ) [NoScopeType]
+            SingleVarDecl(
+              VarArray(
+               niz
+              ) [VarArray]
+            ) [SingleVarDecl]
+          ) [NamespaceVarDecl]
+        ) [NamespaceDecls]
+        NamespaceVarDecl(
+          NoScopeType(
+           char
+          ) [NoScopeType]
+          SingleVarDecl(
+            VarArray(
+             nizch
+            ) [VarArray]
+          ) [SingleVarDecl]
+        ) [NamespaceVarDecl]
+      ) [NamespaceDecls]
+      NoMethodDecl(
+      ) [NoMethodDecl]
+    ) [Namespace]
+  ) [NamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramVarDecl(
+      NoScopeType(
+       int
+      ) [NoScopeType]
+      SingleVarDecl(
+        VariableDecl(
+         a
+        ) [VariableDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidRet(
+      ) [VoidRet]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      MethodVars(
+        NoMethVar(
+        ) [NoMethVar]
+        NoScopeType(
+         int
+        ) [NoScopeType]
+        SingleVarDecl(
+          VariableDecl(
+           bodovi
+          ) [VariableDecl]
+        ) [SingleVarDecl]
+      ) [MethodVars]
+      NoStmt(
+      ) [NoStmt]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  21:49:48,018 - ===================================
+INFO  21:49:48,022 -  Print count calls = 0
+INFO  21:49:48,022 -  Deklarisanih promenljivih ima = 0

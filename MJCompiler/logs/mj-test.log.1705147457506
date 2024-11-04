@@ -1,0 +1,212 @@
+INFO  13:03:55,298 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  13:03:55,373 - #2 program
+INFO  13:03:55,373 - #47 MJProgram
+INFO  13:03:55,374 - #47 int
+INFO  13:03:55,378 - #47 x
+INFO  13:03:55,380 - #34 ;
+INFO  13:03:55,381 - #47 bool
+INFO  13:03:55,383 - #47 uslov
+INFO  13:03:55,383 - #34 ;
+INFO  13:03:55,384 - #47 char
+INFO  13:03:55,385 - #47 c
+INFO  13:03:55,385 - #34 ;
+INFO  13:03:55,386 - #47 int
+INFO  13:03:55,386 - #47 a
+INFO  13:03:55,387 - #40 [
+INFO  13:03:55,387 - #41 ]
+INFO  13:03:55,387 - #34 ;
+INFO  13:03:55,387 - #47 char
+INFO  13:03:55,388 - #47 b
+INFO  13:03:55,388 - #40 [
+INFO  13:03:55,388 - #41 ]
+INFO  13:03:55,389 - #34 ;
+INFO  13:03:55,389 - #47 bool
+INFO  13:03:55,389 - #47 c
+INFO  13:03:55,389 - #40 [
+INFO  13:03:55,390 - #41 ]
+INFO  13:03:55,390 - #34 ;
+INFO  13:03:55,390 - #42 {
+INFO  13:03:55,390 - #12 void
+INFO  13:03:55,392 - #47 main
+INFO  13:03:55,393 - #38 (
+INFO  13:03:55,394 - #39 )
+INFO  13:03:55,396 - #42 {
+INFO  13:03:55,397 - #47 x
+INFO  13:03:55,398 - #31 =
+INFO  13:03:55,398 - #46 3
+INFO  13:03:55,398 - #34 ;
+INFO  13:03:55,399 - #47 x
+INFO  13:03:55,399 - #31 =
+INFO  13:03:55,400 - #49 a
+INFO  13:03:55,400 - #34 ;
+INFO  13:03:55,401 - #47 x
+INFO  13:03:55,401 - #31 =
+INFO  13:03:55,404 - #48 true
+INFO  13:03:55,404 - #34 ;
+INFO  13:03:55,404 - #11 return
+INFO  13:03:55,405 - #34 ;
+INFO  13:03:55,405 - #43 }
+INFO  13:03:55,406 - #43 }
+INFO  13:03:55,417 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    ProgramDecls(
+      ProgramDecls(
+        ProgramDecls(
+          ProgramDecls(
+            ProgramDecls(
+              NoProgramDecls(
+              ) [NoProgramDecls]
+              ProgramVarDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleVarDecl(
+                  VarNameDecl(
+                   x
+                  ) [VarNameDecl]
+                ) [SingleVarDecl]
+              ) [ProgramVarDecl]
+            ) [ProgramDecls]
+            ProgramVarDecl(
+              Type(
+               bool
+              ) [Type]
+              SingleVarDecl(
+                VarNameDecl(
+                 uslov
+                ) [VarNameDecl]
+              ) [SingleVarDecl]
+            ) [ProgramVarDecl]
+          ) [ProgramDecls]
+          ProgramVarDecl(
+            Type(
+             char
+            ) [Type]
+            SingleVarDecl(
+              VarNameDecl(
+               c
+              ) [VarNameDecl]
+            ) [SingleVarDecl]
+          ) [ProgramVarDecl]
+        ) [ProgramDecls]
+        ProgramVarDecl(
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarArrayNameDecl(
+             a
+            ) [VarArrayNameDecl]
+          ) [SingleVarDecl]
+        ) [ProgramVarDecl]
+      ) [ProgramDecls]
+      ProgramVarDecl(
+        Type(
+         char
+        ) [Type]
+        SingleVarDecl(
+          VarArrayNameDecl(
+           b
+          ) [VarArrayNameDecl]
+        ) [SingleVarDecl]
+      ) [ProgramVarDecl]
+    ) [ProgramDecls]
+    ProgramVarDecl(
+      Type(
+       bool
+      ) [Type]
+      SingleVarDecl(
+        VarArrayNameDecl(
+         c
+        ) [VarArrayNameDecl]
+      ) [SingleVarDecl]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoMethVar(
+      ) [NoMethVar]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              NoStmt(
+              ) [NoStmt]
+              DesignatorStmt(
+                DesigStmtActions(
+                  DesigVar(
+                   x
+                  ) [DesigVar]
+                  AssignExpr(
+                    PosTermExpr(
+                      FactorTerm(
+                        NumFactor(
+                         3
+                        ) [NumFactor]
+                      ) [FactorTerm]
+                    ) [PosTermExpr]
+                  ) [AssignExpr]
+                ) [DesigStmtActions]
+              ) [DesignatorStmt]
+            ) [Statements]
+            DesignatorStmt(
+              DesigStmtActions(
+                DesigVar(
+                 x
+                ) [DesigVar]
+                AssignExpr(
+                  PosTermExpr(
+                    FactorTerm(
+                      CharFactor(
+                       a
+                      ) [CharFactor]
+                    ) [FactorTerm]
+                  ) [PosTermExpr]
+                ) [AssignExpr]
+              ) [DesigStmtActions]
+            ) [DesignatorStmt]
+          ) [Statements]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               x
+              ) [DesigVar]
+              AssignExpr(
+                PosTermExpr(
+                  FactorTerm(
+                    BoolFactor(
+                     true
+                    ) [BoolFactor]
+                  ) [FactorTerm]
+                ) [PosTermExpr]
+              ) [AssignExpr]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        ReturnNoExpr(
+        ) [ReturnNoExpr]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  13:03:55,426 - Deklarisana promenljiva x na liniji 2
+INFO  13:03:55,426 - Deklarisana promenljiva uslov na liniji 3
+INFO  13:03:55,426 - Deklarisana promenljiva c na liniji 4
+INFO  13:03:55,426 - Deklarisana promenljiva a na liniji 5
+INFO  13:03:55,426 - Deklarisana promenljiva b na liniji 6
+ERROR 13:03:55,426 - Greska na liniji 7: vec je deklarisano ime 'c' u tabeli simbola!
+INFO  13:03:55,426 - Obradjuje se funkcija main na liniji 9

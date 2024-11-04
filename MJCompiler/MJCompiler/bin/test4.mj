@@ -1,0 +1,40 @@
+//Test Statements..
+//if, ifElse, Condition, CondFact, CondTerm, Expr, Factor...
+
+program test4
+
+
+const int N = 10;
+{
+
+	bool test1(){
+	
+		return true;
+	}
+	
+	bool test2(){
+	
+		return false;
+	}
+	
+	void main()
+		bool uslov1, uslov2;
+		int i;
+	{
+		uslov1 = test1();
+		uslov2 = test2();
+		if(uslov1 || uslov2 || i == 3){
+			print(i);
+		}
+		
+		if(uslov1 || uslov2 && i > 3){
+			print(i - 1);
+		}
+		
+		i = -3 * 5 + 2 * 4;
+		print(i);
+	}
+	
+	
+}
+

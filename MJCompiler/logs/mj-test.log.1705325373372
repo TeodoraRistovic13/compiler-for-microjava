@@ -1,0 +1,265 @@
+INFO  14:28:37,814 - Compiling source file: C:\Users\Zoki\Desktop\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  14:28:37,887 - #2 program
+INFO  14:28:37,887 - #48 test301
+INFO  14:28:37,888 - #48 int
+INFO  14:28:37,891 - #48 a
+INFO  14:28:37,892 - #36 ,
+INFO  14:28:37,893 - #48 i
+INFO  14:28:37,893 - #34 ;
+INFO  14:28:37,893 - #42 {
+INFO  14:28:37,893 - #12 void
+INFO  14:28:37,895 - #48 main
+INFO  14:28:37,897 - #38 (
+INFO  14:28:37,899 - #39 )
+INFO  14:28:37,900 - #48 int
+INFO  14:28:37,902 - #48 bodovi
+INFO  14:28:37,902 - #34 ;
+INFO  14:28:37,902 - #48 bool
+INFO  14:28:37,903 - #48 bt
+INFO  14:28:37,903 - #34 ;
+INFO  14:28:37,903 - #42 {
+INFO  14:28:37,903 - #48 i
+INFO  14:28:37,904 - #31 =
+INFO  14:28:37,909 - #47 0
+INFO  14:28:37,909 - #34 ;
+INFO  14:28:37,910 - #15 for
+INFO  14:28:37,910 - #38 (
+INFO  14:28:37,910 - #34 ;
+INFO  14:28:37,913 - #48 i
+INFO  14:28:37,914 - #27 <
+INFO  14:28:37,914 - #47 3
+INFO  14:28:37,916 - #34 ;
+INFO  14:28:37,916 - #39 )
+INFO  14:28:37,918 - #42 {
+INFO  14:28:37,918 - #7 if
+INFO  14:28:37,918 - #38 (
+INFO  14:28:37,918 - #48 i
+INFO  14:28:37,918 - #23 ==
+INFO  14:28:37,918 - #47 5
+INFO  14:28:37,919 - #39 )
+INFO  14:28:37,920 - #42 {
+INFO  14:28:37,920 - #3 break
+INFO  14:28:37,920 - #34 ;
+INFO  14:28:37,920 - #43 }
+INFO  14:28:37,922 - #5 else
+INFO  14:28:37,923 - #42 {
+INFO  14:28:37,923 - #9 print
+INFO  14:28:37,923 - #38 (
+INFO  14:28:37,923 - #48 i
+INFO  14:28:37,924 - #39 )
+INFO  14:28:37,924 - #34 ;
+INFO  14:28:37,925 - #9 print
+INFO  14:28:37,925 - #38 (
+INFO  14:28:37,925 - #46 eol
+INFO  14:28:37,926 - #39 )
+INFO  14:28:37,926 - #34 ;
+INFO  14:28:37,926 - #48 i
+INFO  14:28:37,927 - #32 ++
+INFO  14:28:37,927 - #34 ;
+INFO  14:28:37,929 - #43 }
+INFO  14:28:37,930 - #43 }
+INFO  14:28:37,931 - #43 }
+INFO  14:28:37,933 - #43 }
+INFO  14:28:37,941 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NoNamespaceList(
+  ) [NoNamespaceList]
+  ProgramDecls(
+    NoProgramDecls(
+    ) [NoProgramDecls]
+    ProgramVarDecl(
+      Type(
+       int
+      ) [Type]
+      MultipleVarDecls(
+        SingleVarDecl(
+          VarNameDecl(
+           a
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+        VarNameDecl(
+         i
+        ) [VarNameDecl]
+      ) [MultipleVarDecls]
+    ) [ProgramVarDecl]
+  ) [ProgramDecls]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodTypeName(
+        MethRetVoid(
+        ) [MethRetVoid]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      MethodVars(
+        MethodVars(
+          NoMethVar(
+          ) [NoMethVar]
+          Type(
+           int
+          ) [Type]
+          SingleVarDecl(
+            VarNameDecl(
+             bodovi
+            ) [VarNameDecl]
+          ) [SingleVarDecl]
+        ) [MethodVars]
+        Type(
+         bool
+        ) [Type]
+        SingleVarDecl(
+          VarNameDecl(
+           bt
+          ) [VarNameDecl]
+        ) [SingleVarDecl]
+      ) [MethodVars]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          DesignatorStmt(
+            DesigStmtActions(
+              DesigVar(
+               i
+              ) [DesigVar]
+              AssignExpr(
+                PosTermExpr(
+                  FactorTerm(
+                    NumFactor(
+                     0
+                    ) [NumFactor]
+                  ) [FactorTerm]
+                ) [PosTermExpr]
+              ) [AssignExpr]
+            ) [DesigStmtActions]
+          ) [DesignatorStmt]
+        ) [Statements]
+        ForLoop(
+          NoForDesigStmt(
+          ) [NoForDesigStmt]
+          ForCondFactExpr(
+            RelOpCondFact(
+              PosTermExpr(
+                FactorTerm(
+                  VarFactor(
+                    DesigVar(
+                     i
+                    ) [DesigVar]
+                  ) [VarFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+              LssOp(
+              ) [LssOp]
+              PosTermExpr(
+                FactorTerm(
+                  NumFactor(
+                   3
+                  ) [NumFactor]
+                ) [FactorTerm]
+              ) [PosTermExpr]
+            ) [RelOpCondFact]
+          ) [ForCondFactExpr]
+          ForLoopStmts(
+            NoForDesigStmt(
+            ) [NoForDesigStmt]
+          ) [ForLoopStmts]
+          ForLoopBody(
+            ComplexStm(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                IfElseStmt(
+                  ConditionCondTerm(
+                    CondTermFact(
+                      RelOpCondFact(
+                        PosTermExpr(
+                          FactorTerm(
+                            VarFactor(
+                              DesigVar(
+                               i
+                              ) [DesigVar]
+                            ) [VarFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                        EqlOp(
+                        ) [EqlOp]
+                        PosTermExpr(
+                          FactorTerm(
+                            NumFactor(
+                             5
+                            ) [NumFactor]
+                          ) [FactorTerm]
+                        ) [PosTermExpr]
+                      ) [RelOpCondFact]
+                    ) [CondTermFact]
+                  ) [ConditionCondTerm]
+                  IfStatement(
+                    ComplexStm(
+                      Statements(
+                        NoStmt(
+                        ) [NoStmt]
+                        BreakStmt(
+                        ) [BreakStmt]
+                      ) [Statements]
+                    ) [ComplexStm]
+                  ) [IfStatement]
+                  ElseStatement(
+                    ComplexStm(
+                      Statements(
+                        Statements(
+                          Statements(
+                            NoStmt(
+                            ) [NoStmt]
+                            PrintStmt(
+                              PosTermExpr(
+                                FactorTerm(
+                                  VarFactor(
+                                    DesigVar(
+                                     i
+                                    ) [DesigVar]
+                                  ) [VarFactor]
+                                ) [FactorTerm]
+                              ) [PosTermExpr]
+                              NoPrintVar(
+                              ) [NoPrintVar]
+                            ) [PrintStmt]
+                          ) [Statements]
+                          PrintStmtEol(
+                          ) [PrintStmtEol]
+                        ) [Statements]
+                        DesignatorStmt(
+                          DesigStmtActions(
+                            DesigVar(
+                             i
+                            ) [DesigVar]
+                            DesigInc(
+                            ) [DesigInc]
+                          ) [DesigStmtActions]
+                        ) [DesignatorStmt]
+                      ) [Statements]
+                    ) [ComplexStm]
+                  ) [ElseStatement]
+                ) [IfElseStmt]
+              ) [Statements]
+            ) [ComplexStm]
+          ) [ForLoopBody]
+        ) [ForLoop]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  14:28:37,948 - Deklarisana promenljiva a na liniji 5
+INFO  14:28:37,948 - Deklarisana promenljiva i na liniji 5
+INFO  14:28:37,949 - Obradjuje se funkcija main na liniji 8
+INFO  14:28:37,949 - Deklarisana promenljiva bodovi na liniji 9
+INFO  14:28:37,949 - Deklarisana promenljiva bt na liniji 10
+INFO  14:28:37,951 - Obradjuje se for petlja na liniji: 13 na liniji 13
+INFO  14:28:37,951 - Pronadjen break na liniji: 0
+INFO  14:28:37,952 -  Print count calls = 0
+INFO  14:28:37,952 -  Deklarisanih promenljivih ima = 0
+INFO  14:28:37,963 - Uspesna semanticka analiza!!
